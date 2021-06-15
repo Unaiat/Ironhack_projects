@@ -1,0 +1,15 @@
+plotly==4.14.3
+spacy==3.0.6
+numpy==1.19.5
+pandas==1.1.5
+wordcloud==1.8.1
+matplotlib==3.3.4
+requests==2.25.1
+beautifulsoup4==4.9.3
+nltk==3.6.2
+Pillow==8.2.0
+python-dotenv==0.17.1
+selenium==3.141.0
+SQLAlchemy==1.4.15
+textblob==0.15.3
+streamlit==0.82.0

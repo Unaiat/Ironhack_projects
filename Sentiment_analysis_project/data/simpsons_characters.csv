@@ -1,0 +1,6209 @@
+character_id,raw_character_text
+1.0,Marge Simpson
+2.0,Homer Simpson
+3.0,Seymour Skinner
+4.0,JANEY
+5.0,Todd Flanders
+6.0,Dewey Largo
+7.0,Children
+8.0,Bart Simpson
+9.0,Lisa Simpson
+10.0,Patty Bouvier
+11.0,Ned Flanders
+12.0,Mechanical Santa
+13.0,Tattoo Man
+14.0,Waylon Smithers
+15.0,C. Montgomery Burns
+16.0,DOCTOR ZITSOFSKY
+17.0,Moe Szyslak
+18.0,Barney Gumble
+19.0,Interviewer
+20.0,Students
+21.0,Teacher
+22.0,Selma Bouvier
+23.0,Voice
+24.0,Little Boy
+25.0,Milhouse Van Houten
+26.0,Lewis Clark
+27.0,Little Girl
+28.0,Clerk
+29.0,Bubbles
+30.0,Moldy
+31.0,Grampa Simpson
+32.0,Father
+33.0,Announcer
+34.0,Ticket Seller
+35.0,Elf #1
+36.0,Elves
+37.0,Dog's Owner
+38.0,Martin Prince
+39.0,Kids
+40.0,Edna Krabappel-Flanders
+41.0,Conductor
+42.0,Secretary
+43.0,Dr. J. Loren Pyror
+44.0,Ms. Melon
+45.0,Ethan Foley
+46.0,Sydney
+47.0,Cecile Shapiro
+48.0,Ian
+49.0,Calvin
+50.0,"Martin Prince, Sr."
+51.0,Richard
+52.0,Otto Mann
+53.0,Wendell Borton
+54.0,Sherri Mackleberry
+55.0,Terri Mackleberry
+56.0,Narrator
+57.0,Smilin' Joe Fission
+58.0,Rod #1
+59.0,Rod #2
+60.0,RODS
+61.0,Workman #1
+62.0,Foreman
+63.0,TERRI & SHERRI
+64.0,PUNK TEENAGER
+65.0,Tv Announcer #1
+66.0,Tv Announcer #2
+67.0,Jingle Chorus
+68.0,Sylvia Winfield
+69.0,Old Man Winfield
+70.0,Councilman #1
+71.0,Chief Wiggum
+72.0,Councilman #2
+73.0,COUNCILMEN #1#2
+74.0,Demonstrator #1
+75.0,Crowd
+76.0,MR. GAMMILL
+77.0,TOM
+78.0,Mrs. Long
+79.0,Wife #1
+80.0,Wife #2
+81.0,Other Women
+82.0,Nice Father
+83.0,Nice Boy
+84.0,NICE GIRL
+85.0,Nice Mother
+86.0,NICE FAMILY
+87.0,Williams Boy
+88.0,Mr. Williams
+89.0,BOXING ANNOUNCER
+90.0,Eddie
+91.0,Lou
+92.0,TV-STATION ANNOUNCER
+93.0,Tv Wife
+94.0,Tv Husband
+95.0,Small Boy
+96.0,Dr. Marvin Monroe
+97.0,Pawn Broker
+98.0,Receptionist
+99.0,Homer-ish Husband
+100.0,Weasel #1
+101.0,Nelson Muntz
+102.0,ALL AT THE TABLE
+103.0,Kid
+104.0,Weasel #2
+105.0,Maggie Simpson
+106.0,Homer's Image
+107.0,Elderly Gentleman
+108.0,Herman Hermann
+109.0,All
+110.0,Ms. Barr
+111.0,Bleeding Gums Murphy
+112.0,Jacqueline Bouvier
+113.0,Newsman
+114.0,Barflies
+115.0,Cashier
+116.0,Boy Onlooker
+117.0,Champ
+118.0,Woman
+119.0,Ralph Wiggum
+120.0,Stan
+121.0,Rod Flanders
+122.0,NED
+123.0,Cowboy Bob
+124.0,Salesman
+125.0,Homer's Canyon Echo
+126.0,Camper Father
+127.0,Camper Mother
+128.0,Photographer
+129.0,Game Warden
+130.0,Reporter #1
+131.0,Reporter #2
+132.0,Flunky
+133.0,Map Boy
+134.0,Man #1
+135.0,Man #2
+136.0,German Scientist
+137.0,Beautiful French Scientist
+138.0,English Scientist
+139.0,Krusty the Clown
+140.0,Rev. Timothy Lovejoy
+141.0,Announcer #1
+142.0,Radio Announcer #1
+143.0,Churchgoing Woman
+144.0,Jimbo Jones
+145.0,Kearney Zzyzwicz
+146.0,DOLPH
+147.0,Girl On Screen
+148.0,Boy On Screen
+149.0,Usher
+150.0,Mr. Dandy
+151.0,Radio Announcer #3
+152.0,Jebediah Springfield
+153.0,Sideshow Bob
+154.0,TV ANNOUNCER #3 CONT'D
+155.0,Mob
+156.0,Security Guard
+158.0,1st Waiter Quartet
+159.0,2nd Waiter Quartet
+160.0,3rd Waiter Quartet
+161.0,4TH QUARTET OF WAITERS
+162.0,Counter Guy
+163.0,Jacques
+164.0,HELEN
+165.0,Lenny Leonard
+166.0,Another Worker
+167.0,Female Mail Carrier
+168.0,Mr. Fisk
+169.0,Eugene Fisk
+170.0,Carl Carlson
+171.0,Waiter
+172.0,Workers
+173.0,Princess Kashmir
+174.0,Hoyt
+175.0,Girl #1
+176.0,Boy #1
+177.0,All Kids
+178.0,Freddie
+179.0,Lewis's Dad
+180.0,Al
+181.0,Happy Man
+182.0,Funky Guy
+183.0,Manager
+184.0,Man At Door
+185.0,Ticket-seller
+186.0,Stage Manager
+187.0,Gulliver Dark
+188.0,Theatre-goer #1
+189.0,Theatre-goer #2
+190.0,Theatre-goer #3
+191.0,Krusty Doll
+192.0,Agnes Skinner
+193.0,Steward
+194.0,Mother
+195.0,Adil Hoxha
+196.0,UGOLIN
+197.0,Cesar
+198.0,Male Announcer
+199.0,Military Man
+200.0,MARGE & BART
+201.0,Gendarme
+202.0,Cia Agent #1
+203.0,Cia Agent #2
+204.0,Brad
+205.0,Female Announcer
+206.0,Brittany
+207.0,ITCHY & SCRATCHY CHORUS
+208.0,Apu Nahasapeemapetilon
+209.0,Police Artist
+210.0,Scott Christian
+211.0,Kent Brockman
+212.0,Reporter #3
+213.0,Lawyer
+214.0,Judge Snyder
+215.0,District Attorney
+216.0,Merchant
+217.0,Foreperson
+218.0,Director
+219.0,Merchandiser #1
+220.0,Merchandiser #3
+221.0,Kbbl Weatherman
+222.0,Arnie Pye
+223.0,Radio Announcer
+224.0,Screener
+225.0,Worker One
+226.0,Florist
+227.0,Lucille Botzcowski
+228.0,Maitre D'
+229.0,Doofy
+230.0,U-Squeal Operator
+231.0,Tv Reporter
+233.0,Bart's Voice
+234.0,Krabappel's Mouth
+235.0,GRANDMA
+236.0,Nurse Farrell
+237.0,Nurse
+238.0,Marty
+239.0,Bill
+240.0,Mayor Joe Quimby
+241.0,Entire Town
+242.0,Thomas Jefferson
+243.0,John Adams
+244.0,Samuel Chase
+245.0,Roger Sherman
+246.0,Benjamin Franklin
+247.0,Tv Host
+248.0,Tv Contestant
+249.0,Good-looking Man
+250.0,Dr. H. Boyle
+251.0,Mr. Winfield
+252.0,Mourners
+253.0,Other Runner
+254.0,Jake
+255.0,Woman Applicant
+256.0,Karl
+257.0,Man In Tuxedo
+258.0,Executive #1
+259.0,Executive #3
+260.0,Moving Man
+261.0,House
+262.0,Kang
+263.0,Serak The Preparer
+264.0,Kodos
+265.0,V.O.
+266.0,Raven
+267.0,Dave Shutton
+268.0,Chief Inspector
+269.0,Dean Danielson
+270.0,DANIELSON
+271.0,DANEILSON
+272.0,TV Announcer
+273.0,Jasper Beardly
+274.0,OLD BEARDED GUY
+275.0,Charles Darwin
+276.0,Singers
+277.0,MARY BAILEY
+278.0,Investigator #1
+279.0,Investigator #2
+280.0,Investigator #3
+281.0,Make-up Man
+282.0,Gregor
+283.0,GAMMILL
+284.0,FLASH
+285.0,Player #1
+286.0,P.A. Announcer
+288.0,Dan Hoard
+289.0,Vendor
+290.0,VENDER
+291.0,MR. O'HARA
+292.0,Man On Bus
+293.0,Player #2
+294.0,Rasta #1
+295.0,Rasta #2
+296.0,Supervisor
+297.0,Tony Bennett
+298.0,Capital City Goofball
+299.0,Dave Glass
+300.0,First Wife #3
+301.0,First Wife #1
+302.0,Hot Dog Man
+303.0,Spectator #1
+304.0,Spectator #2
+305.0,Spectator #3
+306.0,Clubhouse Attendant
+307.0,Dave Rosenfield
+308.0,Maude Flanders
+309.0,Helen Lovejoy
+310.0,Librarian
+311.0,Man
+312.0,SENIOR CITIZENS
+313.0,British Commentator
+314.0,Announcer #2
+315.0,Mrs. Spencer
+316.0,Security Guard #1
+317.0,Casey
+318.0,Rory
+319.0,Transient
+320.0,Uncle Sam
+321.0,Audience
+322.0,Tv Voice #1
+323.0,Tv Voice #2
+324.0,Tv Voice #3
+325.0,ALL THREE TV VOICES
+326.0,ALL 3 ANNOUNCERS
+327.0,LARGO
+328.0,SCRAPER
+329.0,CLARK
+330.0,Track Announcer
+331.0,MURDOCK
+332.0,Dr. Julius Hibbert
+333.0,SMYTHE
+334.0,Itchy & Scratchy Singers
+335.0,"Roger Meyers, Jr."
+336.0,Her Group
+337.0,Animator
+338.0,1ST BOARD MEMBER
+339.0,2nd Board Member
+340.0,Squirrel
+342.0,Scratchy
+343.0,Itchy
+344.0,Curator
+345.0,Reporter
+346.0,Devil
+347.0,Lionel Hutz
+348.0,Della
+349.0,Dr. Nick Riviera
+350.0,Bailiff
+351.0,Blue-Haired Lawyer
+352.0,BURNS LAWYER
+353.0,Larry
+354.0,Sushi Bar Chefs
+355.0,Hostess
+356.0,Akira
+357.0,Toshiro
+358.0,Master
+359.0,Richie Sakai
+360.0,Cellmate
+361.0,Crazy Calls
+362.0,Smitty
+363.0,Larry King
+364.0,LARRY KING V.O.
+365.0,Bald One
+366.0,Police Captain
+368.0,Fat One
+369.0,Kim
+370.0,Principal Dondelinger
+371.0,Estelle
+372.0,MCINTYRE
+373.0,Artie Ziff
+374.0,Mrs. Bloominstein
+375.0,Coach Flanagan
+376.0,Mr. Seckofsky
+377.0,Mr. Bouvier
+378.0,Chauffeur
+379.0,PRINCIPAL
+380.0,Homer The Thief
+381.0,Hezron
+382.0,Zohar
+383.0,Moses
+384.0,Cable Guy
+385.0,Comic
+386.0,Woman #1
+387.0,Woman #2
+388.0,Mexican Announcer
+389.0,Representative
+390.0,Cockfight Announcer
+391.0,Davey
+392.0,Goliath
+394.0,Panelist #1
+395.0,Blockbuster Announcer
+396.0,Top Hat Announcer
+397.0,Stock Reporter
+398.0,Boxing Announcer #1
+399.0,Boxing Announcer #2
+400.0,Challenger
+401.0,Referee
+402.0,Kindly Old Gent
+403.0,Stanley
+404.0,Groundskeeper Willie
+405.0,Busboy
+406.0,Australian Boy
+407.0,Australian Girl
+408.0,Jeweler
+409.0,Senator Mendoza
+410.0,Board Member
+411.0,Female Commando
+412.0,Theatre Manager
+413.0,Floozy
+414.0,Mona Simpson
+416.0,Attendant
+417.0,HERB
+418.0,Policeman
+419.0,Executive #2
+420.0,Head Engineer
+421.0,Engineer #2
+422.0,Engineer #3
+423.0,Female Singer
+424.0,Counter Man
+425.0,Flanders's Thoughts
+426.0,TROY
+427.0,Emily
+428.0,Kelly
+429.0,Jack
+430.0,Father McGrath
+431.0,Salesboy
+432.0,Hula Woman
+433.0,Farmer
+434.0,BEA
+435.0,Checker
+436.0,Guard
+437.0,Tracker
+438.0,Mr. Hazelwood
+439.0,Cabbie
+440.0,KENT
+441.0,MONROE
+442.0,Professor Jonathan Frink
+443.0,Old Man Daly
+444.0,Old Man McGrath
+445.0,Plato
+446.0,Croupier
+447.0,Recorded Announcer
+448.0,Old Woman In Line
+449.0,Monitor #1
+450.0,Monitor #2
+451.0,Female Newscaster
+452.0,Mr. Schindler
+453.0,Student
+454.0,Registrar
+455.0,Professor Lombardo
+456.0,BART & LISA
+457.0,Artist
+458.0,Delivery Man
+459.0,MR. BURNS' GEOMETRIC SHAPES
+460.0,RINGO
+461.0,WETHERBY
+462.0,MRS. HOOVER
+463.0,Chuck
+464.0,Miss Hoover
+465.0,BERGSTROM
+466.0,Classmate
+467.0,Terrisherri
+468.0,Woman In Booth
+469.0,Landlady
+470.0,Kid Reporter
+471.0,Husband Of Marge's Friend
+472.0,Sophisticate #1
+473.0,Sophisticate #2
+474.0,Sophisticate #3
+475.0,Sultan
+476.0,Worm Man
+477.0,Gloria
+478.0,John
+479.0,Captain
+480.0,Convict
+481.0,Customer
+482.0,DIAMOND JOE
+483.0,Lost And Found Guy
+484.0,Radioactive Man
+485.0,Fallout Boy
+486.0,Convention Director
+487.0,BUDDY
+488.0,Dealer
+489.0,Young Patty
+490.0,Young Selma
+492.0,Older Patty
+493.0,Older Selma
+494.0,Adult Narrator
+495.0,Teller
+496.0,Mrs. Glick
+497.0,Asa
+498.0,Soap Actress
+499.0,Soap Actor
+500.0,Osvaldo
+501.0,Mail Person
+502.0,Roman
+503.0,Postal Worker
+505.0,Joey
+506.0,Guard #1
+507.0,Guard #2
+508.0,Host
+509.0,Psychiatrist
+510.0,Orderly
+511.0,Michael
+512.0,Floyd
+513.0,Bart's Head
+514.0,Wiseguy
+515.0,Voice On Phone
+516.0,Doctor
+517.0,Dave
+518.0,Snake Jailbird
+519.0,Leon Kompowsky
+520.0,Minnesota Girl
+521.0,Alabama Boy
+522.0,QUEENS BOY
+523.0,Female Judge
+524.0,Dad
+525.0,Flight Attendant
+526.0,Pilot
+527.0,Irs Man
+528.0,Hotel Guest
+529.0,Miss Crowley
+530.0,Truongmaria
+531.0,TRUONG
+532.0,MARIA
+533.0,BARBARA
+534.0,Worker
+535.0,Guide
+536.0,Lobbyist
+537.0,Arnold
+538.0,Newlywed Wife
+539.0,White Trash Woman #1
+540.0,Man #3
+541.0,Old Timer
+542.0,Guy
+543.0,Songster
+544.0,Page
+545.0,Senator
+546.0,Oil Developer
+547.0,Agent
+548.0,Speaker
+549.0,Majority Leader
+550.0,Everyone Else
+551.0,President
+552.0,Foreign Dignitary
+553.0,Paper Boy
+554.0,Sportscaster #1
+555.0,Girl
+556.0,Neighborhood Guy
+557.0,Homemaker
+558.0,Landscaper
+559.0,Choreographer
+560.0,George Washington
+561.0,Video Voice
+562.0,Man Shopper
+563.0,HOMER (CONT'D
+564.0,Collection Agent
+565.0,Wife
+566.0,Shoppers
+567.0,Executive
+568.0,Fat Tony
+569.0,Legs
+570.0,Louie
+571.0,Race Announcer
+572.0,Jack Larson
+573.0,Fbi Agent #1
+574.0,Fbi Agent #2
+575.0,Rival Gang Leader
+576.0,Psychic
+577.0,Skinner Body
+578.0,Prosecuting Attorney
+579.0,Joe
+580.0,Neil
+581.0,Calm Woman
+582.0,Mr. Devereaux
+583.0,Margarita
+584.0,Program Voices
+585.0,Instructor
+586.0,Female Worker
+587.0,Male Worker
+588.0,Contestant
+589.0,Magic Johnson
+590.0,Aristotle
+591.0,Luann Van Houten
+592.0,Thought Bubble Barney
+593.0,Female Voice
+594.0,SCOTT
+595.0,Miss Lois Pennycandy
+596.0,Sexy Female Recording
+597.0,PENNYCANDY
+598.0,Rabbi Hyman Krustofsky
+600.0,Rabbi #1
+601.0,Rowdy Rabbi
+602.0,Martian
+603.0,D.J.
+604.0,Caller
+605.0,MONSIGNOR DALEY
+606.0,Yiddle
+607.0,Rabbi #2
+608.0,Waitress
+609.0,Stagehand
+610.0,Airport Announcer
+611.0,Customs Agent
+613.0,English Diplomat
+614.0,Argentine Diplomat
+615.0,Colonel
+616.0,Female Office Worker
+617.0,Male Office Worker
+618.0,Townspeople
+619.0,Patrons
+620.0,Vin Scully
+621.0,Kids In Audience
+622.0,DR MONROE
+623.0,Crypt Keeper Willie
+624.0,Robot
+626.0,Lunchlady Doris
+627.0,Little Man
+628.0,Teenager
+630.0,Baby Lisa
+631.0,Salesclerk
+632.0,Millicent
+633.0,Female Clerk
+634.0,Kevin
+635.0,Johnny Carson
+636.0,Scoey
+637.0,Teenage Clerk
+638.0,Football Announcer
+639.0,DAVE JR.
+640.0,Official
+641.0,Voice From Trunk
+642.0,Ronnie
+643.0,DREDERICK
+644.0,Wanda
+645.0,Becky
+646.0,Girls
+647.0,Patron #1
+648.0,Patron #2
+649.0,Collette
+650.0,HARV
+651.0,Bernard
+652.0,Aide
+653.0,Aerosmith
+654.0,Steven Tyler
+655.0,Joe Perry
+656.0,Brad Whitford
+657.0,HUGH
+658.0,Everyone
+659.0,Bartender
+660.0,One-eyed Bartender
+661.0,Flowers
+662.0,Tom Hamilton
+663.0,Joey Kramer
+664.0,Snappy
+665.0,Broker
+666.0,Hans
+667.0,Fritz
+668.0,Charlie
+669.0,Horst
+670.0,German Teacher
+671.0,Boxer
+672.0,Mr. Thorson
+673.0,Angel
+674.0,Patient
+675.0,Justice Of The Peace
+676.0,Groom
+677.0,Applicant #1
+678.0,Applicant #2
+679.0,Applicants
+680.0,Tourist Kid
+681.0,Tourist Dad
+682.0,Boss
+683.0,Elderly Lady
+684.0,Repo Man
+685.0,Driver
+686.0,M.C.
+687.0,Boy
+688.0,Operator
+689.0,Barber
+690.0,Rosarita
+691.0,Weasel
+692.0,Robot Weasel
+693.0,Señor Beaver-otti
+694.0,Robot Animals
+695.0,Fat Cop
+696.0,Falcon Man
+697.0,Sailor
+698.0,Sting
+699.0,Sideshow Mel
+700.0,Choir
+701.0,Souvenir Hawker
+702.0,Station Announcer
+703.0,Old Lady #1
+704.0,Bret
+705.0,JIMMY
+706.0,Sportscaster
+707.0,Coach
+708.0,Football Announcer #2
+709.0,Player
+710.0,Marco
+711.0,Box
+712.0,Nutty Comedian
+713.0,Alien
+714.0,Duff Announcer
+715.0,Nick
+716.0,Nick #2
+717.0,Commercial Guy
+718.0,Man On Phone
+719.0,Bus Driver
+720.0,Policewoman
+721.0,Different Announcer
+722.0,Chef Rodrigo
+723.0,Gregory
+724.0,FABRIZIO
+725.0,Woman On Tv #1
+726.0,Woman On Tv #2
+727.0,Teenage Boy
+728.0,CHIF WIGGUM
+729.0,Service Manager
+730.0,Ted
+731.0,Sound-alikes
+732.0,Mister Amazing
+733.0,Sparkle
+734.0,Romantic Lover Voice
+735.0,Southern Private
+736.0,Charles Boyer
+737.0,Umpire
+738.0,Dispatcher
+739.0,ARI
+740.0,Jose Canseco
+741.0,Mike Scioscia
+742.0,Tour Guide
+743.0,Ozzie Smith
+744.0,Don Mattingly
+745.0,Steve Sax
+746.0,Roger Clemens
+747.0,Wade Boggs
+748.0,KEN GRIFFEY JR.
+749.0,Darryl Strawberry
+750.0,Hypnotist
+751.0,ALL THE PLAYERS
+752.0,JOSE CONSECO
+753.0,Ticket Taker
+754.0,Courier
+756.0,FORTE
+757.0,Donna
+758.0,Tammy
+759.0,PRINCIPAL WILLIE
+760.0,Prosecutor
+761.0,Steve Allen
+762.0,Mr. Montone
+763.0,Former Teacher
+764.0,Teacher #1
+765.0,Teacher #2
+766.0,Hippie Teacher
+767.0,Employee
+770.0,Sanjay Nahasapeemapetilon
+771.0,Lottery Announcer
+772.0,Vet
+773.0,Mr. Danielson
+774.0,God
+775.0,Sadistic Barfly
+776.0,Young Barfly
+777.0,Trainee
+778.0,Butler
+779.0,Ticket Man
+780.0,General
+781.0,Cowboy #1
+782.0,Cowboy #2
+783.0,Bar Owner
+784.0,Yodelin' Zeke
+785.0,Lurleen Lumpkin
+786.0,Male Nurse
+787.0,Music Store Owner
+788.0,Mr. Boylan
+789.0,Mule
+790.0,Young Girl
+791.0,Pretty Girl
+792.0,Orville
+793.0,Hurley
+796.0,Cellmate #1
+798.0,Crooner
+799.0,MacGyver
+800.0,T-shirt Guy
+801.0,Comic Book Guy
+802.0,David
+803.0,Nigel Bakerbutcher
+804.0,DEREK
+805.0,Roadie
+806.0,Stoned Guy
+807.0,Promoter
+808.0,DAVIDNIGEL
+809.0,DAVIDNIGELDEREK
+810.0,Landlord
+811.0,Samantha Stanky
+812.0,Grave Digger
+813.0,Crane Operator
+814.0,Worker #1
+815.0,Worker #2
+816.0,Mr. Stanky
+817.0,Kirk Van Houten
+818.0,Nun
+819.0,NUN #2
+820.0,Bum
+821.0,WILLIAM POWEL LOOKALIKE
+822.0,Bum #2
+823.0,Nbc Anchorman
+824.0,Jittery Private
+825.0,Angry Sergeant
+827.0,Female Singers
+828.0,Smokin' Joe Frazier
+829.0,Herb Powell
+830.0,Mom
+831.0,Teachers
+832.0,Mr. Black
+833.0,Sergeant
+834.0,Campers
+835.0,Line Judge
+836.0,Stablehand
+837.0,Little Boy #1
+838.0,Queen Elizabeth II
+839.0,Yoga Instructor
+840.0,HOMER'S THOUGHT
+841.0,Contestants
+842.0,Mr. Bozwell
+843.0,DEBORAH JO SMALLWOOD
+844.0,Llewellyn Sinclair
+845.0,Auditioning Woman #1
+846.0,Auditioning Woman #2
+847.0,Auditioning Woman #3
+848.0,Ms. Sinclair
+849.0,Video Game Voice
+850.0,Company
+851.0,Actress
+852.0,Male Parishoner
+853.0,Stooge #1
+854.0,Stooge #2
+855.0,Boring Guy
+856.0,Commentator
+857.0,Abraham Lincoln
+858.0,Flanders Family
+859.0,Jamshed
+860.0,Insurance Agent
+861.0,Barker
+862.0,Booth Man
+863.0,Caricaturist
+864.0,Small Voice
+865.0,Tv Father
+866.0,Tv Daughter
+867.0,Bitsy
+868.0,Ramona
+869.0,Owner
+870.0,Ice Cream Lady
+871.0,Amber Dempsey
+872.0,Pahasatira
+873.0,Judges
+874.0,Museum Worker
+875.0,Show Announcer
+876.0,Bob Hope
+877.0,Advance Man
+878.0,Soldier #1
+879.0,Soldier #2
+880.0,Santa Claus
+881.0,Nerd #1
+882.0,Nerd #2
+883.0,Football Player
+884.0,Shopkeeper
+885.0,Gangster
+886.0,Repairman
+887.0,Sailor #1
+888.0,Sailor #2
+889.0,Natives
+890.0,'30s Reporter
+891.0,Girl Star
+892.0,Co-pilot
+894.0,Faces
+895.0,Zombies
+896.0,Skinner Zombie
+897.0,Zombie Krusty
+898.0,Zombie Flanders
+900.0,Zombie Shakespeare
+901.0,Lisa Snail
+902.0,Zombie
+903.0,Pilgrim Zombie
+904.0,Cowboy Zombie
+906.0,Chief Engineer
+907.0,Rowdy Woman
+908.0,Bumblebee Man
+909.0,Astronaut
+910.0,Booth Attendant
+911.0,MCCLURE
+912.0,Contractor
+913.0,Headless Brakeman
+914.0,Marley
+915.0,Donut Man
+916.0,Tom Jones
+917.0,Animal Handler
+918.0,HOMER)
+920.0,Price
+921.0,Laura Powers
+923.0,Squeaky-Voiced Teen
+924.0,Mrs. Powers
+925.0,Guy #1
+926.0,Guy #2
+927.0,Chef
+928.0,Waiter #2
+929.0,Old Man
+930.0,Attorney
+931.0,Mailman
+932.0,Delivery Boy
+933.0,Fat Foreman
+934.0,Old Woman
+935.0,RICARDO
+936.0,Alan Thicke
+937.0,Adjuster
+938.0,Model
+939.0,Second Man
+940.0,German Engineer
+941.0,Adam West
+942.0,President Bush
+944.0,Captain Horatio McCallister
+945.0,Linda Ronstadt
+946.0,Teenage Barney
+948.0,Copy Writer
+949.0,Cameraman
+950.0,Bigfoot
+951.0,Mountain Goat
+952.0,Fruit Vendor
+953.0,Irish Lady
+954.0,Italian Lady
+955.0,Talk Show Host
+956.0,Sidekick
+957.0,Realtor
+958.0,Ad Man
+959.0,Female Messenger
+960.0,Clown Bed
+961.0,Korean Gymnast
+962.0,Pig
+963.0,Hans Moleman
+964.0,Gas Station Boy
+965.0,Billy
+966.0,Homer's Spirit
+967.0,INTERCOM
+968.0,Reporters
+969.0,Sunday School Teacher
+970.0,VIDEO TAPE NARRATOR
+971.0,Pumpkin Man
+972.0,Med Students
+973.0,Handsome Young Man
+974.0,Andre
+975.0,Young Riviera
+976.0,Angry Man
+977.0,Warrior
+978.0,LANLEY
+979.0,Truckosaurus
+980.0,Sebastian Kobb
+981.0,Woman With Baby
+982.0,Baby
+983.0,NIMOY
+984.0,Engineer #1
+985.0,Haverbrook Man
+986.0,Bart Anchor
+987.0,Lance Murdock
+988.0,2nd Announcer
+989.0,Homer's Thought Bubble
+990.0,Reverend
+991.0,Aunt Gladys's Corpse
+992.0,Aunt Gladys
+993.0,HUTZ' VOICE
+994.0,MR. HUTZ
+995.0,Princess Opal
+996.0,Bag Boy
+997.0,Waitress #2
+998.0,Sperm Doctor
+1000.0,MAN ON RADIO
+1001.0,Surly
+1002.0,Attractive Woman
+1003.0,Man On Tv
+1004.0,Beer Singers
+1006.0,Security Man
+1007.0,Washington
+1008.0,Man In White Coat
+1009.0,Boys
+1010.0,Santa's Little Helper
+1011.0,Homer's Bloody Skull
+1012.0,Sketch Announcer
+1013.0,Agency Worker
+1014.0,Fans
+1015.0,Small Man
+1016.0,Chihuahua
+1017.0,Cat
+1018.0,Corey
+1019.0,Pepi
+1020.0,Apu's Brain
+1021.0,JOHNNY
+1022.0,Truck Driver
+1023.0,Rex
+1024.0,Homer's Conscience
+1025.0,Robert Frost
+1026.0,FROST
+1027.0,Raheem
+1028.0,Presidents
+1029.0,Harrison
+1030.0,Presidents' Heads
+1031.0,Teddy Roosevelt
+1032.0,3rd World Father
+1033.0,3rd World Family
+1035.0,Tourists
+1036.0,Cartoon Doctor
+1037.0,Richard Nixon
+1038.0,Kennedy
+1039.0,Mrs. Phillips
+1040.0,Assembly
+1041.0,Chuck's Dad
+1043.0,Parent One
+1044.0,Parent Two
+1045.0,Feminists
+1046.0,Baseball Announcer
+1047.0,Train
+1048.0,Receiver
+1049.0,Burns' Grandfather
+1050.0,Dr. Wolfe
+1051.0,Gummy Joe
+1052.0,Donut Vendor
+1053.0,Mop Top #1
+1054.0,Mop Top #2
+1055.0,Mop Top #3
+1056.0,Mop Tops
+1057.0,Goon
+1059.0,Quigley
+1060.0,Robots
+1061.0,DR. JOYCE
+1062.0,Pagan Simpsons
+1063.0,Waiterscooks
+1064.0,Specialist
+1065.0,Intern
+1066.0,Elvis
+1068.0,Writer
+1069.0,Roxie
+1070.0,Bobby Mindich
+1071.0,ARTIE
+1072.0,Barney's Boss
+1073.0,Writer #2
+1074.0,Cowboys
+1075.0,BROOKE
+1076.0,Child
+1078.0,Gary Chalmers
+1079.0,Scottish Woman
+1080.0,Exhaust Pipe Lid
+1081.0,Chicken
+1082.0,Mr. Ogden
+1083.0,Scientist #1
+1084.0,Scientist #2
+1085.0,Evil Homer
+1086.0,Hitler
+1087.0,Recruiter
+1088.0,Actor
+1089.0,Teenaged Guide
+1090.0,Children's Choir
+1091.0,Boy Soloist
+1092.0,Driver Of Foreign Car
+1093.0,Barry White
+1094.0,Miss Springfield
+1095.0,Irishman
+1096.0,Old Mrs. Glick
+1097.0,SICK JAPANESE WORKER
+1098.0,Japanese Worker #2
+1100.0,White Blood Cell #1
+1101.0,White Blood Cell #2
+1102.0,Virus
+1103.0,JAMAICAN MAN
+1104.0,Husband
+1105.0,Jury
+1106.0,David Crosby
+1107.0,Jury Foreman
+1108.0,Warden
+1109.0,Phillips
+1110.0,Tattoo Annie
+1111.0,Park Commissioner
+1112.0,Assistant
+1114.0,McBain
+1117.0,Gabbo
+1118.0,CRANDALL
+1119.0,Soldier Puppets
+1120.0,Cossack Puppets
+1121.0,Alphonse
+1122.0,Commercial Announcer
+1123.0,Casting Director
+1124.0,Old Man Singers
+1125.0,Bette Midler
+1126.0,Hugh Hefner
+1127.0,Anthony Kiedis
+1128.0,Flea
+1129.0,Elizabeth Taylor
+1130.0,Counter Boy
+1131.0,Mr. Johannson
+1132.0,Luke Perry
+1134.0,Chad Smith
+1135.0,ARIK MARSHAL
+1136.0,Krusty Announcer
+1138.0,Man At Table
+1139.0,SPEEDED UP VOICES
+1140.0,Melvin
+1141.0,Quartet
+1142.0,Tenor
+1143.0,Be Sharps
+1144.0,Paul Harvey
+1145.0,Ronald Reagan
+1146.0,Panicky Man
+1147.0,Sarah Wiggum
+1148.0,Female Talk Show Host
+1149.0,George Harrison
+1150.0,2-Year-Old Lisa
+1151.0,Teenage Bellboy
+1152.0,Surly Man
+1153.0,Kako
+1154.0,Human Fly
+1155.0,Sinister Male Voice
+1156.0,Schoolyard Girls
+1157.0,MRS KRABAPPEL
+1158.0,Parole Board Head
+1159.0,People In Court
+1160.0,Parole Board Member #1
+1161.0,Parole Board
+1162.0,Parole Board Member #2
+1163.0,Man On Screen
+1164.0,Woman On Tape
+1165.0,Investigator
+1166.0,Celestial Choir
+1167.0,Woman's Voice
+1168.0,Nrc Woman
+1169.0,Nrc Man
+1170.0,Dumb Employee #1
+1171.0,Dumb Employee #2
+1172.0,Counselor
+1173.0,Admissions Man
+1174.0,Admissions Woman
+1175.0,Hillbilly Man
+1176.0,Angry Dean
+1177.0,Nerdlinger
+1178.0,Scholar
+1180.0,Jock
+1181.0,Skinny Student
+1182.0,Dean Bobby Peterson
+1183.0,Professor
+1184.0,Architect
+1185.0,Men
+1186.0,Dean
+1187.0,Doug
+1188.0,Gary
+1189.0,Benjamin
+1190.0,Automated Voice
+1191.0,Guards
+1192.0,7-YEAR OLD BURNS
+1193.0,Burns' Mother
+1194.0,Burns's Father
+1195.0,George Burns
+1196.0,Jimmy Carter
+1197.0,George H.W. Bush
+1198.0,RAMONE #1
+1199.0,RAMONE #2
+1200.0,RAMONE #3
+1201.0,RAMONE #4
+1202.0,Drummer
+1203.0,Mechanic
+1204.0,Explorer
+1205.0,Bear
+1206.0,Workman
+1207.0,Workman #2
+1208.0,Hooded Man
+1209.0,Dinosaur
+1210.0,Mr. Boswell
+1211.0,Pieces Of Homer
+1212.0,Demon Technician
+1213.0,Skeleton Judge
+1214.0,Blackbeard
+1215.0,Benedict Arnold
+1216.0,Lizzie Borden
+1217.0,KODO
+1218.0,Exchange Student
+1220.0,GROUNDKEEPER WILLIE
+1222.0,Humorist
+1223.0,Edward
+1224.0,The Pope
+1225.0,RUTH
+1226.0,Scientist
+1227.0,Technician #1
+1228.0,Technician #2
+1229.0,Lady
+1230.0,Tape Player
+1231.0,Lenny's Wife
+1232.0,Tough Guy
+1233.0,Mohawk Girl
+1235.0,Woman #3
+1236.0,Woman #4
+1237.0,Fry Cook
+1238.0,Diner Owner
+1239.0,GOODMAN
+1240.0,Flanders' Inner Child
+1241.0,Homer's Inner Child
+1242.0,Moe's Inner Child
+1243.0,Women In Crowd
+1244.0,Old Folks
+1245.0,MR. KRABAPPEL
+1246.0,James Brown
+1247.0,Carpenter
+1248.0,Dorky Teenager
+1249.0,MCGARNIGAL
+1250.0,Atari Andre Gregory
+1251.0,Manuel Noriega
+1252.0,Arcade Manager
+1253.0,Wise Old Hobo
+1254.0,Triple Milhouse
+1255.0,Dorky Kid
+1256.0,Pudgy Boy
+1257.0,Fathers
+1258.0,Ernest Borgnine
+1260.0,Accountant
+1261.0,Arab Men
+1262.0,Agent #1
+1263.0,Zutroy
+1264.0,Agent #2
+1265.0,Optometrist
+1266.0,Dermatologist
+1267.0,Podiatrist
+1268.0,Internist
+1269.0,Jerry Lewis Bart
+1270.0,Mindy
+1271.0,Cherub Lenny
+1272.0,Cherub Carl
+1273.0,Fish
+1274.0,Sexy Woman Announcer
+1275.0,Jeeves
+1276.0,WHITE HOUSE AIDE
+1277.0,Turban Kid
+1278.0,Fat Kid
+1279.0,Nerds
+1280.0,Big Hand Man
+1281.0,Bellhop
+1282.0,Passerby #1
+1283.0,Passerby #2
+1284.0,Chinese Waiter #1
+1285.0,Chinese Waiter #2
+1288.0,Young Jasper
+1289.0,Panhandler
+1290.0,Angry Voice From Stall
+1291.0,Henry Kissinger
+1292.0,HENRY KISSINGER'S BRAIN
+1294.0,British Guy
+1295.0,British Waitress
+1296.0,Hippie
+1297.0,Gerry Cooney
+1299.0,BIG TEXAN
+1300.0,Ernst
+1301.0,Gunter
+1302.0,Teenage Attendant
+1303.0,Someone
+1304.0,Rain Man
+1305.0,Gambler
+1306.0,CRAP PLAYERS
+1307.0,Farmboy
+1308.0,Slot Player #1
+1309.0,Slot Player #2
+1310.0,Audience Member
+1311.0,Robert Goulet
+1312.0,Wheelman
+1315.0,Molloy
+1316.0,Voice From The Back
+1317.0,IRISH PETE
+1318.0,Beatnik Poet
+1319.0,Twelve-year-old
+1320.0,Cat Burglar
+1321.0,Box Executive
+1322.0,Organ Grinder
+1323.0,Crowd Member
+1324.0,2nd Crowd Member
+1325.0,Mrs. Quimby
+1326.0,Fireman
+1327.0,Hammer
+1328.0,CONAN
+1329.0,Kitty
+1330.0,Customer #1
+1331.0,Customer #2
+1332.0,Dog
+1333.0,Technician
+1334.0,Bum #1
+1335.0,Comedian
+1336.0,Female Executive
+1337.0,James Woods
+1338.0,Stockboy
+1339.0,Christians
+1340.0,Robed Indian
+1341.0,Aged Man
+1342.0,ROBBER
+1343.0,Old Ladies
+1344.0,Onlookers
+1345.0,Girl #2
+1346.0,Hip Old Man
+1347.0,Buzz Announcer
+1348.0,Malibu Stacy
+1349.0,Goofy Girl
+1350.0,Goofy Girl's Stacy
+1351.0,Recorded Voice
+1352.0,Claire Harper
+1353.0,Ugly Man
+1354.0,Leroy
+1355.0,Angry Customer
+1356.0,Young Man
+1357.0,Stacy Lovell
+1358.0,GI JOE
+1359.0,Doll
+1360.0,Grim C.E.O.
+1361.0,Brockman's Daughter
+1362.0,Executives
+1363.0,Old Lady Customer
+1364.0,Old People
+1365.0,GIRL#2
+1367.0,Nasa Announcer #1
+1368.0,Nasa Announcer #2
+1369.0,Dr. Babcock
+1370.0,STILLWATER
+1371.0,Chimp
+1372.0,Female Scientist
+1373.0,TIM ALLEN-TYPE
+1374.0,Peg
+1375.0,Nerdy Scientist
+1376.0,Jim Wallace
+1377.0,Toby Hunter
+1378.0,BUZZ
+1379.0,Mission Control
+1380.0,Race
+1381.0,Everybody
+1383.0,Ant #1
+1384.0,Ant #2
+1385.0,Ant #3
+1386.0,Ant #4
+1387.0,James Taylor
+1388.0,RERPORTER #4
+1390.0,First Guy In Line
+1391.0,Eddie Money
+1392.0,Jeremiah
+1393.0,Priest
+1394.0,Rappin' Ronnie
+1395.0,Voice #1
+1396.0,Voice #2
+1397.0,Voice #3
+1398.0,Voice #4
+1399.0,Congregation
+1400.0,Ernie Ford
+1401.0,Carter
+1402.0,Gomer
+1403.0,Bill Clinton
+1404.0,Saxophone
+1405.0,Mr. Clean-style Character
+1406.0,Goofy Recording
+1407.0,Station Owner
+1408.0,Dj3000
+1409.0,Arboretum Guy
+1410.0,Small Kid
+1411.0,MEDIUM-SIZED KID
+1412.0,Kid's Mother
+1413.0,Cletus Spuckler
+1414.0,Grizzled Guy
+1415.0,Wildlife Man
+1416.0,Ivory Dealer
+1417.0,Speaker Box
+1418.0,GAME SHOW MAN
+1419.0,Baby Burns
+1420.0,Teenage Burns
+1421.0,Greenpeace Hippie #1
+1422.0,Greenpeace Hippie #2
+1423.0,Lee Majors
+1424.0,Street Urchin
+1425.0,Elf
+1426.0,Deprogrammer
+1427.0,Marge
+1428.0,Lisa
+1429.0,Homer Actor
+1430.0,Marge Actress
+1431.0,Lisa Actress
+1432.0,Baby Bart
+1433.0,Class
+1434.0,Leopold
+1435.0,Luigi
+1436.0,Hayseed #1
+1437.0,Hayseed #2
+1438.0,Flanders's Beatnik Dad
+1439.0,Private
+1440.0,Rowdy Soldier
+1441.0,Huck
+1442.0,Freddy
+1443.0,Lincoln Hobo
+1444.0,Auctioneer
+1445.0,Various Quimbys
+1446.0,French Waiter
+1447.0,Quimby's Lawyer
+1448.0,Lunchlady Bart
+1449.0,JIMBO JR.
+1450.0,Jurors
+1452.0,Old Jewish Man
+1453.0,Grampa's Brain
+1454.0,Generation X Guy
+1455.0,Nelson Apparition
+1457.0,Kaiser Wilhelm Guy
+1458.0,Administrator
+1459.0,SQUEAKY-VOICED TEENAGER
+1460.0,Smithers's Wife
+1461.0,Carl's Wife
+1463.0,Musician
+1464.0,Another Man
+1465.0,Amish Man
+1466.0,Mob Of Teenagers
+1467.0,Last Teenager
+1469.0,George
+1470.0,STEWART CHARACTER
+1471.0,RAVI
+1472.0,English Boy
+1473.0,Police Dept. Machine
+1474.0,Jimmy Stewart Character
+1475.0,Swashbuckler
+1476.0,Allison
+1477.0,Fbi #1
+1478.0,Fbi #2
+1479.0,Professor Taylor
+1480.0,Englishman
+1481.0,Beekeeper #1
+1482.0,Beekeeper #2
+1483.0,Üter
+1484.0,Sherry
+1485.0,Various Kids
+1486.0,Radio Preacher
+1487.0,2nd Radio Preacher
+1488.0,3rd Radio Preacher
+1489.0,Engineer
+1490.0,Waiter #1
+1491.0,Childcare Worker
+1492.0,Little Kid
+1493.0,Mother #1
+1494.0,Childcare Supervisor
+1495.0,Pinitchio
+1496.0,Technician #3
+1497.0,Loud Speaker
+1498.0,Technician #4
+1499.0,French Ticket Taker
+1500.0,Jingle Singers
+1501.0,Birch Barlow
+1502.0,Chinese Principal #1
+1503.0,Chinese Principal #2
+1504.0,Dr. Demento
+1505.0,DR. DEMEMTO
+1506.0,Protesters
+1507.0,Others
+1508.0,The Rich Texan
+1509.0,Big Moose
+1510.0,Scary Announcer
+1511.0,Kindergarten Teacher
+1512.0,FRED FLINTSTONE
+1513.0,Shadowy Figure
+1515.0,Prisoner #1
+1516.0,Prisoner #2
+1517.0,GROUNDSKEEPER WILLIE'S BRAIN
+1518.0,Chorus
+1519.0,Mr. Peabody
+1520.0,Sherman
+1522.0,Kid Behind Glass
+1523.0,Jewish Man
+1524.0,Jessica
+1525.0,Trucker #1
+1526.0,Trucker #2
+1527.0,Library Boy
+1528.0,Various Congregation Members
+1529.0,Car
+1530.0,Car #3
+1531.0,News Announcer
+1532.0,Weatherman
+1533.0,Gym Teacher
+1534.0,Female Coach
+1535.0,Justice
+1536.0,Running Man
+1537.0,Hockey Announcer
+1538.0,Ashley
+1539.0,Pa
+1540.0,German Gummy Salesman
+1541.0,Heavy Woman
+1542.0,Deep Voice
+1543.0,Godfrey
+1544.0,ROCK BOTTOM ANNOUNCER
+1545.0,Crying Woman
+1546.0,Female Host
+1547.0,Ben Announcer
+1548.0,Ben
+1549.0,Trainer
+1550.0,Fox Announcer
+1551.0,Young Babysitter
+1552.0,Dennis Franz
+1553.0,Aussie Reporter
+1554.0,David Letterman
+1555.0,Standup
+1556.0,Teenage Manager
+1557.0,Bike Rider
+1560.0,Colonel Leslie Hapablap
+1561.0,Vice President Gore
+1562.0,Kool & the Gang
+1563.0,Desk Clerk
+1564.0,Goony-looking Man
+1566.0,John F. Kennedy
+1567.0,Onlooker
+1568.0,Carla
+1569.0,Sam
+1570.0,Norm
+1571.0,Woody
+1572.0,Cliff
+1573.0,Runway Signaler
+1574.0,Alan
+1575.0,Stewardess
+1576.0,Additional Man
+1577.0,Dr. Zweig
+1578.0,Gramma Bouvier
+1579.0,Plumber
+1580.0,7-Year-Old Homer
+1581.0,7-YEAR-OLD-HOMER
+1583.0,Number One
+1584.0,Last Signer
+1585.0,Innkeeper
+1586.0,Stonecutters
+1587.0,School Kids
+1588.0,Kid #3
+1589.0,Redenbacher
+1590.0,NICHOLSON
+1591.0,Mr. T
+1592.0,BUSH
+1595.0,Villain
+1599.0,Sperm #40012
+1600.0,Customers
+1602.0,Pilot #2
+1603.0,Female Astronomer
+1604.0,Ham
+1605.0,Database
+1606.0,E-Mail
+1607.0,Report Card
+1608.0,SUPERFRIENDS
+1609.0,Male Astronomer
+1610.0,Panicked Man
+1611.0,Congressman #1
+1612.0,Congressman #2
+1613.0,Congress
+1614.0,Johnny Unitas
+1615.0,Angelique
+1616.0,Transport Driver
+1617.0,Georgian
+1618.0,Texan
+1619.0,2nd Texan
+1620.0,Russian
+1621.0,New Englander
+1622.0,Kid In Crowd
+1623.0,Krusty Burglar
+1624.0,Dick Cavett
+1625.0,Plastic Surgeon
+1626.0,Don Vitorio
+1627.0,Gangsters
+1628.0,Second Scientist
+1629.0,Translator
+1630.0,Dictator
+1631.0,Elderly Nazi
+1632.0,Gus
+1633.0,Prime Minister
+1634.0,Evan Conover
+1637.0,Sentry
+1638.0,Ambassador
+1639.0,Australian
+1643.0,Bart's Fist
+1644.0,Lender
+1645.0,Ballet Teacher
+1646.0,Mel Brooks
+1649.0,Man In Background
+1650.0,Japanese Man
+1651.0,Japanese Woman
+1652.0,Person
+1653.0,Jay
+1654.0,Charles Bronson
+1655.0,Man In Audience
+1656.0,New York Pilot
+1657.0,Spielbergo
+1659.0,Actor #1
+1660.0,Actor #3
+1661.0,Villagers
+1662.0,BEN HUR
+1664.0,Fortune Teller
+1665.0,FORTUNE-TELLER
+1666.0,Student In Jeans
+1667.0,Moustached Man
+1668.0,Mrs. Parkfield
+1669.0,Mr. Parkfield
+1670.0,Eldred
+1671.0,Other Player
+1672.0,Adult Nelson
+1673.0,NELSON JR.
+1674.0,Aged Krusty
+1675.0,Cable Announcer
+1676.0,Pet Store Man
+1677.0,DRILL SGT.
+1678.0,Irs Agent
+1679.0,Fat Cheeked Housekeeper
+1680.0,Ticket Lady
+1681.0,Shelbyville Principal
+1682.0,Enemy Soldier #1
+1683.0,Enemy Soldier #2
+1684.0,Soldier #3
+1685.0,Soldier #4
+1686.0,Ring Girl
+1687.0,Tape Recorder
+1688.0,Tutor
+1689.0,Onlooker #1
+1690.0,Opponent #1
+1691.0,Opponent #2
+1692.0,Opponent #3
+1693.0,Parents
+1694.0,Tiny Student
+1695.0,All Students
+1696.0,Old Jazz Musician
+1697.0,Store Clerk
+1698.0,Rudi
+1700.0,Lion's Head
+1701.0,Darth
+1702.0,Black Man
+1703.0,Shill
+1704.0,News Vendor
+1705.0,Psychotic Guy
+1706.0,Hairdresser
+1707.0,Players
+1708.0,Sinister Man
+1709.0,Henchman
+1710.0,1st Tourist
+1711.0,2nd Tourist
+1712.0,Outfielder
+1713.0,Shelby
+1714.0,Backpack Kid
+1715.0,Shelbyville Kids
+1716.0,Springfield
+1717.0,Shelbyville
+1718.0,Tough Kid
+1719.0,Dads
+1720.0,Bigger Kid
+1721.0,1st Kid
+1722.0,2nd Kid
+1723.0,Gas Station Attendant
+1724.0,Second Customer
+1725.0,Shelbyvillers
+1726.0,Groundskeeper Wilma
+1727.0,Tow Truck Man
+1728.0,Shelbyville Grampa
+1729.0,Prendergast
+1730.0,Guillermo
+1731.0,Tito Puente
+1732.0,High School Student
+1733.0,Roughneck
+1734.0,Veterinarian
+1735.0,Nelson's Parrot
+1737.0,Male Inspector
+1738.0,Female Inspector
+1739.0,Other Old People
+1740.0,Imaginary Burns #1
+1741.0,Imaginary Burns #2
+1742.0,Imaginary Burns #3
+1743.0,Ten Imaginary Burnses
+1744.0,Elderly Guard
+1745.0,Smithers's Brain
+1746.0,SUPER-VILLAIN
+1747.0,Teenage Employee
+1748.0,Pigeon
+1749.0,Police Dispatcher
+1750.0,Old Board Member
+1751.0,Producer
+1752.0,Scoutmaster
+1753.0,Different Announcers
+1754.0,Casting Lady
+1755.0,Teamster
+1756.0,Dialogue Coach
+1758.0,Movie Prop Guy
+1759.0,Estonian Dwarf
+1760.0,Prop Guy
+1761.0,Editor
+1762.0,Spirograph Man
+1763.0,Mickey Rooney
+1764.0,Helicopter Pilot
+1765.0,SHALLOW-LOOKING HOLLYWOODITE
+1766.0,Bentley Salesman
+1768.0,Bully Girls
+1769.0,Old Mafia Guy
+1770.0,Officer Goodman
+1771.0,Officer Noble
+1772.0,FROM SPEAKER
+1773.0,Father In Burlap Sack
+1775.0,Pre-Teen Hibbert Kid
+1776.0,Little Hibbert Girl
+1777.0,Teenage Hibbert Boy
+1778.0,Barney-Shaped Form
+1779.0,Jinglers
+1780.0,SHERRITERRITHEIR SOULS
+1781.0,NELSONHIS SOUL
+1782.0,MARTIN'S SOUL
+1783.0,Unctuous Waiter
+1784.0,Figure
+1785.0,SHERRITERRI
+1786.0,VERY CUTE LITTLE GIRL
+1787.0,Raving Derelict
+1788.0,Nana Van Houten
+1789.0,Wolf
+1790.0,Pigs
+1791.0,Papa Bear
+1792.0,Mama Bear
+1793.0,Baby Bear
+1794.0,Mother Goose
+1795.0,100 Flanderses
+1796.0,Jose Flanders
+1797.0,Thistlewick Flanders
+1798.0,Lamb
+1799.0,MS. HOOVER
+1800.0,Worm
+1801.0,Child Voice
+1802.0,Linda McCartney
+1803.0,Paul McCartney
+1805.0,College Students
+1806.0,Store Owner
+1807.0,Mr. Van Brunt
+1808.0,Paul Anka
+1810.0,All Parents
+1811.0,Homer's Mouth
+1812.0,Muscular Guy
+1813.0,Glamorous Woman
+1814.0,Rugged Man
+1815.0,Moviegoer
+1816.0,Ice Cream Man
+1817.0,Worker #3
+1818.0,Line Man
+1819.0,County Clerk
+1820.0,Grave-digger
+1821.0,Howard Cosell
+1822.0,Protestors
+1823.0,Student Wiggum
+1824.0,Dennis Hopper
+1825.0,Postal Clerk
+1826.0,Postal Clerk #2
+1827.0,Van Driver
+1828.0,Enraged Prisoner
+1829.0,Teenage Girl
+1831.0,AIRMAN AT THE GATE
+1832.0,Very Normal Prisoner
+1833.0,Another Prisoner
+1834.0,Airman Tour Guide
+1835.0,M.P.
+1837.0,Loudspeaker
+1838.0,Airman At Gate
+1839.0,Airman With Pistol
+1840.0,Airman In Tank
+1841.0,Matt Groening
+1842.0,Network Executive #1
+1843.0,Network Executive #2
+1844.0,Supervillain
+1845.0,Bont
+1846.0,Indian Woman
+1847.0,Bare-chested Man
+1848.0,Richard Simmons Robot
+1849.0,Carolers
+1850.0,Rich Suburban Mom
+1851.0,SPOILED LITTLE BOY
+1852.0,Gavin
+1853.0,Mario
+1854.0,'Mario' #2
+1855.0,Donkey Kong
+1856.0,Lee Carvallo
+1857.0,Sonic the Hedgehog
+1858.0,Detective
+1859.0,Answering Machine
+1860.0,Mangy Santa
+1861.0,Quimby #2
+1862.0,Quimbys
+1863.0,Bowling Clerk
+1864.0,Nurselady Doris
+1865.0,Sportscaster #2
+1866.0,Guy In Crowd
+1867.0,Disco Stu
+1868.0,Agent Johnson
+1869.0,GEORGE BUSH & FLANDERS
+1870.0,Teenage Kid
+1872.0,Elks
+1873.0,GORBACHEV
+1874.0,Gerald Ford
+1875.0,Brandine Del Roy
+1876.0,Evelyn
+1877.0,Simpsons
+1878.0,Women
+1879.0,Dorothy Parker-ish Socialite
+1880.0,Patricia
+1881.0,Roberta
+1882.0,Brittany Brockman
+1883.0,Tom Kite
+1884.0,Saleslady
+1885.0,Mr. Dewey
+1886.0,Bank Employee
+1887.0,Teller #2
+1888.0,Cayman Islands Bank Guy
+1889.0,Chief Agent
+1890.0,2ND IRS AGENT
+1891.0,Phone Bid Taker
+1892.0,Man's Voice
+1893.0,Bob Newhart
+1895.0,Pioneers
+1898.0,Mechanical Voice
+1899.0,HURLBUT
+1901.0,Sprüngfeld
+1902.0,Betsy Ross
+1903.0,Corporate Type
+1904.0,Skull
+1905.0,Sharpshooter
+1906.0,Employees
+1907.0,Mrs. Burns
+1908.0,Middle-aged Man
+1909.0,Brinkley
+1910.0,Suzanne Somers
+1911.0,Chester Lampwick
+1913.0,Courtroom Spectators
+1914.0,Amendment
+1915.0,Congressman
+1918.0,Lester
+1919.0,Miss Piggy
+1920.0,Sir Kermit
+1921.0,Paparazzo
+1922.0,PHONE VOICE
+1923.0,Macarthur Parker
+1924.0,Diners
+1925.0,Obnoxious Diner
+1926.0,TROYONSCREEN TROY
+1927.0,Male Co-host
+1928.0,Female Co-host
+1929.0,Ape
+1930.0,Ape #2
+1931.0,Chorus Of Ape Elders
+1932.0,Ape Nurse
+1933.0,Dr. Zaius
+1935.0,Ticketing Agent
+1936.0,Crackerman
+1937.0,Other Traders
+1938.0,Angry Dad
+1939.0,Deranged-looking Hitchhiker
+1940.0,Andy Williams
+1941.0,Commanding-voiced Man
+1942.0,Proprietor
+1943.0,Al Gore Doll
+1944.0,Pawn Shop Clerk
+1945.0,Chinese Doctor
+1946.0,Oak Ridge Engineer
+1947.0,Review Board Members
+1948.0,Review Board Chairman
+1949.0,Señora Bumblebee Man
+1950.0,Twangy Singers
+1951.0,Very Tall Man
+1952.0,Grampa Van Houten
+1953.0,Judge Grandfather
+1954.0,VIDAL
+1955.0,Voice On Intercom
+1956.0,Phony Homer
+1957.0,Phony Marge
+1958.0,Iggy Wiggum
+1959.0,Sheldon Skinner
+1960.0,Arnie Gumble
+1961.0,Ox
+1963.0,Etch
+1964.0,RODTODD
+1965.0,State Dept. Man #1
+1966.0,State Dept. Man #2
+1967.0,Von Wörtzenburger
+1968.0,VON WÖRTZENURGER
+1969.0,GREAT GRAMPA
+1970.0,Great Grampa Simpson
+1971.0,GREAT GRAMMA SIMPSON
+1972.0,Apu's Father
+1973.0,Apu's Mother
+1974.0,Young Apu
+1975.0,Manjula Nahasapeemapetilon
+1976.0,Young Frink
+1977.0,Tom Cruise
+1978.0,Nicole Kidman
+1979.0,I.N.S. AGENT
+1980.0,Radio
+1981.0,Sales Teen
+1982.0,First Cool Guy
+1983.0,All Other Guys
+1984.0,Second Girl
+1985.0,Ticket
+1986.0,Blockhead
+1987.0,B-Real
+1988.0,Sales Kid
+1989.0,Sour Kid
+1990.0,Many Kids
+1991.0,Sour Kid #2
+1992.0,Sour Girl
+1993.0,Peter Frampton
+1994.0,Billy Corgan
+1996.0,Cypress Hill
+1997.0,Smashing Pumpkins
+1998.0,First Gen-x Kid
+1999.0,Second Gen-x Kid
+2000.0,Darcy
+2001.0,Jimmy Chamberlin
+2002.0,James Iha
+2003.0,DJ Muggs
+2004.0,London Orchestra Guy
+2005.0,FRAMPTON'S GUITAR
+2006.0,Otto's Left Shoe
+2007.0,Otto's Right Shoe
+2008.0,Thurston Moore
+2009.0,Steve Shelley
+2010.0,Lee Ranaldo
+2011.0,Kim Gordon
+2012.0,Sen-Dog
+2013.0,Ice Cream Truck Supervisor
+2014.0,Nerdy Girl
+2015.0,OTHER NERDY GIRL
+2016.0,Pippi Longstocking
+2017.0,Eustace Tilley
+2018.0,Alice
+2019.0,COOL KID VOICE
+2020.0,COOL GIRL VOICE
+2021.0,Rick
+2022.0,Erin
+2023.0,Apu II
+2026.0,Hugo
+2027.0,Prof. Mini-Frink
+2028.0,Notable
+2029.0,Fat Man
+2030.0,Dole
+2031.0,Committee Staff
+2032.0,Clinton
+2033.0,KODOS-CLINTON
+2034.0,KANG-DOLE
+2035.0,Spokesman
+2036.0,SECRET SERVICEMAN
+2037.0,Man In Crowd
+2038.0,Alien Crier
+2039.0,Businesswoman
+2040.0,Hank Scorpio
+2042.0,Student In Sunglasses
+2043.0,Milhouse
+2044.0,Mr. Doyle
+2045.0,Leg-up Kid
+2046.0,2nd Leg-up Kid
+2047.0,3RD LEG-UP KID
+2048.0,Leg-up Teacher
+2051.0,U.N. Member
+2052.0,2nd U.N. Member
+2053.0,Jumpsuited Guy
+2054.0,Recordchildren
+2055.0,Computer
+2056.0,Messenger
+2057.0,Mall Announcer
+2058.0,Indian #1
+2059.0,Indian #2
+2060.0,Microchip Voice
+2061.0,Jimbo's Dad
+2062.0,Dolph's Dad
+2063.0,Kearney's Dad
+2064.0,LUCIUS
+2065.0,Drederick Tatum
+2066.0,Prisoners
+2067.0,Questioner #1
+2068.0,Questioner #2
+2069.0,Questioner #3
+2071.0,T-shirt Vendor
+2072.0,Michael Buffer
+2073.0,Fan Man
+2074.0,Park Ranger
+2076.0,Old Preppie
+2077.0,Willy Loman
+2078.0,Wealthy Dowager
+2079.0,Male Admissions Officer
+2080.0,Female Admissions Officer
+2081.0,Costume Shop Clerk
+2082.0,Child's Voice
+2083.0,Simulated Homer
+2084.0,Starlet
+2085.0,Sports Announcer
+2086.0,Dancer #1
+2087.0,Belle
+2089.0,Bernice Hibbert
+2090.0,Dancer #2
+2091.0,BELLEDANCERS
+2092.0,Townsmen Chorus
+2093.0,Marge's Dummy
+2095.0,"Kearney, Jr."
+2096.0,Single Man
+2097.0,Cracker Executive
+2098.0,Chase
+2099.0,Starla
+2100.0,Flashback Homer
+2101.0,Flashback Marge
+2102.0,COMBO FRONTMAN
+2103.0,Bandmembers
+2104.0,Homer's Recording
+2105.0,Milhouse's Thoughts
+2106.0,Paramedic
+2107.0,Nelson's Brain
+2108.0,National Guardsman
+2109.0,Main Title Singers
+2110.0,Prison Officials
+2111.0,Citizens
+2112.0,Older Nurse
+2113.0,Dr. Foster
+2114.0,Young Ned
+2115.0,Young Dr. Foster
+2116.0,"Nedward Flanders, Sr."
+2117.0,Mona Flanders
+2118.0,Crazy Man
+2119.0,Jay Sherman
+2120.0,Various Onlookers
+2121.0,Coyote
+2122.0,Furniture Salesman
+2123.0,First Mate
+2124.0,Leonard Nimoy
+2125.0,Video Arcade Man
+2126.0,Kevin Costner Voice
+2127.0,Guilty Man
+2128.0,Fox Mulder
+2129.0,Dana Scully
+2130.0,Alf
+2131.0,MARVIN-THE-MARTIAN-TYPE
+2133.0,Frog #1
+2134.0,Frog #2
+2135.0,Frog #3
+2136.0,alligator
+2137.0,Hot Dog Stand Guy
+2138.0,SMITHERS'
+2139.0,NICK RIVIERA
+2140.0,Motivational Man
+2141.0,Picture Man
+2142.0,Pita Saleswoman
+2144.0,Frank Ormand
+2145.0,1st Sportscaster
+2147.0,2nd Sportscaster
+2148.0,Mobster
+2150.0,Yakuza
+2151.0,1st Panicked Employee
+2152.0,2nd Panicked Employee
+2153.0,Ranger
+2154.0,Smokey Bear
+2155.0,Smithers's Echo
+2157.0,Drunk Man
+2158.0,McFadden
+2159.0,Mr. Burns's Thoughts
+2160.0,Family
+2161.0,FORD
+2162.0,Older Woman
+2163.0,Elderly Woman
+2164.0,Nanny
+2165.0,SHARY
+2166.0,Fidgety Lieutenant
+2167.0,Quentin Tarantino
+2168.0,Moderator
+2169.0,Writer #1
+2170.0,Writer #3
+2171.0,Writing Staff
+2172.0,Head Animator
+2173.0,Roy
+2174.0,David Cohen
+2175.0,Sound Engineer
+2176.0,June
+2177.0,Nerd In Audience
+2178.0,Theme Singers
+2179.0,Very Deep Voice
+2180.0,Poochie
+2181.0,Hip Saleswoman
+2182.0,100 Workers
+2183.0,Buffed Worker
+2184.0,Worker In Crowd
+2187.0,Cecil Terwilliger
+2188.0,Sideshow Bob's Brain
+2189.0,1986 Cecil
+2190.0,1986 BOB
+2191.0,1986 Krusty
+2193.0,Cousin Merl
+2196.0,Distressed Yuppie
+2197.0,Young Italian Man #1
+2198.0,Limo Driver
+2199.0,Emergency Operator
+2200.0,Irish Cops
+2201.0,Drunken Revelers
+2202.0,Shocked Old Woman
+2204.0,Temperance Women
+2205.0,Very Old Clerk
+2206.0,Councilmen
+2207.0,Head Of Duff
+2208.0,Quimby's Aide
+2209.0,Rex Banner
+2210.0,"HOMER, MARGE AND BART"
+2211.0,Helpful Clerk
+2212.0,Voice In Crowd
+2213.0,Magician
+2214.0,Cafeteria Worker
+2215.0,Computerized Japanese Voice
+2217.0,Credit Representative
+2218.0,Repo Goon #2
+2219.0,Heiress
+2220.0,Lumley
+2221.0,Distant Voice
+2222.0,FIRE-STOKER
+2223.0,Tommy
+2224.0,Mitchell
+2225.0,Stockbroker
+2226.0,ADVISORS & SMITHERS
+2227.0,Real Estate Agent
+2228.0,Bret 'The Hitman' Hart
+2230.0,Activity Coordinator
+2231.0,Female Resident
+2232.0,Male Resident
+2233.0,Several Residents
+2234.0,Hospital Intercom
+2235.0,Test Blast Announcer
+2236.0,Nearby Patient
+2238.0,Young Flanders
+2239.0,Young Lovejoy
+2240.0,Japanese Worker #1
+2241.0,St. Eleutherius
+2242.0,St. Bartholomew
+2243.0,St. Lucian
+2244.0,St. Donickus
+2245.0,Japanese Businessman
+2246.0,Mr. Sparkle
+2247.0,UNDERWATER GIRLS #1 & #2
+2248.0,UNDERWATER GIRL #3
+2250.0,Japanese Announcer
+2251.0,Donny
+2253.0,Japanese Tourist
+2254.0,Zookeeper
+2255.0,Baboons
+2256.0,Frank Grimes
+2257.0,City Employee
+2258.0,Portly Chef
+2259.0,Big Daddy
+2261.0,Betty
+2262.0,BETTY & MOE
+2264.0,Tim Conway
+2265.0,Ozmodiar
+2266.0,OSMODIAR AND TROY
+2267.0,Adlai Stevenson
+2268.0,Parrots
+2269.0,Commandant
+2270.0,Cadet
+2271.0,Cadet Larsen
+2272.0,Cadet Franklin
+2273.0,Cadet Platt
+2274.0,Cadets
+2275.0,CADET ANDERSEN
+2276.0,Cadet Anderson
+2277.0,Duffman
+2278.0,Cheerleaders
+2279.0,Hasidic Man
+2281.0,OFFICE WORKER IN TOWER ONE
+2282.0,OFFICE WORKER IN TOWER TWO
+2283.0,Undershirt Guy
+2284.0,Dmv Recording
+2285.0,Gruff Voice
+2286.0,Crazy Guy
+2287.0,Fireworks Vendor
+2288.0,Society Matron
+2289.0,Alfred E. Neuman
+2290.0,Angry Cab Driver
+2291.0,Bike Messenger
+2292.0,Song On Radio
+2293.0,Jury Member #1
+2294.0,Jury Member #2
+2295.0,Jury Chorus
+2296.0,Mr. Cleary
+2297.0,Staffpatients
+2298.0,Construction Worker
+2300.0,Carriage Driver
+2301.0,Student Choir
+2302.0,Stranger
+2303.0,Sgt. Skinner
+2304.0,Armin
+2305.0,Young Armin
+2306.0,Frog
+2307.0,Krusty
+2308.0,Asian Boy
+2309.0,Young Barney
+2310.0,Little Girls
+2311.0,Headmistress
+2312.0,Man At Bar
+2313.0,French President
+2314.0,Mutant Sideshow Mel
+2315.0,Mutant Dr. Hibbert
+2316.0,Mutant Moe
+2317.0,Mutant Skinner
+2318.0,Mutant Burns
+2319.0,Mutant Lenny
+2320.0,Mutants
+2321.0,Mutant Wiggum
+2322.0,MUTANT FLANDERS
+2323.0,MUTANT MELSKINNERMOEBURNSWIGGUM
+2324.0,Creature
+2325.0,Fly-head
+2326.0,Governor Quimby
+2327.0,Constable Wiggum
+2328.0,Goodman Skinner
+2329.0,Goodman Flanders
+2330.0,Pastor Lovejoy
+2331.0,Goodman Moe
+2332.0,Goody Krabappel
+2333.0,Goodman Lenny
+2334.0,Snowman Eddie
+2335.0,Princess Lou
+2336.0,Goody Maude
+2337.0,Pelé
+2338.0,Foreign Announcer
+2339.0,Soccer Hooligans
+2340.0,Soccer Hooligan
+2341.0,Security Salesman
+2342.0,Gun Clerk
+2343.0,Hooker
+2344.0,Muffled Voice
+2345.0,Team
+2346.0,Roy Firestone
+2347.0,Teenage Smithers
+2348.0,MIDDLE-AGE GRAMPA
+2349.0,Teenage Lenny
+2351.0,Joe Namath
+2352.0,Other Players
+2353.0,HANK
+2354.0,Female Voices
+2355.0,Female Crowd Members
+2356.0,Manjula's Mother
+2357.0,Siegfried
+2358.0,Guests
+2359.0,Ganesh
+2361.0,Indian Singers
+2362.0,Mall Executive
+2363.0,Pr Man
+2364.0,Caveman
+2365.0,Stephen Jay Gould
+2366.0,SOUTH AMERICAN BIDDER
+2367.0,Johnny D
+2368.0,City Clerk
+2369.0,Gil Gunderson
+2370.0,Cookie
+2371.0,Assorted Agents
+2372.0,Lionel Hutz's Head
+2373.0,Female Victim
+2374.0,Other Realtors
+2375.0,Dove
+2376.0,Shopper
+2377.0,Cheerleader
+2379.0,Patches
+2380.0,Poor Violet
+2381.0,Sullen Teen
+2382.0,Sean
+2383.0,Alex Trebek
+2384.0,Goon #1
+2385.0,Hombre
+2386.0,Clint Eastwood
+2387.0,Townspeople Chorus
+2388.0,Lee Marvin
+2389.0,Female Chorus
+2390.0,SECOND FEMALE CHORUS
+2392.0,Carny
+2393.0,Dracula Voice
+2394.0,Maintenance Man
+2395.0,Game Announcer
+2396.0,Cooder
+2397.0,Spud
+2398.0,Performer
+2399.0,Camel
+2400.0,Fantastic Dan
+2401.0,Passengers
+2402.0,Hari Krishna
+2403.0,Christian
+2404.0,Jane
+2405.0,Glen
+2406.0,Movementarians
+2407.0,Don
+2408.0,Homer's Stomach
+2409.0,Homer's Feet
+2410.0,Leader
+2411.0,THE LEADER
+2412.0,Noah
+2413.0,Singing Children
+2414.0,Chinese Sailor #1
+2415.0,Chinese Sailor #2
+2416.0,Bill Gates
+2417.0,James Earl Jones
+2418.0,Volunteer
+2419.0,Steven Wright
+2420.0,Bobcat Goldthwaite
+2421.0,JANEANE
+2422.0,Bruce Baum
+2426.0,Businessman #1
+2427.0,Businessman #2
+2428.0,Jay Leno
+2429.0,HANK WILLIAMS JR.
+2430.0,Renee
+2431.0,Republican Candidate
+2432.0,Drunken Cop
+2433.0,Photographer Cop
+2434.0,Homer's Voice
+2435.0,GHOSTLY HOMER
+2436.0,Square Guy
+2437.0,Station Manager
+2438.0,Great Uncle Chet
+2439.0,Well-dressed Relative
+2440.0,Relative #1
+2441.0,Relative #2
+2442.0,Relative #3
+2443.0,Relative #4
+2444.0,Relative #5
+2445.0,Dr. Simpson
+2446.0,Simpson Woman #1
+2447.0,Simpson Woman #2
+2448.0,Simpson Woman #3
+2449.0,Nerdy Kids
+2450.0,Female Computer
+2451.0,Bullies
+2452.0,Elderly Night Watchman
+2453.0,Leprechaun
+2454.0,General Donut
+2456.0,Roddy McDonut
+2457.0,Big Donut
+2458.0,Big Hand Guy
+2459.0,Naval Announcer
+2460.0,Recruiting Officer
+2461.0,Asian Man
+2462.0,Drill Instructor
+2463.0,Barney's Mom
+2464.0,Head Chef
+2465.0,Head Instructor
+2466.0,WORLD WAR I RECREATIONISTS
+2467.0,Other Kids
+2468.0,Bob Denver
+2469.0,Captain Tenille
+2470.0,Female Ensign
+2471.0,Enemy Crewperson
+2472.0,Enemy Captain
+2473.0,Asian Ensign
+2474.0,Hick
+2475.0,Russian Ambassador
+2476.0,U.S. Ambassador
+2477.0,Lenin
+2478.0,Sonar Operator
+2479.0,AIRCRAFT CARRIER CAPTAIN
+2480.0,Thought Bubble Moe
+2481.0,Thought Bubble Bart
+2483.0,Admiral #1
+2484.0,Admiral #3
+2485.0,Admiral #4
+2486.0,Janitor
+2488.0,Agent Miller
+2489.0,Lucius Sweet
+2490.0,Mission Impossible Voice
+2491.0,Truman
+2492.0,British Official
+2493.0,Spanish Official
+2494.0,French Official
+2495.0,Customs Official
+2496.0,Street Vendor
+2497.0,Castro
+2499.0,Cuban Undersecretary
+2500.0,Agency Clerk
+2502.0,Cat Lady
+2503.0,Computer Voice
+2504.0,Head Chocobot
+2505.0,Major Nougat
+2506.0,All Chocobots
+2507.0,Young Exec
+2508.0,Older Exec
+2509.0,Female Exec
+2510.0,Other Executives
+2511.0,Garbage Man #1
+2512.0,Garbage Man #2
+2513.0,Ray Magini
+2514.0,Paul
+2515.0,Susie
+2516.0,Bono
+2517.0,The Edge
+2518.0,Adam Clayton
+2520.0,A Few People
+2521.0,Giant-nosed Man
+2522.0,Garbage Men
+2523.0,U2
+2524.0,Oskar
+2525.0,Union Leader
+2526.0,Second Indian
+2528.0,Commie Nazi
+2529.0,Other Team
+2530.0,Muscular Man
+2531.0,Sherpa #1
+2532.0,Sherpa #2
+2535.0,Faucet-head Kid's Mother
+2536.0,Soldier
+2537.0,Russian Man #1
+2538.0,Russian Man #2
+2539.0,HOMER'S VOICE MAIL
+2540.0,FISH-HAG
+2541.0,Telephone Repairman
+2542.0,Bridge Operator
+2543.0,Cow
+2544.0,Studio Audience
+2545.0,Pirate Captain
+2546.0,Pirate #1
+2547.0,Ilsa
+2549.0,Minister
+2550.0,Stadium Announcer
+2551.0,Stadium Crowd
+2552.0,Kicker
+2553.0,Alex
+2554.0,Thug #1
+2555.0,Thug #2
+2556.0,Cardinal Flanders
+2557.0,President Lenny
+2558.0,Heckle
+2559.0,Jeckle
+2560.0,Passerby
+2561.0,Edison's Ghost
+2562.0,Visitor
+2563.0,Female Visitor
+2564.0,Eagle
+2565.0,Toucan
+2566.0,Vulture
+2568.0,Library Lady Tress
+2570.0,Ed McMahon
+2571.0,Regis Philbin
+2572.0,KATHIE LEE
+2573.0,Jerry Springer
+2574.0,Woman In Audience
+2575.0,Homie Bear
+2576.0,BART BART
+2577.0,Ranger Ned
+2578.0,Kim Basinger
+2579.0,Alec Baldwin
+2580.0,Ron Howard
+2581.0,Gentleman
+2582.0,ALECKIM
+2583.0,ALECKIMRON
+2584.0,STUDIO EXECUTIVE
+2585.0,Seth
+2586.0,Munchie
+2587.0,Middle-aged Grampa
+2588.0,Young Mona
+2589.0,Young Munchie
+2590.0,Young Seth
+2591.0,Hippie Girl #1
+2592.0,Hippie Girl #2
+2594.0,Jill St. John
+2595.0,Phyllis Diller
+2596.0,Sarah Ferguson
+2597.0,Skeleton
+2598.0,Lips
+2599.0,Range-rover Mom
+2600.0,Lobster Clerk
+2601.0,Documentary Narrator
+2602.0,Taskmaster
+2603.0,Mr. Toad
+2604.0,President Of Harvard
+2605.0,Comptroller Atkins
+2606.0,REAL COMPT. ATKINS
+2607.0,Robot Cowboy #1
+2608.0,Robot Cowboy #2
+2609.0,Robot Cowboy #3
+2610.0,Curly
+2611.0,Old Curly
+2612.0,3-Year-Old Homer
+2613.0,Admitting Nurse
+2614.0,Taffy Shop Clerk
+2615.0,Sad-looking Frenchman
+2616.0,Man In Dinner Jacket
+2617.0,British Raj Man
+2618.0,Woman In Wedding Dress
+2619.0,Caribbean Outcast
+2620.0,Son
+2621.0,Young Woman
+2622.0,Hideous Alien #1
+2623.0,Hideous Alien #2
+2624.0,C-3PO
+2626.0,Neil Armstrong
+2627.0,Dr. Smith
+2628.0,Nerdy Young Woman
+2629.0,Crowd Of Nerds
+2630.0,Mark Hamill
+2631.0,Ernie
+2632.0,Big Tom
+2633.0,Leavelle
+2634.0,Gangstersmolls
+2635.0,Theater Owner
+2636.0,Demolition Foreman
+2637.0,Don Rickles
+2638.0,Car Wash Employee
+2639.0,Babe
+2640.0,Samoan Attorney
+2641.0,Hunter S. Thompson
+2642.0,Joan Rivers
+2643.0,LANCE
+2644.0,Pit Boss
+2645.0,WAITRESS #1
+2646.0,Ginger
+2648.0,Graeme Edge
+2649.0,Justin Hayward
+2650.0,John Lodge
+2651.0,Ray Thomas
+2653.0,Cyndi Lauper
+2654.0,Dennis Conroy
+2655.0,WHINY TWENTYSOMETHING GUY
+2656.0,SASSY TWENTYSOMETHING GAL
+2657.0,Wacky Friend
+2658.0,Deep-voiced Announcer
+2659.0,Higher Nasal Announcer
+2660.0,Mrs. Muntz
+2661.0,Craggy Farmer
+2662.0,Creepy English Boy #2
+2663.0,Creepy English Girl #1
+2664.0,Constable
+2665.0,Creepy English Girl #2
+2666.0,Townsfolk
+2667.0,Pyro
+2668.0,Adults
+2669.0,Postmaster Bill
+2670.0,Man In Military Uniform
+2671.0,Government Official
+2672.0,Mailman #1
+2673.0,Mailman #2
+2674.0,Mailman #3
+2675.0,Wally
+2676.0,Guys
+2677.0,Rudy
+2678.0,Rosey Grier
+2679.0,Old Player
+2680.0,Little Guy
+2681.0,Troy Aikman
+2682.0,Dan Marino
+2683.0,Man Next To Dan
+2684.0,Male Voice
+2685.0,Vincent Price
+2686.0,Ticket Scalper
+2687.0,Pat Summerall
+2688.0,John Madden
+2689.0,Dolly Parton
+2690.0,Rupert Murdoch
+2691.0,Enchanted Policemen
+2692.0,Football Players
+2693.0,Reporter #4
+2695.0,JODY PRICE
+2696.0,Archie Bunker
+2697.0,Bad Flanders
+2698.0,Lieutenant
+2699.0,Commander
+2700.0,Bank Robber #1
+2701.0,Bank Robber #2
+2702.0,POLICECOP #2
+2703.0,POLICECOP #1
+2704.0,Banker
+2705.0,DETECTIVE HOMER SIMPSON
+2706.0,2nd Producer
+2707.0,3rd Producer
+2708.0,4th Producer
+2709.0,5th Producer
+2710.0,Saleswoman
+2711.0,TRENT
+2712.0,Valet
+2713.0,Guest #1
+2714.0,"Ed Begley, Jr."
+2715.0,Lorne Michaels
+2716.0,Guest #2
+2719.0,MACAW
+2720.0,Crewman
+2721.0,Elton John
+2722.0,Female S.U.V. Voice
+2723.0,Sergeant Crew
+2725.0,Curtis E. Bear
+2727.0,Australian Gamekeeper
+2728.0,Workmen
+2729.0,Omnitouch Rep
+2730.0,Security Guard #2
+2731.0,New Age Clerk
+2732.0,Deep Male Voice
+2733.0,Repo Man #1
+2734.0,Repo Man #2
+2735.0,RED
+2736.0,Cow #1
+2737.0,Red's Friend #1
+2738.0,Red's Friend #2
+2739.0,ABBA
+2740.0,Missionary #1
+2741.0,Missionary #2
+2742.0,Old Lady
+2743.0,Tourist #1
+2744.0,Trucker #3
+2745.0,Various Truckers
+2746.0,Trucker #5
+2747.0,Trucker #4
+2748.0,Navitron Auto-drive
+2749.0,Truckers
+2750.0,Señor Ding-Dong
+2751.0,Gopher
+2752.0,Unicorn
+2753.0,Slavedriver Willie
+2754.0,Pharaoh Skinner
+2755.0,BURNING BUSH
+2756.0,Mosesmilhouse
+2759.0,Methuselah Grampa
+2760.0,Goliathnelson
+2762.0,Teen
+2763.0,Tv Handyman
+2764.0,HANDYMAN
+2765.0,Astrid Weller
+2766.0,Jasper Johns
+2768.0,Cubist Musician
+2769.0,Andy Warhol
+2770.0,Burn Victims
+2771.0,French Representative
+2772.0,Ioc Chairman
+2773.0,Russian Representative
+2774.0,Latin Representative
+2775.0,OTHER REPRESENTATIVES
+2776.0,JAPANESE REPRESENTATIVE
+2777.0,Olympic Representatives
+2779.0,Seniors
+2780.0,Sweet Elderly Lady
+2781.0,Scarlett
+2782.0,Rhett
+2783.0,Other Seniors
+2784.0,Native-american Man
+2785.0,Jack LaLanne
+2786.0,Male Host
+2787.0,Appraiser
+2788.0,Everyone In Store
+2789.0,Kevin Costner
+2790.0,PEOPLE
+2791.0,Arthur Fortune
+2792.0,Conga Line
+2793.0,PEDESTRIANS
+2795.0,Jerry Rude
+2796.0,Local
+2797.0,3rd Local
+2799.0,Commercial Anncr
+2800.0,Pudding Representative
+2803.0,HAWKING
+2804.0,Computer Voice 2
+2805.0,GARABEDIAN
+2806.0,Mr. Pennybags
+2807.0,Japanese Stewardess
+2808.0,Jim Belushi
+2809.0,Toilet
+2810.0,TV CHARACTER
+2811.0,Woody Allen
+2812.0,Sumo
+2813.0,Magic Fish
+2814.0,Cartoon Squid
+2815.0,Japanese Father
+2816.0,Gameshow Host
+2817.0,Canadian Man
+2819.0,Somber Announcer
+2820.0,Salesperson
+2821.0,Electric Car Computer
+2822.0,WILLIAMROBYN
+2823.0,Mel Gibson
+2824.0,WILLIAM
+2825.0,ROBYN
+2826.0,MR.SMITHMEL
+2827.0,John Travolta
+2828.0,MAN ON RIGHT
+2829.0,MAN ON LEFT
+2830.0,Bus Tour Guide
+2831.0,Anne
+2832.0,MR. SMITHMEL
+2834.0,Senator Payne
+2835.0,Senate Leader
+2836.0,DISTINGUISHED-LOOKING MAN
+2837.0,Tram Guide
+2838.0,Irene Ryan
+2839.0,Batman
+2840.0,Robin
+2842.0,Hosey the Bear
+2843.0,Researcher #1
+2844.0,Researcher #2
+2845.0,Video Game
+2846.0,Staffer
+2847.0,Electronic Organizer
+2848.0,Navajo Boy
+2849.0,Dancer
+2850.0,SOLIDIER #1
+2851.0,Sir Widebottom
+2852.0,SCHOOLKIDS
+2853.0,Satellite
+2854.0,Mark McGwire
+2855.0,Homer Effigy
+2856.0,Newspaper Worker #1
+2857.0,Newspaper Worker #2
+2858.0,SHREWISH WOMAN
+2859.0,Lifeways Editor
+2860.0,Mimi
+2861.0,German Man
+2862.0,German Woman
+2863.0,Farm Critic
+2864.0,Tv Critic
+2865.0,Theater Critic
+2866.0,Herald
+2867.0,Salvatore
+2868.0,DINNER THEATRE OWNER
+2869.0,Deli Owner
+2870.0,French Chef
+2871.0,Dinner Theater Owner
+2873.0,CREEPY VOICE
+2874.0,Lucy Lawless
+2875.0,Dick Clark
+2876.0,Band Member #1
+2877.0,Band Member #2
+2878.0,Band Member #3
+2879.0,Rick James
+2881.0,Tom Arnold
+2882.0,Pauly Shore
+2883.0,Rosie O'Donnell
+2884.0,Terrible Celebrities
+2885.0,ROSIE O'DONNEL
+2887.0,G.I.
+2888.0,Dead German Soldier
+2889.0,Musketeer
+2890.0,Man In The Iron Mask
+2891.0,Zorro
+2892.0,Princess
+2893.0,Scarlet Pimpernel
+2894.0,King Arthur
+2895.0,Rap Singer
+2896.0,B-52'S
+2897.0,HOMERA
+2899.0,Farmer #2
+2900.0,Storekeeper
+2902.0,Sandy
+2903.0,J.P.
+2905.0,New Yorker
+2906.0,Burns Ball
+2907.0,PENN
+2908.0,Smiley the Elf
+2909.0,Happy The Elf
+2910.0,Giggly The Elf
+2911.0,Pat O'Brien
+2912.0,Nancy O'Dell
+2913.0,Man In Line
+2914.0,Boy In Car
+2915.0,Girl In Car
+2917.0,Allen
+2918.0,Shelbyville Father
+2919.0,SHELBYVILLE FATHER AND MOTHER
+2920.0,Forklift Driver
+2922.0,Businessman
+2923.0,ZOO OWNER
+2924.0,Butch Patrick
+2925.0,Anoop
+2926.0,Poonam
+2927.0,Flamboyant Theater-type
+2928.0,Christopher
+2931.0,Man With No Face
+2932.0,Fast-talking Announcer
+2933.0,Jay North
+2934.0,Johnny Bobby
+2935.0,NRBQ
+2936.0,Fretful Mother
+2937.0,Grim Father
+2938.0,Cop
+2939.0,Rebel
+2940.0,Meathook
+2941.0,Ramrod
+2942.0,Bikers
+2943.0,BURLY BARTENDER
+2945.0,Plaintiff
+2946.0,Defendant
+2947.0,Jim Hope
+2948.0,LINDSEY
+2949.0,Male Executive
+2950.0,Dixie Chicks
+2951.0,Funzo
+2952.0,Gary Coleman
+2953.0,Goodwill Driver
+2954.0,Chair Lift Operator
+2955.0,Ski Instructor
+2957.0,Lodge Employee #1
+2958.0,Lodge Employee #2
+2959.0,Mr. Sakamoto
+2960.0,Ricky
+2961.0,Lucy
+2962.0,Fred
+2963.0,John Wayne
+2964.0,RASPY VOICE
+2965.0,Left Snake
+2966.0,Right Snake
+2967.0,Both Snakes
+2968.0,Virtual Doctor
+2969.0,Lubchenko
+2970.0,Men's Singing Group
+2971.0,Frat Boy #1
+2972.0,Frat Boy #2
+2973.0,Brother Faith
+2974.0,Bart's Congregation
+2975.0,Float Singers
+2976.0,FAN
+2977.0,Britney Spears
+2978.0,SEAT FILLER
+2979.0,Chapman
+2980.0,Coast Guard Guy
+2981.0,Party Guests
+2982.0,Asian Pirate
+2983.0,CLOSING
+2984.0,Rat-pack Kid
+2985.0,SALESGUY
+2986.0,Randy Bachman
+2987.0,Fred Turner
+2988.0,State Comptroller Atkins
+2989.0,Giant Pearl
+2990.0,Dream Homer
+2991.0,Jockey #1
+2992.0,Jockey #2
+2993.0,Mrs. Vanderbilt
+2994.0,Mr. Vanderbilt
+2995.0,Jockeys
+2996.0,Tree Jockey
+2997.0,Toadstool Jockey
+2998.0,Woman Jockey
+3000.0,Hank Jockey
+3001.0,Duncan
+3002.0,FIRST PARROT
+3003.0,SECOND PARROT
+3004.0,Clay Babcock
+3005.0,Mrs. Babcock
+3006.0,Crew Chief
+3007.0,LINDSAY
+3008.0,Rachel
+3010.0,Teen-aged Hooligan
+3011.0,Betty White
+3012.0,Mr. Rogers
+3013.0,Yo-Yo Ma
+3015.0,Ellmeaux
+3016.0,Craig
+3017.0,Amy
+3018.0,Qtoktok
+3019.0,Ak
+3020.0,LISA JUNIOR
+3022.0,Chipper Guide
+3023.0,Babe Ruth
+3024.0,Titania
+3025.0,Phil Angelides
+3026.0,Dr. Velimirovic
+3027.0,Jailbird's Son
+3028.0,Slick-looking Man #1
+3029.0,Slick-looking Man #2
+3030.0,Slick-looking Man #3
+3031.0,Second Nurse
+3033.0,20-ISH MOE
+3034.0,NO NONSENSE FEMALE VOICE
+3035.0,Helen Morehouse
+3036.0,Soap Announcer
+3037.0,Ingenue
+3038.0,Contessa
+3039.0,Arthur Crandall
+3040.0,Casino Manager
+3041.0,Hologram Nelson
+3042.0,Heckler
+3043.0,Old Barney
+3044.0,Helen Thomas
+3046.0,Security Advisor Kearney
+3048.0,Old Krusty
+3049.0,Billy Carter's Ghost
+3050.0,Foreign Delegates
+3051.0,German Delegate
+3052.0,British Delegate
+3053.0,French Delegate
+3054.0,Chinese Delegate
+3055.0,TIKI
+3057.0,Lindsay Naegle
+3058.0,Factory Foreman
+3059.0,Burt Reynolds
+3060.0,Charlie Rose
+3061.0,Robert Evans
+3062.0,Inspector
+3063.0,Boisterous Student
+3064.0,Veejay
+3065.0,Younger Veejay
+3066.0,JOE C.
+3067.0,Kid Rock
+3068.0,Band
+3069.0,Sheriff
+3070.0,Female Student
+3071.0,Male Student
+3072.0,RADIO ANNCR
+3073.0,Southern Dowager
+3074.0,Cyborganizer
+3075.0,Robobaby
+3076.0,Eduardo
+3077.0,Dance Coach
+3078.0,PLAIN JANE
+3079.0,Latin Milhouse
+3080.0,LISABELLA
+3081.0,Little Vicki
+3082.0,Texan Man
+3083.0,Thought Bubble Homer
+3084.0,ORGAN SALESMAN
+3085.0,Mall Manager
+3086.0,Bojangles
+3089.0,Bret Michaels
+3090.0,The Admiral
+3091.0,Lead Singer
+3092.0,Tourist
+3093.0,Other Doctors
+3094.0,Dr. Wilmore
+3096.0,RUPERT
+3097.0,Crew Member
+3098.0,Dr. Stephen Hawking
+3099.0,Richie Rich
+3100.0,Female Artist
+3101.0,Sidekick #2
+3102.0,LISA'S LAWYER
+3103.0,Willie Nelson
+3104.0,Huckleberry Hound
+3105.0,St. Peter
+3106.0,Ghost Homer
+3107.0,SCOUT
+3108.0,SATAN
+3109.0,Troll
+3110.0,Goldilocks
+3111.0,RAPUNZEL
+3112.0,Witch
+3113.0,Handsome Man
+3114.0,Snorky
+3119.0,Woodpecker
+3120.0,Phone Recording
+3121.0,BAD AUSTIN POWERS IMPRESSION
+3122.0,Phone Company Lady
+3123.0,CARTOON MAN
+3124.0,PHONEY
+3125.0,939'ers
+3126.0,TRANSPORTER
+3127.0,Prospector
+3128.0,Roger Daltrey
+3129.0,John Entwistle
+3130.0,Pete Townshend
+3131.0,PETEROGERJOHN
+3132.0,Olde Springfielders
+3134.0,Stephen King
+3135.0,'For Dummies' Author
+3136.0,Christopher Walken
+3137.0,Tom Clancy
+3138.0,Maya Angelou
+3139.0,Amy Tan
+3140.0,AUTHOR
+3141.0,Sophie
+3142.0,FEMALE SOLDIER
+3144.0,Stereo Voice
+3145.0,Ace of Hearts
+3146.0,Ace of Clubs
+3147.0,Ace of Diamonds
+3148.0,Ace of Spades
+3149.0,ALL FOUR ACES
+3150.0,MAN WITH JEWELER'S LOUPE
+3151.0,Female Teen #1
+3152.0,Female Teen #2
+3153.0,Mobsters
+3154.0,Squealer
+3155.0,Johnny Tightlips
+3156.0,Old Barber
+3157.0,Mr. Thai
+3158.0,LEAD PROTESTER
+3159.0,Jesse Grass
+3160.0,Activists
+3161.0,Caleb
+3163.0,Springfielders
+3164.0,Male Activist
+3165.0,Singing Waiters
+3166.0,Scanner
+3167.0,Financial Planner
+3168.0,Albuquerquean Man
+3169.0,Female Trainer
+3170.0,Mr. Costington
+3171.0,Leeza Gibbons
+3172.0,CREDIT CARD SWIPER
+3173.0,Virtual Wiggum
+3175.0,Head Terrorist
+3176.0,Committee Woman
+3177.0,Citizen #1
+3178.0,Citizen #2
+3179.0,Patrick McGoohan
+3180.0,Blind Man
+3181.0,Number 2
+3182.0,Fake Homer
+3183.0,Questo
+3184.0,QUESTO'S THOUGHTS
+3187.0,PUPPETEER
+3188.0,Silver-haired Man
+3189.0,FBI MAN
+3190.0,Willie's Lawyer
+3191.0,Ex-jock #2
+3192.0,Ex-jock #1
+3194.0,Costume Supervisor
+3195.0,Ex-jock #3
+3196.0,Disheveled Clown
+3197.0,Ringmaster
+3198.0,RADIO WEATHER MAN
+3199.0,APU+
+3200.0,Hobgoblin
+3201.0,LITTLE BO PEEP
+3202.0,G.I. #1
+3203.0,Young Skinner
+3204.0,G.I. #2
+3207.0,Camel Lisa
+3208.0,Harem Girl Bart
+3209.0,Super-criminal
+3210.0,Female Warrior
+3211.0,A.D.R. Sessions
+3212.0,SMOOTH ANNOUNCER
+3213.0,Company Spokesman
+3214.0,Female Technician
+3215.0,Cartoon Dog
+3216.0,Rockettes
+3218.0,Female Researcher
+3219.0,Male Researcher
+3220.0,SIX-YEAR-OLD HOMER
+3221.0,CLASSICAL D.J.
+3222.0,Fire Inspector
+3223.0,Groom #1  Groom #2
+3224.0,Ring Bearer
+3226.0,Burly Usher
+3227.0,Octoparrot
+3228.0,Prisoner
+3229.0,Rodeo Clown #1
+3230.0,Rodeo Clown #2
+3231.0,Sardonicus
+3232.0,Dr. Steve
+3233.0,Bruce Vilanch
+3234.0,Johnny Cochran
+3235.0,Mrs. Prince
+3236.0,Gallagher
+3237.0,Tom Savini
+3238.0,Mr. Rodgers
+3239.0,Officer
+3240.0,Weeping Widow
+3243.0,Stephanie
+3244.0,Assistant Director
+3245.0,Black Pawn
+3246.0,Black Rook
+3247.0,Black King
+3249.0,Serena Williams
+3250.0,Venus Williams
+3251.0,SERENA
+3252.0,Pete Sampras
+3253.0,Andre Agassi
+3254.0,VENUS
+3255.0,Game Show Host
+3256.0,GHOSTLY SIDESHOW BOB
+3258.0,Judy Carne
+3259.0,Frances
+3260.0,Lighting Man
+3261.0,SUPEREXECUTIVE
+3262.0,Djiboutian Runner
+3263.0,Australian Runner
+3264.0,Runners
+3265.0,HIP-LOOKING MAN
+3266.0,L.T. Smash
+3267.0,Party Posse
+3268.0,Joey Fatone
+3269.0,Justin Timberlake
+3270.0,Lance Bass
+3271.0,Chris Kirkpatrick
+3272.0,J.C. Chasez
+3273.0,Cienega
+3274.0,Arab Woman
+3275.0,Hippie #1
+3276.0,Hippie #2
+3277.0,Hippie #3
+3278.0,ADMIRAL
+3279.0,'mad' Writer #1
+3280.0,'mad' Writer #2
+3281.0,N'SYNC
+3282.0,Other Writers
+3283.0,Testimonial Kid
+3284.0,Blocko Cowboy
+3285.0,Blocko Lincoln
+3287.0,Souvenir Salesman
+3288.0,Henri
+3289.0,Howard K. Duff VIII
+3291.0,Vendor #1
+3292.0,Vendor #2
+3293.0,Vendor #3
+3294.0,2nd Executive
+3295.0,SPIRIT
+3296.0,Chavez
+3297.0,MAYOR
+3298.0,Freakish Kid
+3299.0,Francine Rhenquist
+3300.0,Poison Service
+3301.0,FEMALE AUDIENCE
+3302.0,Business Owner
+3303.0,Factory Owner
+3304.0,Scientist #3
+3305.0,Francine's Mom
+3306.0,Francine's Dad
+3307.0,Bag Boys
+3308.0,Unattractive Waitress
+3309.0,Female Lawyer
+3310.0,Male Lawyer
+3311.0,Villager
+3312.0,Ngongo
+3313.0,African Flight Attendant
+3314.0,Kitenge
+3315.0,Doorman
+3323.0,Joan Bushwell
+3325.0,POACHER
+3326.0,ANIMAL ACTIVIST
+3329.0,Muntu
+3330.0,Linguo
+3331.0,BOOKISH BOY
+3332.0,Thelonious
+3333.0,VOICE ON TRANSMITTER
+3334.0,2ND VOICE ON TRANSMITTER
+3335.0,3RD VOICE
+3336.0,Krusty Clock
+3337.0,Rachel Jordan
+3338.0,King David
+3339.0,Frank Sinatra
+3340.0,Captain Kirk
+3341.0,Uhura
+3342.0,Ymca Representative
+3343.0,Lugash
+3344.0,Rapper
+3345.0,Moon
+3346.0,MARVIN GAYE
+3348.0,Bill Cosby
+3349.0,Airline Rep
+3350.0,Hobo
+3351.0,Country Doctor
+3352.0,Abe Bunyan
+3353.0,Mrs. Abe Bunyan
+3354.0,Paul Bunyan
+3355.0,Sourdough Moe
+3356.0,PUAL BUNYAN
+3357.0,Connie Appleseed
+3358.0,FAINT VOICE
+3359.0,Huck Finn
+3360.0,Tom Sawyer
+3361.0,Becky Thatcher
+3362.0,Judge Thatcher
+3363.0,Parson Lovejoy
+3364.0,Sheriff Wiggum
+3365.0,HUCKTOM
+3366.0,Cholera Woman
+3367.0,Baby Vendor
+3368.0,Gypsy
+3369.0,Shrunken Head
+3370.0,Gil Robot
+3371.0,Robot Worker #1
+3372.0,Robot Worker #2
+3374.0,Ultrahouse 3000
+3375.0,Matthew Perry
+3376.0,Dennis Miller
+3377.0,Pierce Brosnan
+3378.0,Harry Potter
+3379.0,PRINCE
+3380.0,Prince William
+3381.0,Bart's Prince
+3382.0,Montymort
+3383.0,Slithers
+3384.0,KRUSTY FACE
+3385.0,COMIC BOOK GUY FACE
+3386.0,FROG PRINCE
+3387.0,CAMPY 40'S MOVIE DETECTIVE
+3388.0,Cora
+3390.0,Judge Harm
+3392.0,Dr. Kaufman
+3393.0,Super-muscular Soldier
+3394.0,Prof. Huntington
+3395.0,Formico
+3396.0,Models
+3397.0,Model #2
+3398.0,Model #1
+3399.0,Sad Robot
+3400.0,Female Bargoer
+3401.0,Male Bargoer
+3402.0,Bargoers
+3403.0,REM
+3404.0,Peter Buck
+3405.0,Michael Stipe
+3406.0,Mike Mills
+3408.0,Animal Catcher #1
+3409.0,Older Chinese Man
+3411.0,MR. BURNS BRAIN
+3412.0,Anti-theft Device
+3413.0,Burly
+3414.0,Mama Celeste
+3415.0,Paul Newman
+3416.0,Mesmerino
+3417.0,Buddy Love
+3418.0,Young Lenny
+3419.0,Young Carl
+3420.0,Young Louie
+3421.0,Young Fat Tony
+3422.0,Young Moe
+3423.0,Young Legs
+3424.0,"Waylon Smithers, Sr."
+3425.0,WAYLON JR.
+3426.0,Space Ship Ensign
+3427.0,Space Ship Captain
+3428.0,Astronaut Pitchman
+3429.0,Wino
+3431.0,Money Changer
+3432.0,Ghostly Voice
+3433.0,Richard Gere
+3434.0,Strom Thurmond
+3435.0,Ralph Nader
+3436.0,Dracula
+3437.0,Bob Dole
+3438.0,Environmentalist
+3440.0,Gabriel
+3443.0,Overweight Man
+3446.0,CEO
+3447.0,MOTHERLOVING
+3448.0,Lawyers
+3449.0,Dia-Betty
+3450.0,ELECTRONICALLY-ALTERED VOICE
+3451.0,Count Fudge-ula
+3452.0,Sugar Dealer
+3453.0,Two Male Marchers
+3454.0,Marcher
+3455.0,Lesbians
+3456.0,Gay Man
+3457.0,Duck
+3458.0,Justin
+3460.0,Teenage Soccer Player
+3461.0,Announcer #3
+3462.0,Teenage Usher #1
+3463.0,Teenage Usher #2
+3465.0,Society Man
+3466.0,Barbara Walters
+3467.0,Joy Behar
+3468.0,Gen X Girl
+3469.0,Star Jones
+3470.0,Professor Van Doren
+3471.0,Derby Announcer
+3472.0,Beer Vendor
+3473.0,Derby Announcer #1
+3474.0,Kristen Davis
+3475.0,Kim Catrall
+3476.0,Sarah Jessica Parker
+3477.0,Taxi Driver
+3478.0,German Baron
+3479.0,Dinosaur Doll
+3480.0,One-armed Man
+3481.0,Ant
+3482.0,Helicopter Cop
+3483.0,Headmaster
+3484.0,Headmaster's Wife
+3485.0,Wolfgang Puck
+3486.0,Little Rich Boy
+3487.0,Greta Wolfcastle
+3488.0,Snobby Bully #1
+3489.0,Snobby Bully #2
+3490.0,Lookalike
+3491.0,Teenage Waiter
+3492.0,Tram Driver
+3493.0,Bully #1
+3494.0,Bully #2
+3495.0,Canadian Player
+3496.0,Ostrich
+3497.0,COWBOY
+3498.0,BUCK
+3499.0,Sad Cowboy
+3500.0,Bank Robber
+3502.0,Zelda
+3503.0,Zack
+3506.0,Black Best Friend
+3507.0,DISTINGUISHED VOICE
+3508.0,HISPANIC GENTLEMAN
+3509.0,1940S ANNOUNCER
+3510.0,Revue Cast Members
+3511.0,Charo
+3512.0,"RAY JAY JOHNSON, JR."
+3513.0,Charlie Callas
+3514.0,Yakov Smirnov
+3515.0,Audience Members
+3516.0,CHARRO
+3517.0,Dionysus Barney
+3518.0,SEA CAPTAINPOSEIDON
+3520.0,Sirens
+3521.0,Crewmembers
+3522.0,Discus Stu
+3524.0,Circe
+3525.0,Lenny Pig
+3526.0,Dead Souls
+3527.0,Other Suitors
+3529.0,Catapult Man
+3531.0,English Soldier
+3532.0,English Soldier #1
+3533.0,English Soldier #2
+3534.0,Judge Lovejoy
+3536.0,Hamlet Bart
+3538.0,Viking
+3539.0,Guilden-Lenny
+3540.0,Rosen-Carl
+3542.0,Female Robot
+3543.0,Mr. Movie Phone
+3544.0,Telemarketer
+3545.0,Ronaldo
+3548.0,FLAMINGO
+3549.0,Lifeguard
+3551.0,Crows
+3552.0,Present-Day Homer
+3553.0,Trey Anastasio
+3554.0,Page McConnell
+3555.0,Jon Fishman
+3556.0,SOME AUDIENCE MEMBERS
+3557.0,Mike Gordon
+3559.0,Seamus
+3560.0,Booking Agent
+3561.0,Mr. Blackwell
+3562.0,Jenkins
+3563.0,Danger Dog
+3564.0,Stan Lee
+3566.0,Todd Linux
+3568.0,Lou Rawls
+3569.0,Voice Actor
+3570.0,Cartoon Bart
+3571.0,Passersby
+3572.0,Paperboy
+3573.0,Milkman
+3574.0,Piano Lady
+3575.0,Squishee Lady
+3576.0,Tom Brokaw
+3578.0,James Lipton
+3579.0,Delivery Guy
+3580.0,Divorce Lawyer
+3581.0,Sashi
+3582.0,Pria
+3583.0,Uma
+3584.0,Sandeep
+3585.0,Nabendu
+3586.0,Gheet
+3587.0,Deliveryman
+3588.0,Ms. Pommelhorst
+3589.0,Liberace Doll
+3590.0,Carrie
+3591.0,Tina
+3592.0,Robert Pinsky
+3593.0,Student #1
+3594.0,Student #2
+3595.0,Glue-bottle Cow
+3596.0,Student #3
+3597.0,Student #4
+3600.0,Homer Devil
+3601.0,Homer Angel
+3602.0,VOICE OVER MEGAPHONE
+3603.0,Mrs. Bellamy
+3605.0,Prison Warden
+3606.0,Michael Clark Duncan
+3607.0,Executioner
+3608.0,Man With Braces
+3609.0,Carmen Electra
+3611.0,Fonzie
+3612.0,Arnie
+3613.0,Looters
+3614.0,Beatnik
+3615.0,Monster
+3616.0,Newsie
+3617.0,Otis
+3620.0,Demon Maude
+3621.0,Peddler
+3622.0,Homer Double
+3623.0,Doubles
+3624.0,HOMER DOUBLES
+3625.0,TRACEY ULLMAN SHOW HOMER
+3626.0,Farmer Gil
+3627.0,Army General
+3628.0,Air Force General
+3629.0,WILLIAM BONNEY
+3630.0,WILLIAM BONNEYBILLY THE KID
+3631.0,BILLY THE KID
+3632.0,Sundance Kid
+3633.0,Frank James
+3634.0,Kaiser
+3635.0,Future Homer
+3636.0,Turkey Frink
+3637.0,Panther Marge
+3638.0,Cow Flanders
+3639.0,Ralph Peacock
+3640.0,Comic Book Ram
+3641.0,Pig Wiggum
+3642.0,Owl Lisa
+3643.0,Alligator Sea Captain
+3644.0,Fox Burns
+3645.0,LISA OWL
+3646.0,Spider Bart
+3647.0,Disco Shrew
+3649.0,Walrus Homer
+3650.0,Cab Driver
+3651.0,Network Announcer
+3652.0,Female Cab Driver
+3653.0,Drunk Homer
+3654.0,Mick Jagger
+3655.0,Keith Richards
+3656.0,Elvis Costello
+3657.0,Lenny Kravitz
+3658.0,Kenny Loggins
+3659.0,Brian Setzer
+3660.0,Tom Petty
+3661.0,GROUPIES
+3663.0,Salvadoran Rebel
+3666.0,Male Game Show Host
+3667.0,Race Track Announcer
+3668.0,Japanese Joey
+3669.0,Japanese Phoebe
+3670.0,Clock Announcer
+3671.0,Robot #1
+3672.0,Robot #2
+3673.0,Clown
+3674.0,Characters
+3675.0,M.C. Safety
+3676.0,Caution Crew Member
+3677.0,Mrs. McConnell
+3678.0,Third-grade Class
+3679.0,Third-grade Girl
+3681.0,Senate Chairman
+3682.0,Governor Mary Bailey
+3683.0,Homeless Man
+3684.0,Mountain Man
+3685.0,Grandpappy
+3686.0,Mountain Woman
+3687.0,Spanish Man
+3688.0,Cookie Kwan
+3689.0,Kid Announcer
+3690.0,BAJA MEN
+3691.0,LINDSAYCOOKIE
+3692.0,Television
+3693.0,Clownface
+3694.0,Chief O'Hara
+3696.0,Head Veteran
+3697.0,Angelo
+3698.0,All Men
+3699.0,Kiki
+3700.0,Shoe Buyer #1
+3701.0,Shoe Buyer #2
+3703.0,Baha Men
+3704.0,Larry Holmes
+3705.0,Gummy Sue
+3706.0,Kozlov
+3708.0,Exterminator
+3709.0,Bran Producers
+3710.0,Bran Producer #1
+3711.0,Bran Producer #2
+3712.0,Mitch
+3713.0,David Lander
+3714.0,BEARDED MAN
+3715.0,Female Castaway
+3716.0,Sad Man
+3718.0,Cameraman #1
+3719.0,Cameraman #2
+3720.0,Cop #1
+3721.0,Cop #2
+3722.0,Masseur
+3723.0,ASIAN MASSEUSE
+3724.0,Yoga Master
+3725.0,Man With Mustache
+3726.0,HOMER THOUGHTS
+3728.0,Decapitating Harry
+3729.0,High-tech Cell
+3730.0,Junior
+3731.0,Man Dressed As Jester
+3732.0,Reveler
+3733.0,SIX-YEAR-OLD GRAMPA
+3734.0,Judge #2
+3735.0,Judge #1
+3736.0,Judge #3
+3737.0,Robin Williams
+3738.0,Committee Chairman
+3739.0,Sad Whiny Voice
+3740.0,Animatronic Gay Men
+3741.0,Riders
+3742.0,RIDER
+3743.0,Robot Mother
+3744.0,Maniacal-looking Teacher
+3745.0,Little Richard
+3746.0,Skinner's Thoughts
+3747.0,Mrs. Skinner's Thoughts
+3748.0,Cartoon Mouse Voice
+3749.0,FEMALE MTV V.J.
+3750.0,Elliott Gould
+3751.0,Girl's Thoughts
+3752.0,Bully
+3753.0,Turbo Diary
+3754.0,Movie Narrator
+3755.0,FLANDERS' VOICE
+3756.0,Space Frog
+3757.0,ASTRONAUT VOICE
+3758.0,Sheriff Lisa
+3759.0,Colt
+3760.0,HEAD PROTESTER
+3761.0,Giuseppe
+3763.0,Scary Voice
+3764.0,SCARY MAN
+3765.0,Mugger
+3766.0,Cheap Girlfriend
+3767.0,Ruth Powers
+3768.0,Sonya
+3769.0,Lisa Leslie
+3770.0,SWISH
+3771.0,David McCullough
+3772.0,Ken Burns
+3773.0,Skating Announcer
+3774.0,Tanker Driver
+3776.0,Bowler
+3777.0,Bowling Teammates
+3778.0,Booming Voice
+3779.0,Buddha
+3780.0,Walter Cronkite
+3781.0,Ornette Coleman
+3783.0,Balki
+3784.0,Happy Face
+3785.0,Uwa
+3786.0,Stenographer
+3787.0,Tony Hawk
+3788.0,Tom DeLonge
+3789.0,Mark Hoppus
+3790.0,Travis Barker
+3791.0,Event Announcer
+3792.0,Commercial Actress
+3793.0,60-Year-Old Nelson
+3794.0,Booberella
+3795.0,Frankenstein
+3796.0,GRAVELLY MALE SINGER
+3797.0,Truck Commercial Announcer
+3798.0,Rib-It
+3799.0,Lisa's Cheering Section
+3800.0,George Plimpton
+3801.0,Barnard
+3802.0,Radcliffe
+3803.0,Wellesley
+3804.0,Mount Holyoke
+3805.0,Vassar
+3806.0,Smith
+3807.0,Bryn Mawr
+3808.0,Seven Sisters
+3809.0,Real Lisa
+3810.0,Ribhead
+3811.0,Ribhead #2
+3812.0,Italian Man
+3813.0,Sun Moon
+3814.0,Hibbert Boy
+3815.0,Big Band Singer
+3816.0,Irish Cop
+3817.0,Sara Sloane
+3818.0,REPORTER CLETUS
+3819.0,James L. Brooks
+3820.0,Helen Fielding
+3821.0,MOE HOWARD
+3822.0,Airport Official
+3823.0,Republicans
+3824.0,Armstrong
+3825.0,Jet Pilot
+3826.0,Fox News Anchor
+3827.0,Southern Congressman
+3828.0,Elderly Congressman
+3829.0,Committee Member
+3830.0,Committee Member #2
+3831.0,Congressperson
+3832.0,Sgt. At Arms
+3833.0,Speaker Of The House
+3834.0,House Members
+3835.0,Mouse Paramedic
+3836.0,Nuts & Bolts
+3837.0,Terrence
+3838.0,Stark Richdale
+3839.0,First Worker
+3841.0,Nuclear Inspector
+3842.0,Animated Skinner
+3843.0,Declan Desmond
+3844.0,Sad Voice
+3845.0,Hobby Shop Guy
+3846.0,Astronomer
+3847.0,MALE COMPUTER VOICE
+3848.0,Angry Mob
+3849.0,Jimmy the Snitch
+3850.0,PUZZLE LENNY
+3851.0,Bachelors
+3852.0,Grady
+3853.0,Julio
+3854.0,Stylist
+3855.0,Lesbian
+3856.0,Large Gay Man
+3857.0,Weird Al
+3858.0,Black Knight
+3859.0,King
+3860.0,Young Dr. Hibbert
+3861.0,David Byrne
+3862.0,William Shatner
+3863.0,Wrangler #1
+3865.0,Luke
+3866.0,Cleanie
+3867.0,Native American
+3868.0,Clara
+3869.0,Native American Woman
+3870.0,Brave
+3874.0,Dry Cleaner
+3875.0,Man With Sack
+3876.0,Man With Plow
+3878.0,H.K. Duff
+3879.0,American Astronaut
+3880.0,Russian Astronaut
+3882.0,Les
+3883.0,REGIS
+3886.0,Parasailer #1
+3887.0,Parasailer #2
+3888.0,Male Narrator
+3889.0,Female Tour Guide
+3890.0,Female
+3891.0,Southern Woman
+3892.0,Woman's Daughter
+3893.0,Armando
+3894.0,Tv Chef
+3895.0,Grouchy Old Man
+3896.0,Sweet Old Lady
+3898.0,Steve Buscemi
+3899.0,Turks
+3900.0,Marriage Counselor
+3901.0,Jackson Browne
+3902.0,Busboys
+3903.0,Farty
+3904.0,O.J.
+3905.0,Pax Announcer
+3906.0,Silver-haired Woman
+3907.0,Jim Proudfoot
+3908.0,Junior Dandy Chief
+3910.0,Beautiful Woman
+3911.0,Jethro
+3912.0,Granny
+3913.0,Hot Woman
+3914.0,Elmo
+3915.0,Godfather
+3916.0,Homer Doll
+3917.0,Don Castellaneta
+3918.0,Younger Mobster
+3919.0,Death
+3920.0,Frankie the Squealer
+3921.0,Swedish Scientist
+3922.0,Frink Senior
+3923.0,Young Professor Frink
+3924.0,Jennifer Garner
+3925.0,Dudley Herschbach
+3926.0,Oscar De La Hoya
+3927.0,Fbi Agent
+3928.0,Asian Woman
+3929.0,Federal Agent
+3930.0,Female Prisoners
+3931.0,Second Prisoner
+3932.0,Prison Bus Driver
+3934.0,First Prisoner
+3935.0,French Teacher
+3936.0,Michael Moore
+3937.0,Boy Student
+3938.0,Dad #2
+3939.0,Alien Rock Band
+3941.0,Edwina
+3942.0,Tony Blair
+3943.0,English Gentleman
+3944.0,Concierge
+3945.0,J.K. Rowling
+3946.0,Squeaky-Voiced British Teen
+3947.0,Judi Dench
+3948.0,Gentleman #1
+3949.0,GENTLEMAN #2
+3950.0,Lord Daftwager
+3951.0,Evan Marriott
+3952.0,Sir Ian McKellen
+3953.0,Deep British Voice
+3955.0,Young Girl In Crowd
+3956.0,Second Guard
+3957.0,Sparkly Elves
+3958.0,Madonna
+3959.0,HOMER-ISH WOMAN'S VOICE
+3960.0,Abbey
+3961.0,Cucumber Moses
+3962.0,Candy Ball
+3963.0,Grant Connor
+3964.0,Care Bear
+3965.0,Prostitute
+3966.0,2nd Peddler
+3967.0,1st Construction Worker
+3968.0,2nd Construction Worker
+3969.0,Ultrasound Woman
+3970.0,Jeremy
+3971.0,Diane
+3972.0,Beach Boys Experience
+3973.0,Curb Re-painter
+3974.0,Kathy
+3975.0,Holiday Special Announcer
+3976.0,Soulful Prune
+3977.0,Classy Clerk
+3978.0,Talking Astrolabe
+3979.0,REDNECK RADIO DJ
+3980.0,Country Singer
+3981.0,BACKUP SINGERS
+3982.0,ASTROLABE
+3983.0,Jimmy Stewart Puppet
+3984.0,Cartoon Announcer
+3985.0,Mr. McGrew
+3986.0,Bob Cratchett
+3987.0,Ghost Of Xmas Past
+3988.0,Sitcom Character
+3989.0,Ebenezer Urkel
+3990.0,Mr. Sulu
+3991.0,Mr. Scott
+3992.0,Pregnant Woman
+3993.0,Wildlife Host
+3994.0,HANK HILL
+3995.0,Roofi
+3997.0,Kids Chorus
+3999.0,Concert Announcer
+4000.0,Tinky Winky
+4002.0,Kid Crowd
+4003.0,Afghani Man
+4005.0,Speak 'n' Spell
+4006.0,Perverts
+4007.0,Tobacco Lobbyist
+4008.0,Mother On Ad
+4009.0,Actress In Blue Wig
+4010.0,'Yeeeessss' Man
+4011.0,Bike Guy
+4012.0,Macho Tv Announcer
+4013.0,ROBOT WARS ANNOUNCER #2
+4014.0,ROBOT WARS ANNOUNCER #1
+4015.0,Knockahomer
+4016.0,Scary Robot
+4017.0,Security Voice
+4018.0,Esme Delacroix
+4019.0,Boris
+4020.0,Siren
+4021.0,Bartleby
+4022.0,Leezakiah
+4023.0,Temperance
+4024.0,Captain Mordecai
+4025.0,CYRUS MANLEY
+4026.0,Jealousy
+4027.0,Honesty
+4028.0,Conscience
+4029.0,Libido
+4030.0,Thomas Pynchon
+4031.0,Springfieldites
+4032.0,Ashley Olsen
+4033.0,Mary-Kate Olsen
+4034.0,Elderly Librarian
+4035.0,Henry VIII
+4036.0,MARGARINE OF ARAGON
+4037.0,Court Herald
+4038.0,Royal Physician
+4039.0,Prince Bart
+4040.0,Margarine
+4041.0,Thomas More
+4042.0,Barrister
+4043.0,Anne Boleyn
+4044.0,Archbishop Lovejoy
+4045.0,Jane Seymour
+4046.0,Next Wife #2
+4047.0,Next Wife #3
+4048.0,Anne of Cleves
+4049.0,Advisor Moe
+4050.0,Chief Homer
+4051.0,Sacagawea
+4052.0,Charbonneau
+4054.0,Mozart
+4055.0,Salieri
+4056.0,RAINER WOLFCASTLE
+4058.0,Emperor Joseph II
+4059.0,Knight Chorus
+4060.0,LADIES IN WAITING CHORUS
+4061.0,Female Soloist
+4062.0,Fop #1
+4063.0,Fop #2
+4064.0,Chancellor Smithers
+4065.0,Beethoven
+4067.0,Isabel Sanford
+4068.0,'70s Announcer
+4069.0,Paul Lynde
+4070.0,Nadia Comaneci
+4071.0,Lancelot Link
+4072.0,K.I.T.T.
+4073.0,Salem the Cat
+4074.0,Mr. Ed
+4075.0,Woman Bystander
+4077.0,Indigent Man
+4078.0,'Yesss' Man
+4079.0,Airline Employee
+4080.0,Boy #2
+4081.0,Cap City Boys
+4083.0,Indigent Woman
+4084.0,Miss Wickerbottom
+4085.0,Phonic Frog
+4086.0,Simon
+4087.0,Ticket Vendor
+4088.0,Creepy Little Girl
+4089.0,Mysterious Noise
+4090.0,Sec Agent #1
+4091.0,Sec Agent #2
+4092.0,Committee Chairwoman
+4094.0,Arties
+4095.0,Female Ticket Vendor
+4096.0,Human Senator
+4097.0,2nd Voice
+4098.0,Enormous Robot
+4099.0,Miner Father
+4100.0,Jason
+4101.0,Jim-Jam
+4102.0,Wise Alien
+4103.0,Geeky Programmer
+4104.0,Man In Suit
+4105.0,Vintner
+4106.0,RANDALL
+4107.0,Randall Curtis
+4108.0,Germans
+4110.0,Kyle
+4111.0,Greeter
+4112.0,Store Employee
+4113.0,Juvies
+4115.0,Juvie #1
+4116.0,Gina Vendetti
+4118.0,Boy Juvie
+4119.0,Juvie #2
+4120.0,Juvie Girl
+4121.0,Female Alien
+4122.0,Blacksmith
+4123.0,Skinner On Plaque
+4124.0,CYBORG SPIDER MRS. SKINNER
+4125.0,Wedding Guests
+4126.0,White Rabbit
+4127.0,Hulk
+4129.0,PRINCIPAL SKINNER CT
+4132.0,Convention Freak
+4134.0,Unrecognizable Simpsons
+4135.0,Uncle Tyrone
+4136.0,Ryan O'Neal
+4137.0,Ali McGraw
+4139.0,Fit Man
+4140.0,10 Years Younger Homer
+4141.0,10 Years Younger Marge
+4142.0,Female Gate Announcer
+4143.0,1st Class Stewardess
+4144.0,Hotel Operator
+4145.0,Young Wife
+4146.0,Young Husband
+4147.0,Animal Character
+4148.0,Widow #1
+4149.0,Widow #2
+4150.0,Widows
+4151.0,Attractive Widow
+4152.0,Raoul
+4153.0,American Skipper
+4154.0,Canadian Skipper
+4156.0,Contestant #1
+4157.0,Contestant #2
+4158.0,Farmer Billy
+4159.0,Pig Owner
+4161.0,Nichelle Nichols
+4162.0,Pie #1
+4163.0,Pie #2
+4164.0,Cake
+4165.0,Pie #3
+4166.0,Pies
+4167.0,Girl Scout
+4168.0,Dalai Lama
+4169.0,10-Year-Old Homer
+4170.0,10-Year-Old Lenny
+4171.0,10-Year-Old Carl
+4172.0,T.J.
+4173.0,Ms. Killebrew
+4174.0,TEN-YEAR-OLD MARGE
+4175.0,Young Helen
+4176.0,Homer's Mind
+4177.0,Marge's Mind
+4178.0,Guard On Walkie-talkie
+4180.0,Barney's Voice
+4181.0,Managing Editor
+4182.0,Eager Young Reporter
+4183.0,GOLF-COURSE EMPLOYEE
+4185.0,Nash Castor
+4186.0,Elderly Southern Senator
+4188.0,Aide #1
+4189.0,Aide #2
+4190.0,Swat Team Leader
+4191.0,Detainee #1
+4192.0,Detainee #3
+4193.0,U.S. Constitution
+4194.0,Bill O' Rights
+4195.0,Old Coot
+4196.0,Young Guard
+4197.0,Immigration Officer
+4198.0,Girlfriend
+4199.0,Cartoon Eagle
+4200.0,NVA SGT.
+4201.0,Alien Boss
+4202.0,Harlot
+4203.0,Inspector Wiggum
+4204.0,Eliza
+4205.0,Dr. Bartley
+4206.0,Cockney Woman
+4207.0,Peter Pan
+4208.0,Purveyor
+4209.0,Stool
+4210.0,Mao
+4211.0,Ebenezer Burns
+4213.0,Lord Mayor Quimby
+4214.0,Pleasant Female Voice
+4215.0,Blackula
+4216.0,2nd Homer
+4218.0,Marge's Face
+4219.0,Billy Bullion Cube
+4220.0,STUART
+4221.0,James Caan
+4222.0,Head Judge
+4223.0,Twinkle the Kidd
+4224.0,PRINGLES-TYPE MAN
+4225.0,Koobler Dwarf
+4226.0,Food Icons
+4227.0,Eight-year-old Girl
+4228.0,Eight-year-old Girl's Friend
+4229.0,Male Clerk
+4230.0,Reflection
+4231.0,Mr. Muntz
+4232.0,News Crew Member #1
+4233.0,News Crew Member #2
+4234.0,CHLOE
+4236.0,Teenage Moe
+4237.0,Lisa's Reflection
+4238.0,Hard-bitten Man
+4239.0,Conf. Delegate
+4241.0,SPONGE BOB
+4242.0,Sgt. Activity
+4243.0,Lt. Adventure
+4244.0,Exhibitor #1
+4245.0,Exhibitor #3
+4247.0,Goose Gladwell
+4248.0,C.H.U.M.
+4249.0,Homer's Muzzle
+4250.0,Employment Counselor
+4251.0,Border Agent
+4252.0,Canadians
+4253.0,Pharmacist
+4254.0,U.S. Border Guard
+4255.0,2nd U.S. Border Guard
+4256.0,Los Jacquitos Leader
+4257.0,Mountie
+4258.0,Canadian Official #1
+4259.0,Canadian Official #2
+4260.0,Server #1
+4261.0,Server #2
+4262.0,Health Inspector
+4263.0,New Health Inspector
+4264.0,Loan Officer
+4266.0,Three Of Diamonds
+4267.0,Five Of Diamonds
+4268.0,Jack Of Clubs
+4269.0,Eight Of Clubs
+4270.0,Jack Of Diamonds
+4271.0,SQUEAKY-VOICED TEEN ATTENDANT
+4272.0,Toddler
+4273.0,MOE-BIRD
+4274.0,Moe's Thoughts
+4279.0,Italian Tour Guide
+4280.0,Italian Plumber
+4281.0,AFRICAN-AMERICAN MAN
+4282.0,Deion Overstreet
+4283.0,Grandson
+4284.0,Grandfather
+4285.0,Timmy
+4286.0,LeBron James
+4287.0,Michelle Kwan
+4288.0,Yao Ming
+4289.0,Mr. Burns Logo
+4290.0,Captain McCallister's Head
+4291.0,Espn-style Anchorman #1
+4292.0,Espn-style Anchorman #2
+4293.0,Warren Sapp
+4294.0,Tom Brady
+4295.0,Huge Man #1
+4296.0,Commissioner
+4297.0,Texas Owner
+4298.0,Nfl Film-type Announcer
+4299.0,Different Man
+4300.0,Super Bowl Crowd
+4301.0,Game Show Audience
+4302.0,Anchorman
+4303.0,Alcatraaaz
+4304.0,Woman In Crowd
+4305.0,50 Cent
+4306.0,FAMILIAR VOICE
+4307.0,Deputy
+4308.0,Bart on Tape
+4309.0,Tailor
+4310.0,Needy Woman
+4312.0,HOWELL HUSER
+4313.0,Kitchen Wizard
+4314.0,Calypso Singer
+4315.0,Calypso Chorus
+4316.0,Veronica
+4317.0,Homers
+4318.0,Leslie
+4319.0,Ranger Johnson
+4320.0,Store Manager
+4322.0,Gary Busey
+4324.0,Frenchman
+4325.0,SIX-YEAR-OLD-BART
+4327.0,Robert Wagner
+4328.0,Active Woman
+4329.0,Mr. Zhao
+4330.0,Chinese Dragon
+4331.0,Red Dragon
+4332.0,Chinese Pilot
+4333.0,Chinese Co-pilot
+4334.0,Functionary
+4335.0,Madam Wu
+4336.0,Barbarian
+4337.0,2nd Barbarian
+4338.0,Chinese Uncle Ben
+4339.0,Chinese Willy
+4340.0,Chinese Announcer
+4341.0,Disgruntled Audience Member
+4342.0,Disgruntled Audience Member #2
+4343.0,Disgruntled Audience Member #3
+4345.0,Ling
+4346.0,Chinese Man
+4347.0,Chinese Guard #1
+4348.0,Chinese Guard #2
+4349.0,David Silverman
+4350.0,Muscular Homer
+4351.0,Brenda
+4352.0,Roger
+4353.0,Fashionable Lady
+4354.0,Andrew Jackson
+4355.0,New England Rv-er
+4356.0,Martha
+4357.0,Southern Rv-er
+4358.0,Jesus
+4360.0,Square Dance Caller
+4362.0,Turkish Captain
+4363.0,Turkish Crewman
+4364.0,Male Tenor
+4365.0,Springfield Billy
+4366.0,Female Theatergoer
+4367.0,Snobby Older Male Theatergoer
+4368.0,Snobby Theatergoers
+4369.0,Basketball Player
+4370.0,Oboist
+4371.0,Frank Gehry
+4372.0,Shelbyvillians
+4373.0,Officer Krackney
+4376.0,Jenda
+4378.0,Teenage Nelson
+4379.0,Sherri's Belly
+4380.0,Terri's Belly
+4381.0,Assistant Principal Kearney
+4382.0,Teenage Ralph
+4384.0,Teenage Martin
+4385.0,Robo-Wiggum
+4386.0,Bender
+4387.0,MOE-CLONE
+4390.0,Spider Moe
+4392.0,Teenage Sherri
+4393.0,50-ish Lisa
+4394.0,50-ish Milhouse
+4395.0,VICE-PRESIDENT CLETUS
+4396.0,Knockers Waitress
+4397.0,President Homer
+4398.0,Record
+4399.0,Brooklyn Private
+4400.0,Sergeant Skinner
+4403.0,Vending Machine
+4404.0,Vending Machine #2
+4405.0,Tab Spangler
+4406.0,German Backpacker
+4407.0,Female German Backpacker
+4408.0,German Student
+4409.0,Sadistic German Backpacker
+4410.0,Clarissa Wellington
+4411.0,Cameron Winklevoss
+4412.0,TEENAGE P.A.
+4413.0,Bored Voice
+4414.0,10-year-old-girl
+4416.0,Buddhist Monk
+4417.0,Anguished Woman
+4418.0,MAN IN DEVIL SUIT
+4419.0,Marine Biologist
+4420.0,Bookstore Clerk
+4421.0,EURO-TRASH VOICE
+4422.0,ARCHANGEL
+4423.0,Demon
+4424.0,Dean Martin
+4425.0,Public Radio Announcer
+4426.0,Female Radio Host
+4427.0,Stefan Whitmore
+4428.0,Bohemian-looking Man
+4429.0,Goat
+4430.0,Katja
+4431.0,Vicki
+4433.0,Clay
+4434.0,Humbleton Passersby
+4435.0,Humbleton Man
+4436.0,Humbleton Woman
+4437.0,Jason Bateman
+4438.0,Sister Thomasina
+4439.0,Father Sean
+4440.0,Sean's Dad
+4441.0,Young Sean
+4442.0,St. Sebastian
+4443.0,Dying Soldier
+4444.0,Church Women
+4445.0,Croquet Player #1
+4446.0,Croquet Player #2
+4447.0,Emcee
+4448.0,Pious Riot
+4449.0,Band Member
+4451.0,1st Leader
+4452.0,2nd Leader
+4453.0,1st Army
+4454.0,2nd Army
+4455.0,Oakland Player
+4456.0,1st Actress
+4457.0,2nd Actress
+4458.0,Character
+4460.0,Caleb Thorn
+4462.0,Victor
+4463.0,Uncle John
+4464.0,Aunt Kathy
+4465.0,Randy
+4466.0,Jet Skier #1
+4467.0,Jet Skier #2
+4469.0,Vampire Puppet
+4470.0,Frederick Ives Hologram
+4471.0,Katherine Blodgett Hologram
+4472.0,Alexander Graham Bell Hologram
+4473.0,Elisha Gray Hologram
+4474.0,Museum Head
+4475.0,SHADOWY CREATURE
+4476.0,Plant Monster
+4477.0,Pane Of Glass
+4478.0,Shrimp Monster
+4479.0,Milton Burkhart
+4480.0,Gravedigger Billy
+4481.0,Cowboy In Black
+4482.0,Ben Cartwright
+4483.0,Child Therapist
+4484.0,2-Year-Old Bart
+4485.0,Grandmotherly Woman
+4486.0,Bart Spider
+4487.0,Milhouse Slug
+4488.0,Wild Beast #1
+4489.0,Wild Beast #2
+4490.0,Wild Beast #3
+4491.0,WILD BEASTS
+4492.0,Emotional Woman
+4493.0,Amer-asian Girl
+4494.0,Bratty Teenage Boy
+4495.0,Bratty Teenage Boy #2
+4496.0,Bratty Teenage Boy #3
+4497.0,Therapist
+4498.0,Old Robot
+4499.0,Silver-haired Priest
+4500.0,Bunny
+4501.0,Terry Bradshaw
+4502.0,Angels
+4503.0,Grampa Gorilla
+4504.0,Dracula Hibbert
+4505.0,Einstein Lisa
+4506.0,Homer's Head
+4507.0,Werewolf Bart
+4508.0,Apu Robot
+4509.0,Moe Pacifier
+4510.0,Lenny Pacifier
+4511.0,Dennis Rodman Pacifier
+4512.0,Strongman
+4513.0,British Woman
+4514.0,Old Marge
+4515.0,Artsy Clerk
+4516.0,Pirate
+4518.0,Bunny Referee
+4520.0,Dolphin
+4521.0,Thought Bubble Marge
+4522.0,Nana
+4523.0,Younger Milhouse
+4524.0,Italian Woman
+4525.0,Sheila
+4526.0,Tammy's Husband
+4527.0,Kolani
+4528.0,Titi
+4529.0,Nene Bird
+4530.0,Lamborgotti Executive
+4531.0,Goat Woman
+4532.0,Female Grape Stomper
+4533.0,Male Grape Stomper
+4534.0,Francesca Terwilliger
+4535.0,Gino
+4536.0,Italian Sausage Maker
+4537.0,GOAT LADY
+4538.0,Gondola Driver
+4539.0,Mary
+4540.0,Joseph
+4541.0,Hibbert Wise Man
+4542.0,Skinner Wise Man
+4543.0,Frink Wise Man
+4544.0,King Herod
+4545.0,Shepherd Carl
+4546.0,Shepherd Lenny
+4547.0,WISE MAN HIBBERT
+4549.0,Matthew
+4550.0,Impaled Roman Soldiers
+4551.0,Energizer Bunny
+4552.0,Battery
+4553.0,Cyrus
+4555.0,Elderly Cyrus
+4556.0,Native Wives
+4557.0,Coin Basket
+4558.0,MASON
+4559.0,Local Announcer
+4560.0,William H. Macy
+4561.0,Spanish Captain
+4562.0,Spanish Sailor
+4563.0,Painter
+4564.0,Toddler Homer
+4565.0,40-ish Grampa
+4566.0,Myra
+4568.0,6th Graders
+4569.0,Desk Agent
+4570.0,Fun Homer
+4571.0,Serious Homer
+4572.0,Stavros
+4573.0,Salvation Army Driver
+4574.0,Bart-Jack
+4575.0,Bart-waitress
+4576.0,Bart Head
+4577.0,Coach Krupt
+4578.0,Go-cart Worker
+4579.0,Eli Stern VI
+4580.0,Willie's Dad
+4582.0,Scottish Nurse
+4583.0,Groundskeeper Willie's Reflection
+4584.0,Moe Recording
+4586.0,Charity Titters
+4587.0,Panic Room
+4589.0,Mr. Burns's Reflection
+4590.0,Pompous Explorer
+4591.0,Susan Sarandon
+4592.0,Randy Johnson
+4593.0,Hispanic Man
+4594.0,Antonio Fargas
+4595.0,Female Animal Caretaker
+4598.0,Cold Sore
+4599.0,Nascar-type Announcer
+4600.0,SMOOTH-VOICED MAN
+4601.0,Dan Castellaneta
+4602.0,Contestant #3
+4603.0,Female Producer
+4604.0,Verity
+4605.0,Panicky Cameraman
+4606.0,Charles Heathbar
+4607.0,Fox Cameraman
+4608.0,Irish Housekeeper
+4609.0,Sports Anchor #2
+4611.0,Rob Reiner
+4612.0,Celebrity Impersonators
+4614.0,Battleaxe Female Owner
+4615.0,Mike Wallace
+4616.0,Dr. Egoyan
+4617.0,Charlie Chaplin
+4618.0,Jaquitos Leader
+4619.0,Spanish P.A. Announcer
+4620.0,Male Factory Worker
+4621.0,Female Factory Worker
+4622.0,Pleading Factory Worker
+4624.0,Factory Worker #1
+4625.0,Factory Worker #2
+4627.0,Richard Dean Anderson
+4628.0,STARGATE CONVENTIONEERS
+4629.0,College Nerd
+4630.0,COLLEGE NERD #2
+4631.0,Indian Passenger
+4632.0,Indian Man
+4633.0,INDIAN MAN #2
+4634.0,Indian Workers
+4635.0,Indian Worker #1
+4636.0,Indian Worker #2
+4637.0,Indian Worker #3
+4638.0,Kavi
+4639.0,Indian Assistant
+4640.0,Indian Bodyguard
+4641.0,Richard Dean Anderson's Thoughts
+4642.0,Beefeater Lenny
+4643.0,Beefeater Carl
+4644.0,FLANDISH
+4645.0,Moezekiel
+4646.0,Mayflower Crew
+4647.0,Pilgrims
+4648.0,Pilgrim Smithers
+4649.0,Brother Willie
+4650.0,Fletcher Christian
+4651.0,Bligh
+4652.0,Crew
+4653.0,Bosun Willie
+4654.0,King Homer
+4655.0,Queen Marge
+4656.0,Tahitian Man
+4657.0,Sculptor
+4658.0,Tahitian Juggler
+4659.0,Half Of Crew
+4660.0,Capt. Burns
+4661.0,Old Jewish Woman
+4663.0,CHIEF PETTY OFFICER WIGGUM
+4664.0,C.P.O. Wiggum
+4665.0,Gilbert O. Sullivan
+4666.0,Wise Old Cat
+4667.0,Baby Itchy
+4668.0,Knives
+4669.0,Hip Audience Members
+4670.0,Juliana Krellner
+4671.0,Principal Upfoot
+4672.0,Mr. Pierce
+4673.0,Assistant G.K. Skinner
+4674.0,Greater Than Or Equal To Sign
+4675.0,Number 8
+4676.0,Number 27
+4677.0,MELANIE UPFOOT
+4678.0,Sal Bando
+4679.0,Gene Tenace
+4680.0,Mail Lady
+4681.0,Bride
+4682.0,Housekeeper #1
+4683.0,Housekeeper #2
+4684.0,Housekeepers
+4685.0,Facilitator
+4686.0,Bachelor #1
+4687.0,Grumpy-looking Man
+4688.0,Effeminate Bachelor
+4689.0,Good-looking Bachelor
+4690.0,Twin Guy #1
+4691.0,The Players
+4692.0,Will Smith
+4693.0,Museum Employee
+4694.0,Imax Narrator
+4695.0,Melanie Griffith
+4696.0,Little Moe Szyslak
+4697.0,Clarisse Drummond
+4698.0,Wallace Brady
+4699.0,Scientist-type
+4700.0,DETECTIVE #1
+4701.0,Detective #2
+4702.0,HUNCH
+4703.0,Female Left-fielder
+4704.0,TABITHA
+4705.0,BUCKTABITHA
+4706.0,Sports Talk Radio Host
+4707.0,2nd Duffman
+4708.0,DUFFMEN
+4709.0,Tito
+4710.0,Dragon
+4711.0,James Hetfield
+4712.0,Lars Ulrich
+4713.0,Kirk Hammett
+4714.0,Robert Trujillo
+4715.0,Lunchlady Dora
+4717.0,Calabresis
+4718.0,Dante Calabresi
+4719.0,DANTE JR.
+4720.0,Primo
+4721.0,Dr. Brentano
+4723.0,Jack White
+4724.0,Meg White
+4725.0,Skinny
+4726.0,JAZZ MUSICIAN #2MARBLES
+4727.0,Marbles
+4728.0,Mutt
+4730.0,GRIZZLED FEMALE VOICE
+4731.0,Tootsie Childs
+4732.0,Persian Salesman
+4733.0,CLARA PELLER
+4734.0,ROCKY BALBOA
+4735.0,Nascar Announcer
+4737.0,Contractor #1
+4738.0,Contractor #2
+4739.0,Mr. Peanut
+4741.0,Male Coaster Weirdo
+4742.0,Female Coaster Weirdo
+4743.0,Teen Girl
+4744.0,SIR MIX-A-LOT
+4745.0,50-Foot Lenny
+4746.0,Invisible Carl
+4747.0,SOUTHERN TV THERAPIST
+4748.0,DR. PHIL
+4749.0,Fudge Box
+4750.0,Heckler #1
+4751.0,Heckler #2
+4753.0,Golem
+4754.0,Female Golem
+4755.0,Orson Welles
+4756.0,Production Assistant
+4757.0,Recruiter #1
+4758.0,Recruiter #2
+4759.0,Drill Sergeant
+4760.0,Female Sergeant
+4761.0,Cereal Captain
+4762.0,Southern Soldier
+4763.0,Assorted Townspeople
+4764.0,Homeless Lady
+4765.0,Meek Assistant
+4766.0,Dwarf Cop
+4768.0,Tom Wolfe
+4770.0,Festival Host
+4771.0,Gore Vidal
+4772.0,Woman At Festival
+4773.0,Man At Festival
+4774.0,Michael Chabon
+4775.0,Stoner In Audience
+4776.0,Jonathan Franzen
+4777.0,Older Vermont Man
+4779.0,Vermont Woman
+4780.0,Other Men
+4781.0,Max
+4782.0,OLDER WOMAN'S VOICE
+4783.0,Max's Widow
+4784.0,Opal
+4785.0,Prof. Stein
+4786.0,Disclaimer
+4787.0,Skinny Kid
+4788.0,Anguished Man
+4789.0,iPod
+4790.0,DEWEY BUNNEL OF 'AMERICA'
+4791.0,Spider-Man
+4792.0,Dr. Octopus
+4793.0,Greystash
+4794.0,ANGELICA
+4795.0,Snake Wizard
+4796.0,2-headed Woman
+4797.0,Dummy
+4798.0,MUFFLED FEMALE VOICE
+4799.0,T.R. Francis
+4800.0,Galahad
+4801.0,Maluicious Krubb
+4802.0,Angelica Button
+4803.0,Telephone Worker
+4804.0,Ice Dancers
+4805.0,Elvis Stojko
+4806.0,Snowman
+4807.0,Candy Cane
+4808.0,Grumple
+4809.0,Phillip
+4810.0,Costington's Daughter
+4811.0,PEPPY FEMALE TV ANNOUNCER
+4812.0,13-Year-Old Patty
+4813.0,7-Year-Old Marge
+4814.0,Leather-skinned Man
+4816.0,Gil's Boss
+4817.0,Grumples
+4818.0,Female Candy Worker
+4819.0,Candy Workers
+4820.0,Male Candy Worker
+4821.0,Captain Jack
+4822.0,Zeke
+4823.0,Grizzled Old Salt
+4824.0,Fausto
+4825.0,Voice From Diorama
+4826.0,Weather Forecaster
+4827.0,Preacher
+4828.0,Man In I.N.S. Jacket
+4829.0,Mermaid
+4830.0,GRUFF JAPANESE SAILOR
+4831.0,Lumberjack
+4832.0,Meaux
+4833.0,Gendarme Wiggum
+4834.0,Footman Mel
+4835.0,All Partygoers
+4836.0,Bandit
+4837.0,Bart-man
+4838.0,The Serpent
+4839.0,Poison Lenny
+4840.0,Bathing Beauty
+4841.0,Cletus' Son
+4842.0,NATIVE AMERICAN REPORTER
+4843.0,John Squawking Bear
+4844.0,Hippie Hulk
+4845.0,PRETTY BLONDE GIRL
+4846.0,Teen Boy
+4847.0,Odd-looking Man
+4848.0,Darcy's Mom
+4849.0,Darcy's Dad
+4850.0,11-Year-Old Moe
+4851.0,8-Year-Old Lenny
+4852.0,8-Year-Old Carl
+4853.0,8-Year-Old Barney
+4854.0,8-Year-Old Homer
+4856.0,8-Year-Old Wiggum
+4857.0,16-Year-Old Wiggum
+4858.0,24-Year-Old Wiggum
+4859.0,32-Year-Old Wiggum
+4860.0,24-Year-Old Homer
+4861.0,Grieving Widow
+4862.0,32-Year-Old Homer
+4863.0,Band Leader
+4864.0,8-Year-Old Frink
+4865.0,8-Year-Old Eleanor
+4866.0,24-Year-Old Eleanor
+4867.0,32-Year-Old Eleanor
+4868.0,8-Year-Old Marge
+4869.0,8-Year-Old Comic Book Guy
+4870.0,24-Year-Old Marge
+4871.0,Young Sea Captain
+4872.0,Climber #1
+4873.0,Climber #2
+4874.0,Blind Climber
+4875.0,MANLY VOICE
+4876.0,James Patterson
+4877.0,Dark Stanley
+4878.0,School Psychologist
+4879.0,George W. Bush
+4880.0,12-YEAR-OLD YOKEL GIRL
+4881.0,11-YEAR OLD YOKEL GIRL
+4882.0,10-YEAR OLD YOKEL BOY
+4883.0,9-YEAR OLD YOKEL BOY
+4884.0,8-YEAR OLD YOKEL GIRL
+4885.0,7-YEAR OLD YOKEL BOY
+4886.0,6-YEAR OLD YOKEL BOY
+4887.0,Chinese Restaurateur
+4888.0,Dr. Swanson
+4889.0,Videogame Narrator
+4890.0,Witney Spuckler
+4891.0,Jitney Spuckler
+4892.0,BIRTHDAY
+4893.0,INCEST
+4894.0,Spuckler Kids
+4895.0,CRYSTAL METH
+4896.0,Stephen Sondheim
+4898.0,Psychologist
+4899.0,Andy Dick
+4900.0,Moon Cletus
+4901.0,Selma's Brain
+4902.0,Box Delivery Man
+4903.0,Scariest Driver
+4906.0,Male Assistant
+4907.0,Female Assistant
+4908.0,Male Coworker
+4909.0,Male Dmv Suit
+4910.0,Female Dmv Suit
+4911.0,Flint Drywall
+4912.0,Tabloid Editor
+4913.0,Paris Texan
+4914.0,Rose Quimby
+4915.0,MARIA SHRIVER KENNEDY QUIMBY
+4917.0,Enrico Irritazio
+4918.0,Attractive Woman #1
+4919.0,Attractive Woman #2
+4920.0,Portly Wizard
+4921.0,Elf Marge
+4922.0,VENDOR APU
+4923.0,Large Cobra
+4924.0,Enchantress Krabappel
+4925.0,Bird Skinner
+4926.0,Troll Moe
+4927.0,Shadow Knight
+4928.0,Wench Milhouse
+4929.0,Pixie Head
+4931.0,East Indian Girl
+4932.0,East Indian Father
+4933.0,Rogue Dolph
+4934.0,Rogue Kearney
+4935.0,Rogue Jimbo
+4936.0,British Announcer
+4937.0,Male Fan #1
+4938.0,Male Fan #2
+4939.0,Nelson's Head
+4940.0,Viking Comic Book Guy
+4941.0,Satyr Largo
+4942.0,Ronaldo's Thoughts
+4943.0,Spanish Baseball Announcer
+4944.0,Springfield Fans
+4945.0,Joe Laboot
+4946.0,Shelbyville Manager
+4947.0,Old Bart
+4948.0,Old Milhouse
+4949.0,Ghost Marge
+4950.0,Sheep #1
+4951.0,Sheep #2
+4954.0,Wagon Wheel Demonstrator
+4955.0,Winning Farmer
+4956.0,Grim Farmer
+4957.0,Dispatch Operator
+4958.0,Sharquelle
+4961.0,Kiefer Sutherland
+4962.0,Hazmat Guy
+4963.0,Jimbo's Mom
+4964.0,Jack Bauer
+4965.0,Chloe O'Brien
+4966.0,Cosine
+4968.0,Dr. Hwang
+4969.0,Hip Hop-style Announcer
+4970.0,Tooth Decay
+4971.0,Gum Disease
+4972.0,Bad-ass Voice
+4973.0,Luda-Crest
+4974.0,Ludacris
+4975.0,2nd Hygienist
+4976.0,Dental Assistant
+4977.0,Prescott Butterfat III
+4978.0,Stripper
+4980.0,Slacker Girl
+4981.0,Slacker Dude
+4982.0,Clearly Dubbed-in Voice
+4983.0,Store Announcer
+4984.0,Lionel Richie
+4985.0,Improv Actor
+4986.0,Improv Actress
+4987.0,Colby
+4988.0,Plane Computer
+4989.0,Sad Boy
+4990.0,Widow
+4991.0,Marcello
+4992.0,Hockey Player
+4993.0,Placido Domingo
+4994.0,Elegant Man
+4995.0,Shrill Voice
+4996.0,Dorothy
+4997.0,JULIA
+4998.0,Bedtime Krusty Doll
+4999.0,Jersey Girl Customer
+5000.0,Sleazy-looking Woman
+5001.0,Smug Young Man
+5002.0,Smug Woman
+5003.0,Smug Liberal Man
+5004.0,Gay Men
+5005.0,Gerta
+5006.0,Tow Driver Prisoner #1
+5007.0,Tow Driver Prisoner #2
+5008.0,Tow Driver Prisoner #3
+5009.0,Singing Prisoners
+5010.0,Train Engineer
+5011.0,Tow Driver Prisoners
+5012.0,Dwight
+5014.0,Ted Nugent
+5015.0,Father Donnelly
+5016.0,Senate Mouse
+5017.0,Elevator Voice
+5018.0,MEN IN CROWD
+5020.0,Hispanic Teen
+5021.0,Passenger
+5022.0,First Officer
+5023.0,Second Officer
+5025.0,Old-style Operator
+5026.0,NERD
+5027.0,NORBERT
+5028.0,GAYLORD Q. TINKLEDINK
+5029.0,UNCLE NORBERT
+5030.0,UNCLE ZACK
+5031.0,Mr. Johnson
+5032.0,Milo
+5033.0,Korean Singer
+5034.0,Tintin
+5035.0,Dan Clowes
+5036.0,Alan Moore
+5037.0,Art Spiegelman
+5038.0,CUTE GIRL
+5039.0,BERNICE
+5040.0,Vietnamese Woman
+5041.0,Husband #1
+5043.0,Husband #2
+5044.0,Husband #3
+5045.0,2nd Business Woman
+5046.0,Jack Black
+5047.0,Latino Male Clerk
+5048.0,Salesman #1
+5049.0,Salesman #2
+5050.0,Sexy Saleswoman
+5052.0,Keith Olbermann
+5053.0,Talking Frog
+5054.0,Disclaimer Announcer
+5055.0,Tall Cowboy
+5056.0,Wes Doobner
+5057.0,Sideshow Bob's Mother
+5058.0,Sideshow Bob's Father
+5061.0,Hispanic Crowd
+5062.0,Memory Wiggum
+5063.0,Memory Marge
+5064.0,Memory Homer
+5065.0,High School Glee Club
+5066.0,Memory Lisa
+5067.0,Memory Bart
+5068.0,20-Year-Old Homer
+5069.0,Memory Duffman
+5070.0,RECORDED SIDESHOW MEL VOICE
+5072.0,Cheesy McMayor
+5073.0,Dan Rather
+5074.0,News Producer
+5075.0,Candidates
+5076.0,Farmer's Wife
+5077.0,Ivy League-type
+5079.0,Scruffy Blogger
+5080.0,Jon Stewart
+5081.0,CAMPAIGN ANNOUNCER
+5082.0,Senator Whinergirl
+5084.0,Campaign Worker #1
+5085.0,Senator Vane
+5086.0,GOV. HUNTINGCHURCH
+5087.0,ALEPPO
+5088.0,Fred Thompson
+5090.0,Dennis Kucinich
+5091.0,Adriatica Vel Johnson
+5092.0,Clarence Nitbaum
+5094.0,Young Lou
+5095.0,Young Comic Book Guy
+5096.0,Prof. August
+5097.0,Prof. August's Thoughts
+5098.0,Gas Man
+5099.0,College Kid
+5100.0,2nd College Kid
+5101.0,Buxom Coed
+5102.0,Patron
+5103.0,MUSCLE-BOUND IDIOT DEPARTMENT HEAD
+5104.0,Kurt Loder
+5108.0,Tunnel Of Love Carny
+5109.0,Bonnie
+5110.0,Clyde
+5111.0,Clyde's Thoughts
+5112.0,Newsreel Narrator
+5113.0,Franklin Roosevelt
+5114.0,Japanese Ambassador
+5115.0,Mexican Mouse
+5117.0,The Vamp
+5118.0,Shady
+5119.0,Moe Dog
+5120.0,Snooty Male Flea
+5121.0,Lady Bitington
+5122.0,Siamese Cats
+5123.0,Upper-class Fleas
+5124.0,Lisa Puppy
+5125.0,Bart Puppy
+5126.0,Dog Catcher Willie
+5127.0,Wacky Dog
+5128.0,DOGCATCHER WILLIE
+5129.0,Johnny Rotten
+5130.0,Nancy
+5131.0,Sid
+5132.0,Male Punk Rock Fan
+5133.0,Steve
+5134.0,Paul Cook
+5135.0,Texan Announcer
+5137.0,Punk #1
+5138.0,Punk #2
+5139.0,Mike
+5140.0,School Nurse
+5141.0,Terry Gross
+5142.0,Betsy
+5143.0,HOTDOG VENDOR
+5144.0,Pepper Vendor
+5145.0,Sad-looking Woman
+5146.0,Happy Little Elves
+5147.0,Female Prisoner
+5148.0,Prisoner Lisa
+5149.0,Bald Detective
+5150.0,Red-haired Detective
+5151.0,E.T. Reporter
+5152.0,Chazz Busby
+5153.0,Annette
+5154.0,Smoke Lisa
+5155.0,Lillian Hellman
+5156.0,Smoke Historical Figures
+5158.0,Male Dancer
+5159.0,Ballerina
+5160.0,Dancer Bumped Into
+5161.0,Dancer Who Bumped
+5162.0,2nd Ballerina
+5163.0,3rd Ballerina
+5164.0,4th Ballerina
+5165.0,Fema Official
+5166.0,Kermit the Frog
+5167.0,Royce
+5168.0,COUNTRY V.J.
+5169.0,Natalie Maines
+5170.0,Emily Robison
+5171.0,Martie Maguire
+5172.0,Lurleen's Boyfriend
+5173.0,Robot-singing Voice
+5174.0,Trans-Clown-o-Morph
+5175.0,Head Pterodactyl-bot
+5176.0,Golf Announcer
+5177.0,Cheddarbarrel
+5178.0,4-h Judge
+5179.0,ACTIVIST
+5181.0,COMPOST
+5182.0,Stabbed-in-jail
+5183.0,Homer Puppet
+5184.0,Marge Puppet
+5185.0,Head Caterer
+5186.0,Country Preacher
+5188.0,Cow In Truck
+5189.0,Mr. Kinkaid
+5190.0,Head Board Member
+5192.0,Film Loop
+5193.0,2nd Film Loop
+5194.0,Jim Jarmusch
+5195.0,Bouncer
+5196.0,Male Audience Member
+5197.0,Female Audience Member
+5198.0,Male Audience Member #2
+5199.0,People On Street
+5200.0,Woman On Street
+5201.0,Man On Street #2
+5202.0,Male Filmgoer
+5203.0,Man On Street
+5204.0,John C. Reilly
+5205.0,Female Employee
+5206.0,Hippo Critter
+5207.0,Hippo #1
+5208.0,Hippo #2
+5209.0,Hippo #3
+5210.0,Hippos
+5211.0,Fozzy
+5212.0,Lance Armstrong
+5214.0,Female Automated Voice
+5215.0,Little Homer
+5216.0,Celebrity Reporter
+5217.0,Paparazzi
+5218.0,Theater Actor
+5219.0,Drew Carey
+5220.0,Krusketeers
+5221.0,C.J.
+5222.0,Ron Rabinowitz
+5223.0,Channel 6 Executive
+5225.0,Ira Man
+5226.0,Protestant Leprechaun
+5228.0,Patrick
+5229.0,Urchin
+5230.0,Mulk
+5231.0,Lucky Jim
+5232.0,Clay Roberts
+5233.0,Denis Leary
+5234.0,Brian Grazer
+5235.0,Hawaiian Bartender
+5237.0,Australian Bartender
+5238.0,Australian Barfly
+5240.0,Swedish Bartender
+5242.0,Warrior Statue
+5244.0,Vacu-bot
+5245.0,BART-LIKE VOICE
+5246.0,Joe Montana
+5247.0,Quenly
+5248.0,Devon
+5252.0,Alberto
+5253.0,3-Year-Old Lisa
+5254.0,5-Year-Old Bart
+5255.0,Sylvia
+5256.0,20-Year-Old Patty
+5257.0,20-Year-Old Selma
+5258.0,Ruthie
+5259.0,Doreen
+5260.0,Bureaucrat
+5261.0,People In Line
+5262.0,Ghost Julio
+5263.0,Ghost Toddler
+5264.0,Talking Credenza
+5265.0,Man In Bar
+5266.0,Female Event Host
+5267.0,Merl Reagle
+5268.0,Will Shortz
+5269.0,Santas
+5270.0,Dr. King
+5271.0,Mall Worker
+5272.0,Brainiac Bar Man
+5273.0,Smug Salesman
+5274.0,Mapple Shoppers
+5275.0,Male Shopper
+5276.0,Steve Mobbs
+5277.0,MIDDLE EASTERN BOY
+5278.0,Bashir
+5279.0,Mina
+5280.0,Octopus
+5281.0,Arab Man
+5282.0,Thought Bubble Lenny
+5283.0,Amid
+5284.0,Blue Genie
+5285.0,Billionaire
+5287.0,Scared Billionaire
+5288.0,Jeff Bezos
+5289.0,Poker-playing Billionaire
+5290.0,Suburban Mother
+5291.0,Wall-E
+5293.0,Mark Cuban
+5295.0,Angel Mark Cuban
+5296.0,Muk Mu
+5298.0,Marv Albert
+5299.0,Millionaire
+5300.0,Art Instructor
+5301.0,Juliet Hobbes
+5302.0,Folk Art Singer
+5303.0,Prof. Hobbes
+5304.0,Mrs. Hobbes
+5305.0,Fairy Princess
+5306.0,Two-Nicorn
+5307.0,Immigration Official
+5308.0,Dragon Kearney
+5309.0,Goblin Jimbo
+5310.0,Teenage Vance Connor
+5311.0,Vance Connor
+5312.0,Teenage Carl
+5313.0,Al Gore
+5315.0,Jock #1
+5316.0,Jock #2
+5317.0,Old Italian Man
+5318.0,Rest Of Kids
+5319.0,Voices From Sauce
+5320.0,Student With Glasses
+5321.0,Student Reporter
+5322.0,TEEN MAUDE FLANDERS
+5323.0,Debbie Pinson
+5324.0,Teenage Selma
+5325.0,Teenage Patty
+5326.0,Young Smithers
+5327.0,Mr. Becker
+5328.0,Daffodils Reading Group
+5329.0,Boys' Chorus
+5330.0,Girls' Chorus
+5331.0,Other Boys
+5332.0,Barge Captain
+5333.0,Au Pair
+5334.0,Male Neighbor
+5335.0,Female Neighbor
+5336.0,Eerie Voice
+5337.0,2nd Orderly
+5338.0,Dwight Eisenhower
+5339.0,Nancy Gladness
+5340.0,Nat Gladness
+5341.0,Photo Simpsons
+5342.0,Mother Superior
+5343.0,Mysterious Nun
+5344.0,HOMER'S HAND
+5345.0,Welcome Mat
+5346.0,Hot Tub Salesman
+5347.0,Irish Pilot
+5348.0,American Woman
+5349.0,Irish Locals
+5350.0,Yuppie Leprechauns
+5351.0,Tom O'Flanagan
+5352.0,German Krusty
+5353.0,German Sideshow Mel
+5354.0,Brew-master
+5355.0,American Man
+5356.0,2nd American Man
+5357.0,Irish Kid
+5358.0,Bicyclist
+5359.0,Street Musician
+5360.0,Eastern-european Woman
+5362.0,Irish Maitre D'
+5363.0,Irish Guy
+5364.0,Old Irishman
+5365.0,Smokers
+5366.0,2nd Irish Cop
+5367.0,Irish Judge
+5369.0,Parson
+5370.0,Coroner
+5371.0,Bridal Saleslady
+5372.0,Tux Salesman
+5373.0,Videographer
+5374.0,Deep Mysterious Voice
+5375.0,Hockey Announcer #1
+5376.0,Hockey Announcer #2
+5377.0,Hockey Announcer #3
+5378.0,Maya
+5379.0,Umpa-lumpas
+5380.0,Jenny
+5381.0,MAJOR PRESTON
+5382.0,Swedish Woman
+5384.0,Sleazy Girl
+5385.0,Wiggum Smiley Face
+5386.0,Zamboni Operator
+5387.0,Hot Dog Vendor
+5388.0,Fried Dough Vendor
+5389.0,Midway Barker
+5390.0,Juggler
+5391.0,Old Comedy Writer
+5392.0,Soccer Mom
+5393.0,Popular Girl #1
+5395.0,Popular Girl #2
+5397.0,Helicopter Parents
+5398.0,Kaitlin
+5399.0,GHOST
+5400.0,Chaucer's Ghost
+5401.0,Female Ghost
+5402.0,ELEGANTLY-DRESSED GHOST
+5403.0,Oscar Wilde
+5404.0,Mother In Audience
+5405.0,Kenny
+5406.0,Science Water Promoter
+5407.0,City Inspector
+5408.0,Dr. Bettelheim
+5409.0,Geoff
+5410.0,Donald
+5411.0,Caitlin
+5412.0,Katelyn
+5413.0,Kate Lynn
+5414.0,Girl In Background
+5416.0,Girl In Riding Boots
+5417.0,British Groundskeeper
+5418.0,Boy Resembling Ralph
+5419.0,Teenage Stagehand
+5420.0,Alaska Nebraska
+5421.0,CAITLYN
+5422.0,Walsingham
+5423.0,Queen Elizabeth
+5424.0,Herald Mel
+5425.0,Prince Ralph
+5426.0,King Julio
+5427.0,Lady Marjorie
+5428.0,Sir Walter Raleigh
+5429.0,Advisor
+5430.0,Protestant Minister
+5431.0,Vietnamese Manicurist
+5432.0,Doc
+5433.0,Other Dwarves
+5434.0,Evil Queen
+5435.0,Disembodied Face
+5436.0,Huntsman Willie
+5437.0,Snow White
+5439.0,Dwarves
+5440.0,Crabby
+5441.0,First Witch
+5442.0,Second Witch
+5443.0,Lady 911 Operator
+5445.0,Mr. Toohey
+5446.0,Avery Mann
+5447.0,Everyman
+5448.0,Older Executive
+5449.0,Male Producer
+5450.0,Jonah
+5451.0,Director #1
+5452.0,Director #2
+5453.0,Lyle McCarthy
+5454.0,Fiji
+5456.0,Police Chief
+5457.0,Leading Lady
+5459.0,Former Studio Head
+5460.0,Dr. Reptilicus
+5461.0,Exercise Babe
+5462.0,NEW TEACHER
+5463.0,BIG-BUSTED DOWAGER
+5464.0,Australian Woman
+5466.0,Autograph-signing Fighter
+5467.0,Scalper
+5468.0,Chett
+5469.0,Donkey
+5470.0,Man Below
+5472.0,Males In Audience
+5474.0,Muncher
+5476.0,Wild-eyed Man
+5478.0,Head Soldier
+5479.0,Chinese-american Worker
+5480.0,LUANNE
+5481.0,Carl #1
+5482.0,Carl #2
+5483.0,CLASSY FRENCHMAN
+5484.0,COMMISSIONER POMPIDOU
+5485.0,Beautiful French Lady
+5486.0,Terrorist Type
+5487.0,Bonk It
+5490.0,Bearded Hillbilly
+5491.0,Big Hillbilly
+5492.0,Whitney
+5493.0,Mysterious Voices
+5494.0,Hooded Figures
+5495.0,Gwendolyn
+5496.0,Cassandra
+5497.0,Esmeralda
+5498.0,Homer Snowman
+5499.0,Substitute Teacher
+5500.0,Wiccans
+5501.0,Court Reporter
+5502.0,Huell Howser
+5503.0,Emmy Announcer
+5504.0,Female Presenter
+5505.0,Wilbur
+5506.0,Peyton Manning
+5507.0,Eli Manning
+5508.0,Cooper Manning
+5510.0,Dick
+5512.0,New Sister
+5513.0,KID VOICE
+5514.0,Sisters
+5515.0,SMOTHERS BROTHERS
+5516.0,DICK SMOTHERS
+5517.0,TOM SMOTHERS
+5518.0,Marshall Goldman
+5519.0,Commanding Officer
+5520.0,Brooklyn Sailor
+5521.0,Boston Sailor
+5522.0,Clark Gable
+5523.0,Mitch Albom
+5524.0,Railroad Bull
+5525.0,All Railroad Bulls
+5526.0,2nd Railroad Bull
+5527.0,Krusty Auditioner
+5528.0,Princess Penelope
+5529.0,Gator
+5530.0,Gary Larson
+5531.0,Holly Hippie
+5532.0,Eartha Kitt
+5533.0,Valerie
+5534.0,Lottery Official
+5535.0,Magic Mirror
+5536.0,Chris Martin
+5537.0,2nd Nurse
+5538.0,Brassy Housewife
+5539.0,2nd Brassy Housewife
+5543.0,Olympic Pins
+5544.0,Pin Dealer
+5545.0,BALD MIDGET
+5546.0,Medicine Woman
+5547.0,Bob Costas
+5548.0,Milhoose
+5549.0,Canadian Nelson
+5551.0,Swedish Man
+5552.0,French Canadian
+5553.0,English Canadian
+5554.0,Hiram
+5555.0,Mabel
+5556.0,Colonel Burns
+5557.0,Smithers-like Valet
+5558.0,Virgil Simpson
+5559.0,Patroller #1
+5560.0,Patroller #2
+5561.0,Circus Clown
+5562.0,Milford
+5563.0,Obama Kids
+5564.0,Librarian #2
+5565.0,Hopi Singers
+5566.0,Anime Kid
+5568.0,Gps
+5570.0,Bart's Class
+5571.0,Miss Stringham
+5572.0,Miss Stringham's Class
+5573.0,CHILLED-OUT KID
+5574.0,Bodhi
+5575.0,Nikki McKenna
+5576.0,COOL SECOND-GRADER #1
+5577.0,COOL SECOND-GRADER #2
+5578.0,Nikki's Mom
+5579.0,Nikki's Dad
+5580.0,Henry Higgins
+5581.0,Michelle Obama
+5582.0,COOL SECOND GRADER #1
+5583.0,Navy Seal
+5584.0,Airport Workers
+5585.0,Israeli Airline Guard
+5586.0,Jakob
+5588.0,DOREET
+5589.0,Israeli Bystander
+5590.0,Chief Security Officer
+5591.0,Cucumber
+5592.0,Muslim Man
+5593.0,Prison Guard
+5594.0,Pleasant Cellmate
+5595.0,Delroy
+5596.0,Thought Bubble Grampa
+5597.0,Wimpy-looking Boy
+5598.0,Boy #3
+5600.0,Silkie
+5601.0,Edward G. Robinson
+5602.0,Ominous Announcer
+5603.0,Wise Old Alien
+5604.0,Shia LaBeouf
+5605.0,Sexy Girl
+5606.0,Sun
+5607.0,Danish Sales Rep
+5608.0,Springfield Man
+5609.0,National Guardsman #1
+5610.0,National Guardsman #2
+5611.0,National Guardsman #3
+5612.0,Female Activist
+5614.0,Ms. Dubinsky
+5615.0,Megan
+5616.0,Man At Counter
+5617.0,Train Conductor
+5618.0,Bomb Squad Guy
+5619.0,Liberal Man
+5620.0,CONSULTANT
+5621.0,Cockney Flower Girls
+5623.0,Sally's Father
+5625.0,Shauna Chalmers
+5626.0,Audrey
+5627.0,Revelers
+5628.0,The Queen
+5629.0,Prince Charles
+5630.0,Lullaby Singer
+5632.0,Don Pardo
+5634.0,Black Bishop
+5635.0,Icelandic Man
+5636.0,2nd Icelandic Man
+5637.0,NEW NEIGHBOR
+5638.0,WALT
+5640.0,THE REAL WALT
+5641.0,THE REAL BOB
+5642.0,Prison Worker
+5643.0,Joyce
+5644.0,Mexican Man
+5645.0,Southern State Trooper
+5646.0,Midwestern Trooper
+5647.0,New Jersey Patrolman
+5648.0,Man With Crazy Beard
+5649.0,Thought Bubble Lisa
+5650.0,Ron Finkelsteinberg
+5651.0,Sports Bar Guy #3
+5652.0,Sports Bar Guy #4
+5653.0,Simon Cowell
+5654.0,Ryan Seacrest
+5655.0,Randy Jackson
+5656.0,Kara DioGuardi
+5657.0,Ellen DeGeneres
+5658.0,Thought Bubble Simon Cowell
+5659.0,Pro Shop Clerk
+5660.0,Friendly Old Golfer
+5661.0,Nobel Academy President
+5662.0,Military Choir
+5663.0,Tsa Security Officer
+5664.0,Ira Glass
+5665.0,TEENAGE GIRL CAMPER
+5666.0,TEENAGE BOY CAMPER
+5667.0,2ND TEENAGE GIRL CAMPER
+5668.0,Teenage Singers
+5669.0,Kurt Hardwick
+5670.0,VAN KRUUSTEN
+5671.0,Flynn
+5672.0,Chief Magistrate
+5673.0,Aiesha
+5674.0,SARAH
+5676.0,E-Z Reader
+5677.0,Schoolboy
+5678.0,Belgian Bailiff
+5679.0,Bailiff's Brother
+5680.0,Afrikaner Promoter
+5682.0,Maitre D'ess
+5683.0,Fat Banker
+5684.0,Muhammad Yunus
+5685.0,Chris Hansen
+5686.0,Mark Zuckerberg
+5687.0,Dahlia
+5688.0,Hobby Shop Owner
+5689.0,Bill James
+5690.0,Ball
+5691.0,Teammates
+5692.0,Funnel Cake Man
+5693.0,Rev. Lovejoy Avatar
+5694.0,Rich Uncle Pennybags
+5695.0,Powerful Voice
+5696.0,Colonel Ketchup
+5699.0,Edmund
+5700.0,Vampire Dad
+5701.0,Kount
+5702.0,Abby
+5703.0,Professional-looking Driver
+5704.0,Admissions Director
+5705.0,Cloisters Girl
+5706.0,Another Girl
+5707.0,Ms. Marshall
+5708.0,Chairman
+5709.0,Nbc Executive
+5710.0,Network Executive
+5711.0,Personal Physician
+5712.0,Sgt. Activity Doll
+5713.0,Funeral Director
+5714.0,Guido Guy
+5715.0,Dick Cheney
+5716.0,General Patton
+5717.0,Danica Patrick
+5718.0,Will Rogers
+5719.0,W.C. FIELDS
+5720.0,Dr. Thurston
+5721.0,Caretaker
+5722.0,Bing Crosby
+5723.0,Gruff Sergeant
+5725.0,Western Union Boy
+5726.0,Tree Salesman
+5727.0,Hamlet
+5728.0,Martha Stewart
+5729.0,Katy Perry
+5730.0,Sock Puppet Dog
+5731.0,Samoan Native
+5733.0,Glinda
+5734.0,Fbi Supervisor
+5736.0,Female Agent
+5737.0,Whiny Agent
+5738.0,Fit Tony
+5739.0,Erik
+5740.0,4th Graders
+5741.0,5th Graders
+5742.0,Zach
+5743.0,Mr. Benzie
+5744.0,Tough 5th Grader
+5745.0,Anita
+5746.0,Connie
+5747.0,Chris
+5748.0,Andy Hamilton
+5749.0,Tyler Winklevoss
+5750.0,Ross
+5751.0,MARGE 40-YEAR-OLD
+5752.0,Fat Late Shift Worker
+5753.0,Mr. Burns Heads
+5754.0,Super-hairy Wonder Woman
+5755.0,Ms. Juniper
+5756.0,DISTINGUISHED OLDER GENTLEMEN
+5757.0,Comic Book Gay
+5758.0,Tranny #1
+5759.0,Tranny #2
+5760.0,Gays
+5761.0,Grizzly Shawn
+5762.0,Bar Customers
+5763.0,Devil Moe
+5765.0,Melody
+5766.0,Distinguished Older Gentleman
+5767.0,Liz
+5768.0,Playground Ghost
+5769.0,Gale Gordon
+5771.0,Courtney
+5772.0,Fat Chinese Spy
+5773.0,CHEEKBONE CHINESE SPY
+5774.0,Atf Agent
+5775.0,2nd Atf Agent
+5776.0,Goatee Chinese Spy
+5777.0,David Mamet
+5778.0,Statue of Liberty
+5779.0,Cheekbones Chinese Spy
+5780.0,CHEEKBONEGOATEE SPIES
+5781.0,Sheldon Leavitt
+5782.0,Rebecca
+5784.0,Lainie
+5785.0,Carlotta
+5786.0,Dr. Kissingher
+5787.0,Middle-aged Lady
+5788.0,Heavyset Woman
+5789.0,Attractive Friend
+5790.0,Blofeld
+5791.0,Young Woman #1
+5792.0,Young Woman #2
+5793.0,Burns' Wingman
+5795.0,Scratchy's Father
+5796.0,Cat Monk
+5797.0,Crazy Clown
+5798.0,Herman Millwood
+5800.0,Male Animator
+5801.0,Female Animator
+5802.0,2nd Male Animator
+5804.0,MAN IN THE AUDIENCE
+5805.0,Sir Anthony Hopkins
+5806.0,John Lassiter
+5807.0,Randy Newman
+5808.0,Russell Brand
+5809.0,D.J. Kwanzaa
+5810.0,Ice Mocha
+5811.0,Nasty J
+5812.0,Halle Berry
+5813.0,Cowboy Ketchup
+5814.0,Waffle
+5815.0,Peanut Butter
+5816.0,Willis
+5817.0,Miss Pennyfarthing
+5818.0,Nick Park
+5819.0,Martin Scorsese
+5820.0,Leathery Old Man
+5821.0,Leathery Old Woman
+5822.0,Climber
+5823.0,Other Orderly
+5824.0,Walther Hotenhoffer
+5825.0,Frat Nerd
+5826.0,Drug Dealer
+5827.0,Old-timey Farmer
+5829.0,Chong
+5830.0,Cheech
+5832.0,Grizabella
+5833.0,ELEANOR
+5834.0,Middle-aged Father
+5835.0,Viking Fan
+5836.0,RETIRED AFRICAN-AMERICAN
+5837.0,2nd Retired Lineman Masseur
+5838.0,FOOTBALL-HATING INTELLECTUAL
+5839.0,Dr. Zander
+5840.0,Gerald
+5841.0,Kareem Abdul-Jabbar
+5842.0,Custodial Employee
+5843.0,Man In Tux
+5844.0,Sommeliers
+5845.0,SHIRLEY TEMPLE-TYPE GIRL
+5846.0,Ewell Freestone
+5848.0,Raymondo
+5849.0,Swami
+5850.0,Cregg Demon
+5851.0,THOUGHT-BUBBLE FLANDERS
+5852.0,Ricky Jay
+5853.0,David Copperfield
+5854.0,Late Wife
+5855.0,Wedding Planner
+5856.0,STEVIE B.
+5857.0,Tushie
+5858.0,THE OCCURRENCE
+5859.0,Guidos
+5860.0,Old Italian Woman
+5861.0,Angela
+5862.0,1970s Grampa
+5863.0,Taffy
+5864.0,Assorted Women
+5865.0,Cyclist
+5866.0,Female Ibs Sufferer
+5867.0,Male Ibs Sufferer
+5868.0,Matrons
+5869.0,Elderly Nancy Drew
+5870.0,Key Man
+5872.0,Angry Female Teacher
+5873.0,Lenny's Face
+5874.0,Skinner's Face
+5875.0,Comic Book Guy's Face
+5876.0,Moe's Face
+5877.0,Wayne
+5878.0,FEDEX-TYPE GUY
+5879.0,Tom Colicchio
+5880.0,Cia Official
+5881.0,Humans
+5882.0,Viktor
+5883.0,Disaster Victim
+5884.0,Viktor's Wife
+5885.0,Young Kim Jong Il
+5886.0,City Slicker
+5887.0,Student Chorus
+5888.0,ELDERLY ENGLISHWOMAN
+5889.0,MRS. KNICKERTWIST
+5890.0,Laid-back Teacher
+5891.0,Young Chalmers
+5892.0,Saloonkeeper
+5893.0,Injured Cast Member
+5894.0,Voice Of God
+5895.0,Avatar Bart
+5896.0,Avatar Jimbo
+5897.0,Avatar Dolph
+5898.0,Avatar Kearney
+5899.0,Avatar Milhouse
+5900.0,Taxi Dragon
+5901.0,KAMALA
+5902.0,Roz
+5905.0,Undertaker
+5906.0,HOWARD JR.
+5907.0,Reps
+5908.0,Miss Wyoming
+5909.0,Robot Maid
+5910.0,Game Developer
+5911.0,Ethiopian Waitress
+5915.0,Foie Greg
+5916.0,Amuse Bruce
+5917.0,Spanish Chef
+5918.0,TONY BOURDAIN
+5919.0,Mario Batali
+5921.0,BRITISH VOICE
+5922.0,Gordon Ramsay
+5923.0,Thug
+5926.0,Young Thug
+5928.0,Paleontologist
+5929.0,Stagehand #1
+5930.0,Stagehand #2
+5931.0,Gang
+5932.0,Neil Gaiman
+5933.0,Slick Publisher
+5934.0,Lackeys
+5936.0,Female Marketing Executive
+5937.0,Male Marketing Executive
+5938.0,Karaoke Operator
+5939.0,Robert Marlowe
+5940.0,Dottie
+5941.0,Regulator
+5942.0,Diversity Kitten
+5943.0,Wheelchair Kitten
+5944.0,Skanky Girl
+5945.0,Fatso
+5946.0,Eunice
+5947.0,Annie Crawford
+5948.0,Young Executive
+5949.0,Woman Executive
+5950.0,Adult Audience
+5951.0,Tick-Tock
+5952.0,Kevin Dillon
+5954.0,Burly Crew Member
+5955.0,JANEANE GAROFOLO
+5956.0,Elderly Principal Skinner
+5957.0,Jiff
+5958.0,Skippy
+5959.0,Adult Milhouse
+5960.0,Zia
+5961.0,Robot Doctor
+5962.0,Guitarist
+5963.0,Holo-book
+5964.0,Maude's Ghost
+5965.0,Ticket Agent
+5966.0,Recorded Announcement
+5967.0,Australian Man
+5968.0,Aged Burns
+5969.0,Adult Kearney
+5970.0,Tree
+5971.0,Handsome Male Android
+5972.0,Delivery Nurse
+5973.0,Adult Ralph
+5974.0,Adult Ralph #2
+5975.0,Adult Ralph #3
+5976.0,Lenny
+5977.0,Carl
+5978.0,Tsa Agent
+5980.0,Tsa Officer
+5981.0,Ethnic Man
+5982.0,Air Marshal
+5983.0,Mystery Man
+5984.0,Cbsbn Executive
+5985.0,Lefty Loony
+5986.0,Female Cbsbn Executive
+5987.0,Chris Christie
+5988.0,James Madison
+5989.0,Other Car's Driver
+5990.0,Fireman #1
+5991.0,Fireman #2
+5992.0,Fireman #3
+5993.0,Male Twin
+5994.0,2nd Male Twin
+5995.0,Mexican Duffman
+5996.0,Bar Rag
+5997.0,Bartholomé
+5998.0,Lise
+5999.0,Marguerite
+6001.0,Homeur
+6002.0,Archbishop Smithers
+6003.0,Le Duc
+6004.0,ARCHBISHOP
+6005.0,Sponge
+6006.0,French Wiggum
+6008.0,Viking Homer
+6009.0,Viking Lenny
+6010.0,Monk #2
+6011.0,Monk #3
+6012.0,Persian Trader
+6013.0,Christian Homer
+6014.0,King Nelson
+6015.0,Discarded Wives
+6016.0,Servant Jimbo
+6017.0,Scheherazade
+6018.0,SCHERAZADE
+6019.0,Nobleman
+6020.0,Pope Julius
+6021.0,Michelangelo
+6024.0,Extra Large Underwear
+6025.0,Jamie
+6026.0,Adam
+6027.0,Guy Driving By
+6028.0,Frida
+6029.0,Jerri
+6030.0,3rd Twin
+6031.0,Pyramus' Father
+6032.0,Thisbe
+6033.0,Parrot
+6034.0,Voice From Tv
+6035.0,Hadley
+6036.0,Pauline Pfeiffer
+6037.0,Marlin
+6038.0,Cloaked Member
+6039.0,HANK WILLIAMS
+6040.0,Shelbyville Announcer
+6041.0,Julian Assange
+6042.0,Paula Paul
+6043.0,Marine
+6044.0,Perky Checkout Lady
+6045.0,Shepard Fairey
+6046.0,Robbie Conal
+6047.0,Kenny Scharf
+6048.0,Pompous Arts Editor
+6050.0,Ron English
+6051.0,Thought Bubble Apu
+6052.0,Store Worker
+6053.0,MUCH-SCARIER DEATH
+6054.0,'Shorts' Bart
+6055.0,'Shorts' Homer
+6056.0,'Shorts' Lisa
+6057.0,'Shorts' Marge
+6058.0,Sideshow Mel Shakespeare
+6059.0,Moes
+6060.0,FLANDERS' MOUTH AND MOUSTACHE
+6061.0,Lang-Soo
+6062.0,Table Of Brunchers
+6063.0,BEAUTIFUL BOY
+6064.0,Robot Catcher
+6065.0,Robot 3rd Baseman
+6066.0,Pointing Robot
+6067.0,Another Robot
+6068.0,Yet Another Robot
+6069.0,Dying Robot
+6070.0,Robot #3
+6072.0,Fishing Robot
+6073.0,Fitness Salesman
+6074.0,Elderly Homer
+6075.0,Elderly Marge
+6076.0,Terrified Man
+6077.0,Jennifer Aniston
+6078.0,Handsome Funny Guy
+6079.0,Shirtless Rugged Man
+6080.0,Kitten
+6081.0,Thought Bubble Jimbo
+6082.0,1-Year-Old Homer
+6083.0,Strange Man
+6084.0,Giant Cat
+6085.0,Check-in Agent
+6086.0,Tough Announcer
+6087.0,Rowan Priddis
+6088.0,Kidzone Rep
+6089.0,Caribbean Boy
+6090.0,Singaporean Girl
+6091.0,80-Year-Old Bart
+6092.0,Elderly Nelson
+6093.0,Skeet Shooter
+6094.0,Captain Svalbard
+6095.0,Norwegian Ensign
+6096.0,Joey Scazzazone
+6098.0,Filipino Steward
+6099.0,Wheelchair Boy
+6100.0,Dave the Lifeguard
+6101.0,Treat Williams
+6102.0,Portuguese Boy
+6103.0,Cruiser
+6104.0,Russian Businessman
+6106.0,German Criminal
+6107.0,Mistress
+6108.0,CAIN
+6109.0,Homer's Reflection
+6110.0,Hufnpuffalus
+6111.0,Drug Lord
+6112.0,DRUG LORD'S WIFE
+6113.0,Feminist Left-handed Woman
+6114.0,Strident Left-handed Man
+6116.0,Embarrassed Man
+6117.0,Christian Teacher
+6118.0,Talking Dog
+6119.0,Older Flanders
+6120.0,College Grad Todd
+6121.0,Sally Scantron Sheet
+6122.0,Peter Pencil
+6123.0,SALLYPETER
+6124.0,Sleazy Sam
+6125.0,Farmwife
+6126.0,Pistons
+6127.0,Lady Gaga
+6128.0,Senior Tsa Agent
+6129.0,Wardrobe Man
+6130.0,Dangling Accountant
+6131.0,SPUCKLER KID
+6132.0,CROWD OW
+6133.0,Voice Chip
+6134.0,Manhole Paparazzo
+6135.0,Egg Bearers
+6136.0,Egg Bearer
+6138.0,Old Man Wellbottom
+6139.0,J.J. Hunsecker
+6140.0,N.Y. Father
+6141.0,N.Y. Mother
+6142.0,Buff Cowboy
+6143.0,New York Cab Driver
+6144.0,Sophisticated Girl
+6145.0,Theater Cashier
+6146.0,New York Guy
+6147.0,Guitar Player
+6148.0,Shakespearean Vendor
+6149.0,Other Audience Members
+6150.0,Unidentified Baldwin
+6151.0,Unidentified Estevez
+6152.0,Hipster Man
+6153.0,Shakespearean Actor
+6154.0,New York Cop
+6155.0,Al Roker
+6158.0,Ethereal Being
+6159.0,2nd Ethereal Being
+6160.0,Ethereal Beings
+6161.0,Little Marge
+6163.0,DEMONS
+6164.0,Mysterious Figure
+6165.0,Corrupt Pope Homer
+6166.0,Fop Homer
+6167.0,Caveman Homer
+6168.0,Egyptian Slave Homer
+6169.0,Jeff Gordon
+6170.0,Evil Wizard
+6171.0,Meredith Milgram
+6173.0,Thought Bubble Dr. Hibbert
+6174.0,THOUGHT BUBBLE BERNICE
+6175.0,Roberto Dinero
+6176.0,ROBERT DINERO
+6177.0,Female Orderly
+6178.0,Male Orderly
+6179.0,Burly Biker
+6180.0,Spiro
+6181.0,YOUNG SPIRO
+6182.0,Marvin Hamlisch
+6183.0,CHANTEUSE
+6184.0,YOUNG RITA
+6185.0,RITA
+6186.0,Jennifer Tilly
+6187.0,Puppet
+6188.0,Dealer Avatar
+6189.0,Elderly Owner
+6190.0,Dan Gillick
+6191.0,Joey the Arsonist
+6192.0,Kenny the Problem
+6193.0,Bulgarian Woman
+6194.0,Giant Grasshopper
+6197.0,Relieved Mom
+6198.0,Crazed Dad
+6199.0,Girl's Mom
+6201.0,Dejected Barfly
+6202.0,Auditor
+6203.0,Pleasant Voice
+6204.0,Distinguished Elderly Voice
+6205.0,7-Year-Old Brockman
+6206.0,Short Man
+6207.0,Upbeat Announcer
+6208.0,Man With Tree Hat
+6209.0,Tree Hoper
+6210.0,Seminar Leader
+6211.0,Donut Manterence
+6212.0,Terence
+6213.0,T-Rex
+6214.0,YO-YO
+6215.0,Tattoo Artist
+6216.0,Nursing Women
+6217.0,Nursing Toddler
+6219.0,Colin Meloy
+6220.0,Pretentious Rat Lover
+6221.0,Futuristic Man
+6222.0,Old-timey Hipster
+6223.0,MyPhone
+6225.0,Villageville Crowd
+6226.0,Electronic Donkey Voice
+6229.0,Toad
+6230.0,Young Herman
+6231.0,12-Year-Old Lou
+6232.0,Miss Viola
+6233.0,Other Dad
+6234.0,Mom With Laser
+6235.0,Moms
+6236.0,Red Dad
+6237.0,Furious Dad
+6238.0,Psycho Dad
+6239.0,Ape Heads
+6240.0,Lloyd
+6241.0,Dr. Eugene Blatz
+6242.0,Overlord
+6243.0,Post-apocalyptic Crowd
+6244.0,Prepper
+6245.0,Zombie Kid
+6246.0,Zombie Dad
+6247.0,MOLEMAN JR.
+6248.0,Jennifer
+6249.0,Angel Skinner
+6250.0,Mrs. Skinner Devil
+6252.0,Wrecking Ball Operator
+6253.0,Bird Wrangler
+6254.0,Mav
+6255.0,Portia
+6256.0,Mav's Dad
+6257.0,Male Gps
+6258.0,Musicologist
+6259.0,Other Musicologist
+6260.0,French-canadian Mountain Man
+6261.0,HILLBILLY M.C.
+6262.0,Barry the Satellite TV Guy
+6263.0,Devon Peacock
+6264.0,SUPERHERO WITH CLAWS
+6265.0,Max Weinberg
+6266.0,Brazilian Man
+6267.0,Brazilian 12-year-old Boy
+6268.0,Melvis
+6269.0,Caricature
+6270.0,Ol' Joe Clabby
+6271.0,Front Desk Man
+6272.0,Kicked-out Husband #1
+6273.0,Kicked-out Husband #2
+6274.0,Robert A. Caro
+6275.0,ALAN RICKMAN
+6276.0,Video Game Woman
+6277.0,Futuristic Computer
+6278.0,Sensitive Female Voice
+6279.0,Hillbilly
+6280.0,Hillbilly #2
+6281.0,Face
+6282.0,Storytime Sue
+6284.0,DUFFMAN VOICE MILHOUSE
+6285.0,Cute Puppet
+6286.0,Bus Vendor
+6287.0,Bus Station Guy
+6288.0,P.R. Person
+6289.0,Macho Narrator
+6290.0,CJ Ramone
+6291.0,Oldsters
+6292.0,Angry Crowd
+6293.0,Glamorous Godfrey
+6296.0,Nerdy Fat Kid
+6297.0,Ms. Cantwell
+6298.0,Nurse Dora
+6300.0,Richard Dawkins Demon
+6301.0,Color Man
+6302.0,Man Stuck Inside
+6303.0,Middle-aged Jasper
+6304.0,Janet Reno
+6305.0,Middle-aged Jewish Man
+6306.0,Justine
+6308.0,Evil Scientist
+6309.0,Superspy
+6310.0,Chef Naziwa
+6311.0,Male Diner
+6312.0,Stella
+6313.0,Stanley Kowalski
+6314.0,Stanley Kowalski Milhouse
+6315.0,School Therapist
+6316.0,Searchy
+6317.0,Brando's Head
+6318.0,KARL MALDEN
+6322.0,Fat Brando
+6323.0,Sex Shop Salesman
+6324.0,Sushi Piece
+6325.0,2nd Sushi Piece
+6326.0,Rev. Hooper
+6328.0,Parishioners
+6329.0,Oogle Driver
+6330.0,Oogle Worker
+6331.0,Warm Female Voice
+6332.0,Male Singers
+6333.0,Ken
+6334.0,Doesn't Like Anything
+6335.0,Cop With A Secret
+6336.0,Sonny Rollins
+6337.0,Man In Van
+6338.0,Princess Diana
+6339.0,Gandhi
+6342.0,Slava
+6343.0,Zhenya
+6344.0,Vigorous Older Man
+6345.0,Justin Bieber
+6346.0,Men In Audience
+6347.0,Male British Announcer
+6348.0,Planet Jackson
+6349.0,French Scientist
+6350.0,Blaise Pascal
+6352.0,Male Icelander
+6353.0,Ingimar
+6355.0,Female Icelander
+6356.0,Wise Old Icelander
+6357.0,Carl's Father
+6358.0,Everyone In Iceland
+6359.0,1-Year-Old Bart
+6360.0,1-Year-Old Nelson
+6361.0,Hippie-looking Guy
+6362.0,Pbs Announcer
+6363.0,Mr. Drake
+6364.0,Polly
+6365.0,Lord Upton
+6366.0,DOWAGER GRANDMUM
+6368.0,800-Pound Homer
+6369.0,Thought Bubble Ben
+6371.0,Booth Worker
+6373.0,Halpern
+6374.0,Official-sounding Voice
+6375.0,Fat In The Hat
+6376.0,Borax
+6378.0,Fighter Pilot #1
+6379.0,Fighter Pilot #2
+6380.0,Legless Wiseguy
+6381.0,Big Mouth
+6382.0,Freaks
+6383.0,Kent Brockman's Thoughts
+6384.0,MR. BURNS.
+6385.0,Lilah
+6386.0,Rachel Maddow
+6387.0,Dexter Colt
+6388.0,newsstand Operator
+6389.0,Siri
+6390.0,Marksman
+6391.0,NANCY SINATRA-TYPE SINGER
+6392.0,MAN ON FIRE
+6393.0,MAN WITH WINGS
+6394.0,WILLIAM CONRAD-STYLE NARRATOR
+6395.0,GRETCHEN
+6396.0,LAMAZE INSTRUCTOR
+6397.0,CALLIOPE
+6399.0,JOY
+6400.0,HOMER JR.
+6401.0,Isabel Gutierrez
+6402.0,Drivers
+6403.0,Pigsty
+6404.0,1st First Grader
+6405.0,2nd First Grader
+6406.0,Walter Mondale
+6407.0,John Kerry
+6408.0,Anderson Cooper
+6409.0,Male Singer
+6410.0,Female Astronaut
+6411.0,Sea Sponge
+6412.0,Squiduardo
+6413.0,Widowfish
+6414.0,President Obama
+6415.0,Aspiring Krustys
+6416.0,Rastafarian Krusty
+6417.0,Jamaican Singers
+6418.0,Itchem
+6419.0,Somber Irish Krusty
+6420.0,Irish Clown Father
+6421.0,Pregnant Irish Girl
+6422.0,IRISH KRUSTY
+6423.0,Krustys
+6424.0,Mexican Krusty
+6425.0,Botswana Krusty
+6428.0,Slavic Man
+6429.0,Midwestern Dad
+6430.0,Midwestern Woman
+6431.0,Boarder
+6432.0,Female Boarder
+6433.0,Out-of-towners
+6434.0,Church Reporter
+6435.0,Female Tourist
+6436.0,Honeymooning Bride
+6437.0,King Winter
+6438.0,Child's Mother
+6439.0,Child's Father
+6440.0,Nasreen
+6441.0,Boarders
+6442.0,Singing Man
+6443.0,British Tourist
+6444.0,Plant Employee #1
+6445.0,Plant Employee #2
+6446.0,The Collider
+6447.0,Altar Boy
+6448.0,Raiders Dad
+6449.0,Altar Boy Usher
+6450.0,Serious Announcer
+6451.0,Paul Rudd
+6452.0,Leslie Mann
+6453.0,Sleazy Executive
+6454.0,Deputy Director Gratman
+6455.0,Young Fbi Agent
+6456.0,Fbi Trooper #1
+6457.0,Fbi Trooper #2
+6458.0,Fbi Trooper #3
+6459.0,Criminal #1
+6460.0,Criminal #2
+6462.0,Criminal #3
+6463.0,Gottfrid
+6464.0,Death Metal Lead Singer
+6465.0,Judd Apatow
+6466.0,SETH ROGEN
+6468.0,Federal Judge
+6469.0,Producer #1
+6470.0,Producer #2
+6471.0,Producer #3
+6472.0,Producer #4
+6473.0,Channing Tatum
+6474.0,GRIM ANNOUNCER
+6475.0,Radioactive Man's Thoughts
+6476.0,The Fracker
+6477.0,Charcoal Briquette
+6478.0,Citizen Solar
+6479.0,Wind Lad
+6480.0,Petroleus Rex
+6481.0,Harlan Ellison
+6482.0,Strawberry
+6483.0,Real Stan Lee
+6484.0,Kumiko
+6485.0,Jim-jam Bonks
+6486.0,Yutaka
+6487.0,Michiko
+6488.0,Bart Snail
+6489.0,Stress Ball
+6490.0,Will Lyman
+6491.0,Anonymous Expert
+6492.0,Glasses
+6493.0,Hershey's Kid
+6494.0,Owl Valentine
+6495.0,Jonesy
+6496.0,Dr. Carlock
+6497.0,Rev. Kartawijaya
+6498.0,Devil Kid
+6499.0,Kid With Lisp
+6500.0,Diggs
+6502.0,Comic Book Guy's Bird
+6503.0,Animated Krusty
+6504.0,Alarmist Narrator
+6505.0,Jenny McCarthy
+6506.0,Monsarno Rep
+6507.0,Researcher
+6509.0,Docent
+6510.0,Worker On Ground
+6511.0,Worker On Ladder
+6512.0,Hibbert's Father
+6513.0,City Health Employee
+6514.0,Old Jewish Man's Late Wife
+6515.0,Uncle Bill
+6516.0,Bingo Caller
+6517.0,Old Man #1
+6518.0,Old Man #2
+6519.0,Mildred
+6520.0,Female Dj
+6521.0,FEMALE D. J.
+6522.0,Gang Member
+6523.0,S.a.t. Prepper #1
+6524.0,S.a.t. Prepper #2
+6526.0,DAWN
+6527.0,Speedo Salesman
+6528.0,Sabine
+6529.0,KLAUS ZIEGLER
+6530.0,Stephen Douglas
+6531.0,Elderly Japanese Man
+6532.0,Ezra
+6533.0,Federation Executive
+6534.0,FEDERATION EXECUTIVE #2
+6535.0,Brazilian Lady
+6536.0,Voice From Tablet
+6537.0,Brazilian Fans
+6538.0,El Divo
+6539.0,ANDRES CANTOR
+6540.0,Spanish Announcer
+6541.0,Antonio
+6542.0,2nd Gambler
+6543.0,Samba Instructor
+6544.0,Man In Robe
+6545.0,Drycleaner Guys
+6546.0,Brazil Fan
+6547.0,German Fan
+6548.0,Older German Man
+6549.0,Brazilians
+6550.0,Softball Player
+6551.0,Body Shop Clerk
+6552.0,Lucas
+6553.0,MARGE 7
+6554.0,Adult Lucas
+6555.0,JERRY
+6556.0,Adult Jenda
+6557.0,DINOSAUR TRAINER
+6558.0,ZOMBIE MILHOUSE
+6559.0,BRUNETTE
+6560.0,Alien Woman
+6561.0,Adult Dolph
+6562.0,CHIEF RALPH
+6563.0,PICARD
+6565.0,SANTA'S LITTLE HYBRID
+6566.0,SELF-DRIVING CAR
+6568.0,Hispanic Guy In Truck
+6569.0,Mrs. Trunch
+6570.0,Haitian Woman
+6571.0,20-something Wife
+6572.0,20-something Husband
+6573.0,12-Year-Old Homer
+6575.0,BRITISH MAN
+6576.0,Booth
+6577.0,Snooty Judge
+6578.0,Cathy
+6579.0,Wallis
+6580.0,WISEGUY BOY
+6581.0,GUS HUEBNER
+6582.0,Tumi
+6583.0,Peter Sagal
+6584.0,Carl Kasell
+6585.0,Minority Whip
+6586.0,Mean Girl
+6587.0,Edwin Moses
+6588.0,Super Milhouse
+6589.0,Lisping Boy
+6590.0,Cassidy The Crocodile
+6591.0,Henrietta Kitten
+6592.0,KRUSTY'S HEAD
+6593.0,JEFF ROSS
+6594.0,SARAH SILVERMAN
+6595.0,RABBIS
+6596.0,RABBI RUDENSTEIN
+6597.0,TEENAGED KRUSTY
+6598.0,CLIVE MERIWETHER
+6599.0,DAVID HYDE PIERCE
+6600.0,NEIL SIMON
+6601.0,MIDDLE-AGED KRUSTY
+6602.0,GERMAN HOUSEKEEPER
+6603.0,RODNEY DANGERFIELD
+6604.0,RESUSCI-ANNIE
+6605.0,CEELO GREEN-TYPE
+6606.0,CAPTAIN BOWDITCH
+6607.0,GITMO
+6608.0,NFL NARRATOR
+6609.0,CAPTAIN BOWDITCHSAILORS
+6610.0,TRUDY ZENGLER
+6611.0,KID DEMON
+6612.0,BULLY DEMON
+6614.0,DEMON GIRL
+6615.0,PRINCIPAL HEAD #2
+6616.0,DEMON TEACHER
+6617.0,JEFFISTOPHELES
+6618.0,JOCK DEMON
+6619.0,HOT STUFF
+6620.0,PRINCIPAL HEAD #1
+6621.0,NOAH WEBSTER
+6623.0,MOOG
+6624.0,WISEGUYS
+6625.0,MOOGLEONARDCARLTONDUM
+6626.0,DUM
+6628.0,PARTYGOER
+6629.0,STANLEY KUBRICK
+6630.0,AL BUNDY
+6631.0,PEG ALIEN
+6632.0,ORIGINAL MARGE
+6633.0,ORIGINAL HOMER
+6634.0,ORIGINAL BART
+6635.0,REGULAR GHOST MARGE
+6636.0,REGULAR GHOST LISA
+6637.0,REGULAR GHOST HOMER
+6638.0,ORIGINAL GHOST MARGE
+6639.0,REGULAR GHOST MARGE ORIGINAL GHOST MARGE
+6640.0,ORIGINAL GHOST BART
+6641.0,ORIGINAL GHOST HOMER
+6642.0,CGI HOMER
+6643.0,CGI DOG
+6646.0,ORIGINAL GHOST LISA
+6647.0,MAXINE LOMBARD
+6648.0,MUTANT CHARLIE
+6649.0,MAXINE
+6650.0,HEDONISMBOT
+6651.0,JUKEBOX RECORD
+6652.0,LEELA
+6653.0,FRY
+6654.0,PROFESSOR FARNSWORTH
+6655.0,HERMES
+6656.0,DR. ZOIDBERG
+6657.0,FRYPROFESSORLEELA
+6658.0,MORBO
+6660.0,BART GOBLINS
+6661.0,SCRUFFY
+6662.0,SPOILED 2-YEAR-OLD
+6663.0,LRRR
+6664.0,NDND
+6665.0,TEACHER IN BACK
+6666.0,MR. LASSEN
+6667.0,DESERT HIPSTER
+6668.0,CUPCAKE MAN
+6669.0,BLAZING GUY VETERAN
+6670.0,HIPSTER WOMAN
+6671.0,TUBA PLAYER
+6672.0,BLAZING GUY HIPSTER
+6673.0,FIRE PRIESTESS
+6674.0,2ND REVELER
+6675.0,MAN IN CENTER OF PRISON
+6676.0,NELSON COMET
+6677.0,KING TOOT
+6678.0,GUITAR CENTRAL EMPLOYEE #1
+6679.0,STIG
+6680.0,SUNGAZER SINGER
+6681.0,NICK DELACOURT
+6682.0,PETER D'ABBRUZIO
+6683.0,SHREDDER STEVENS
+6685.0,SAMMY HAGAR
+6686.0,FREDDY FREEMAN
+6687.0,FORUM ANNOUNCER
+6688.0,COVERCRAFT
+6690.0,GOLDEN ROBOT
+6691.0,KARAOKE MACHINE
+6692.0,WISEGUY VENDOR
+6694.0,NUTCRACKER
+6695.0,SCARECROW
+6696.0,ITALIAN FATHER
+6697.0,WISE ELDERLY ALIEN
+6698.0,PIRATES
+6699.0,MANIC MOUSE
+6700.0,COOL ZONE RECORDING
+6703.0,FLYING SQUIRREL
+6704.0,ALIEN ATTORNEY
+6705.0,BAGPIPER
+6706.0,ALIEN MOM
+6708.0,YOUNG FEMALE CREATURE
+6709.0,INTELLECTUAL ALIEN
+6710.0,ALIEN ANNOUNCER #1
+6711.0,KLAUNAX
+6712.0,SWEET MALE VOICES
+6713.0,GENTLE VOICE
+6714.0,ALIEN MAN
+6715.0,SPACE BROCCOLI
+6716.0,DON BOOKNER
+6717.0,CIRCUS AUDIENCE
+6718.0,FINGERNAIL MAN
+6719.0,SVEN-GOLLY
+6720.0,ELON MUSK
+6721.0,ELON
+6722.0,IMAGINER
+6723.0,YOUNG JEWISH MAN
+6724.0,YOUNG MOLEMAN
+6725.0,TUSCALOOSA PEOPLE
+6726.0,PHARRELL WILLIAMS
+6727.0,PRIDESTERS
+6728.0,ALBERT
+6729.0,LANEY FONTAINE
+6730.0,LADY DUFF
+6731.0,BOOK CLUB MEMBER
+6732.0,OTHER BOOK CLUB MEMBER
+6733.0,HEAD INSPECTOR
+6734.0,SIKH CAB DRIVER
+6735.0,JIM IGNATOWSKI
+6736.0,CHAPIN-LIKE SINGER
+6737.0,HARRY CHAPIN-TYPE SINGER
+6739.0,SMILE
+6740.0,KEMI
+6741.0,PEDICAB DRIVER
+6742.0,SMITHERS' THOUGHTS
+6743.0,AGED MOE
+6744.0,RICHARD BRANSON
+6746.0,COCKTAIL WAITRESSES
+6747.0,SECURITY THUG #1
+6748.0,SECURITY THUG #2
